@@ -30,11 +30,11 @@ For now, the hub points to three categories of notes :
 - [Languages]()
 - [Self Improvement]()
 - [Miscellaneous]()
-- [Raw Notes]()
+- [[daily-notes]]
 
 ## Disclaimer :
 
-The raw notes may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
+The [[daily-notes]] may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
 
 ### If you would like to support me..
 
