@@ -5,5 +5,5 @@
 -- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
 , theme = "brown"
 -- This is used in the "edit" button
-, editUrl = Some "https://github.com/misudashi/system/edit/master/"
+, editUrl = Some "https://github.com/misudashi/system/edit/master/index.md"
 }
