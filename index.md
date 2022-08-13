@@ -1,8 +1,9 @@
 # Misudashi's 2nd Brain
 
-Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain**. (fancy name)
+Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain** (fancy name) !
 
-This is possible because of [neuron](https://neuron.zettel.page/), a powerful tool I have been using since Saturday, 13th of August 2022. [GitHub Pages](https://pages.github.com/) is used in my case to publish my notes.
+This is possible because of [Neuron](https://neuron.zettel.page/), a powerful tool I have been using since 
+*Saturday, 13th of August 2022*. [GitHub Pages](https://pages.github.com/) are used in my case to publish my notes.
 
 ## Why ?
 
@@ -10,7 +11,8 @@ I have been taking notes on various apps, such as *Obsidian, Notion, Apple Notes
 I realized that it would be interesting to share my point of view on some subjects, and to share my knowledge with others, so I decided to create this.
 
 You can view this place as my own personal blog, but at the same time, a place where I share everything I know about the subjects I'm interested in. 
-**If I can make one as happy as I am, then my day is made !**
+
+**If I can make one as happy as I am writing this, then my day is made !**
 
 ## Credits
 
@@ -49,6 +51,6 @@ Finally, if you want to see the rawest notes I will be taking, you can read my [
 
 
 
-*Hope you will enjoy ! 
+*Hope you will enjoy !*
 
-*-Misudashi 三スダッ
+*-Misudashi 三スダッ*
