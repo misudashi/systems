@@ -47,7 +47,7 @@ More seriously, if you don't really know what to do with your money, you can don
 
 ### Daily notes
 
-Finally, if you want to see the rawest notes I will be taking, you can read my [daily notes]().
+Finally, if you want to see the rawest notes I will be taking, you can read my [[daily-notes]].
 
 
 
