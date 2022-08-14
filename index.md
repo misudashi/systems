@@ -3,7 +3,8 @@
 Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain** (fancy name) !
 
 This is possible because of [Neuron](https://neuron.zettel.page/), a powerful tool I have been using since 
-*Saturday, 13th of August 2022*. [GitHub Pages](https://pages.github.com/) are used in my case to publish my notes.
+*Saturday, 13th of August 2022*. 
+[GitHub Pages](https://pages.github.com/) are used in my case to publish my notes.
 
 ## Why ?
 
