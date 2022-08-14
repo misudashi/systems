@@ -4,5 +4,6 @@ The raw notes may contain sensitive and/or controversial topics. They are meant 
 
 ## August :
 
-[[13-08-2022]]
-[[14-08-2022]]
+- [[13-08-2022]]
+
+- [[14-08-2022]]
