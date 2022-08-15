@@ -7,10 +7,10 @@ The raw notes may contain sensitive and/or controversial topics. They are meant 
 Also, I originally thought of that as Daily Notes. That's why you have 3 consecutive Reviews, and that's also why they're a bit messy.
 
 ## Latest Review :
-[[2022-08-15]]
+[[2022-08-15-2022-08-21First-Week-]] (I'm working on it)
 
 ## First Review :
-[[2022-08-13]]
+[[2022-08-15-2022-08-21First-Week-]]
 
 ## All Reviews
 ### 2022
