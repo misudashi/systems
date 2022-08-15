@@ -29,7 +29,7 @@ If you are trying to get more knowledge about a specific topic, I recommend taki
 
 For now, the hub points to three categories of notes :
 - [Languages]()
-- [Self Improvement]()
+- [[a3]]
 - [Miscellaneous]()
 - [[daily-notes]]
 
