@@ -17,7 +17,9 @@ Also, I originally thought of that as Daily Notes. That's why you have 3 consecu
 ### August :
 
 [[2022-08-15]]
+
 [[2022-08-14]]
+
 [[2022-08-13]]
 
 ## Links :
