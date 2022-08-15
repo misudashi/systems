@@ -49,9 +49,11 @@ I do not accept donations because running this website is free, and I do not wri
 More seriously, if you don't really know what to do with your money, you can donate to [**charities that matter to me**](https://www.google.com/search?q=I+want+to+donate+money+to+help+cancer+research.&oq=I+want+to+donate+money+to+help+cancer+research.&aqs=chrome..69i57j69i64.17103j0j9&sourceid=chrome&ie=UTF-8) *(thank you !)*
 
 
-### Daily notes
+### Weekly Reviews
 
 Finally, if you want to see the rawest notes I will be taking, you can read my [[weekly-reviews]].
+
+I will essentially be talking about the Japanese content I consume to try and get better at it, but sometimes some thoughts on more general topics may come too.
 
 
 
