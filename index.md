@@ -31,9 +31,9 @@ If you are trying to get more knowledge about a specific topic, I recommend taki
 ## HUB
 
 For now, the hub points to 4 different categories :
-- [[xoONhOSNljW6dPe]]
-- [[0A4DB78GrjluGaykZKku]]
-- [[rXiJihMpx]]
+- [[H-xoONhOSNlj]]
+- [[H-0A4DB78Grj]]
+- [[H-orXiJihMpx]]
 - [[weekly-reviews]]
 
 ## Disclaimer :
