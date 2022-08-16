@@ -1,4 +1,4 @@
-# Misudashi's System
+# Misudashi's Systems
 
 Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain** *(fancy name)*
 
