@@ -48,7 +48,7 @@ The greatest thing you can do to support me is to buy yourself a coffee.
 
 I do not accept donations because running this website is free, and I do not write the content I post here to be part of a business.
 
-In addition to that, this whole thing isn't my idea, but it was inspired by [Morg](https://morg/systems)
+In addition to that, this whole thing isn't my idea, but it was inspired by [Morg](https://morg.systems)
 
 More seriously, if you don't really know what to do with your money, you can donate to [**charities that matter to me**](https://www.google.com/search?q=I+want+to+donate+money+to+help+cancer+research.&oq=I+want+to+donate+money+to+help+cancer+research.&aqs=chrome..69i57j69i64.17103j0j9&sourceid=chrome&ie=UTF-8) *(thank you !)*
 
