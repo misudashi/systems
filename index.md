@@ -31,14 +31,14 @@ If you are trying to get more knowledge about a specific topic, I recommend taki
 ## HUB
 
 For now, the hub points to 4 different categories :
-- [[H-xoONhOSNlj]]
-- [[H-0A4DB78Grj]]
-- [[H-orXiJihMpx]]
-- [[weekly-reviews]]
+- [[H-xoONhOSNlj]]#
+- [[H-0A4DB78Grj]]#
+- [[H-orXiJihMpx]]#
+- [[weekly-reviews]]#
 
 ## Disclaimer :
 
-The [[weekly-reviews]] may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
+The [[weekly-reviews]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
 
 ### If you would like to support me..
 
@@ -51,7 +51,7 @@ More seriously, if you don't really know what to do with your money, you can don
 
 ### Weekly Reviews
 
-Finally, if you want to see the rawest notes I will be taking, you can read my [[weekly-reviews]].
+Finally, if you want to see the rawest notes I will be taking, you can read my [[weekly-reviews]]#.
 
 I will essentially be talking about the Japanese content I consume to try and get better at it, but sometimes some thoughts on more general topics may come too.
 
