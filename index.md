@@ -2,7 +2,7 @@
 
 Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain** *(fancy name)*
 
-I will be posting here my point of view on different topics, as well as tutorials, and for the most curious, weekly reviews on literally anything I'm working on.
+I will be posting here my point of view on different topics, some articles, and weekly reviews mainly about my Japanese learning journey.
 
 ## Why ?
 
@@ -10,7 +10,7 @@ I have been taking notes on various apps, such as *Open office, then Obsidian, N
 
 I realized that it would be interesting to share my point of view on some subjects, and to share my knowledge with others, so I decided to create this.
 
-You can view this place as my own personal blog, but at the same time, a place where I share everything I know about the subjects I'm interested in. 
+You can view this place as my own personal blog, but at the same time, a place where I share my knowledge to others, for free.
 
 **If you learn anything while browsing this website, then my day is made.**
 
@@ -24,16 +24,18 @@ To publish my notes, I use [GH Pages](https://pages.github.com/).
 
 ## How to properly browse this site
 
-If you are simply curious about what I've been thinking or doing lately, you can randomly browse articles through [links](https://www.youtube.com/watch?v=dQw4w9WgXcQ) you will find on this page.
+If you just discovered this website, and you are simply curious about what it is all about, I would suggest to click random [links](https://www.youtube.com/watch?v=dQw4w9WgXcQ) that you will find.
+
+For those who are familiar with the Zettelkasten method, and more generally note-taking, you will probably find what you are looking for in the [Impulse](https://misudashi.github.io/systems/impulse) section created by Neutron.
 
 If you are trying to get more knowledge about a specific topic, I recommend taking a look at the **HUB**, where you will be able to browse through my notes & articles with more controle.
 
 ## HUB
 
 For now, the hub points to 4 different categories :
-- [[H-xoONhOSNlj]]#
+- [[H-xoONhOSNlj]]# *nothing in there yet !*
 - [[H-0A4DB78Grj]]#
-- [[H-orXiJihMpx]]#
+- [[H-orXiJihMpx]]# *nothing here either !*
 - [[weekly-reviews]]#
 
 ## Disclaimer :
@@ -45,6 +47,8 @@ The [[weekly-reviews]]# may contain sensitive and/or controversial topics. They 
 The greatest thing you can do to support me is to buy yourself a coffee. 
 
 I do not accept donations because running this website is free, and I do not write the content I post here to be part of a business.
+
+In addition to that, this whole thing isn't my idea, but it was inspired by [Morg](mor)
 
 More seriously, if you don't really know what to do with your money, you can donate to [**charities that matter to me**](https://www.google.com/search?q=I+want+to+donate+money+to+help+cancer+research.&oq=I+want+to+donate+money+to+help+cancer+research.&aqs=chrome..69i57j69i64.17103j0j9&sourceid=chrome&ie=UTF-8) *(thank you !)*
 
