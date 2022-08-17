@@ -1,4 +1,4 @@
-# Miscellaneous HUB
+# Raw Notes HUB
 
 ## Links :
 [[index]]

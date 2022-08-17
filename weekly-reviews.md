@@ -2,15 +2,15 @@
 
 I will be mainly doing Japanese Reports in these reviews, but they may also contain pieces of articles I am currently writing, or my thoughts on more precise topics. 
 
-The raw notes may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
-
 Also, I originally thought of that as Daily Notes. That's why you have 3 consecutive Reviews, and that's also why they're a bit messy.
 
+If this is not what you're looking for, you may be looking for my [[weekly-business-report]]
+
 ## Current Review :
-[[2022-08-15-2022-08-21]]#
+[[WR-2022-08-15-2022-08-21]]#
 
 ## First Review :
-[[2022-08-15-2022-08-21]]#
+[[WR-2022-08-15-2022-08-21]]#
 
 ## All Reviews
 ### 2022
