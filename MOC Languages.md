@@ -1,4 +1,0 @@
-# Languages HUB
-
-## Links :
-[[index]]

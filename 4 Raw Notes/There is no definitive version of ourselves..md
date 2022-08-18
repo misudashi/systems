@@ -1,4 +1,4 @@
-# [French] - There is no definitive version of ourselves.
+# There is no definitive version of ourselves.
 
 [this needs to be translated !]
 # Il n'y a pas de vraie version de nous-même
