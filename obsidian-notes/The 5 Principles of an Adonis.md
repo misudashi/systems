@@ -1,13 +1,4 @@
-# Meta-données
-
-MOC : 
-Source(s) : Hamza
-Auteur : Erwan SILLON
-Liens : 
-Tags:
-Date : 2022-07-24
-
-# The 5 Principles of an Adonis
+# The 5 principles of the Superior man
 
 ### 1. Discipline 
 - The most important virtue of all, without this virtue all self improvement is meaningless “Do the hard work especially when you don’t feel like it” 
@@ -40,7 +31,7 @@ Date : 2022-07-24
 - You have to be grateful with your current position in life, as only then will you continue to progress 
 
 ### 5. Leadership
-- Once you have cultivated the 4 other qualities of adonissss, it is now time to teach this to other people. 
+- Once you have cultivated the 4 other qualities, it is now time to teach this to other people. 
 - To further you own growth and that of your community you must begin to teach more men these virtues. 
 - it’s a lonely life if we take this path alone. We must bring others along to also take part in this journey 
 - Strong men will be rewarded

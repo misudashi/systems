@@ -1,12 +1,6 @@
-[French] - There is no definitive version of ourselves.
+# [French] - There is no definitive version of ourselves.
 
-MOC : [[MOC Autres Ressources]]
-Source(s) : Get Advice with Adonis Buddhist Monk (YouTube)
-Auteur : Erwan SILLON
-Liens : 
-Tags:
-Date : 2022-07-20
-
+[this needs to be translated !]
 # Il n'y a pas de vraie version de nous-même
 
 Monk nous explique que la "vraie version définitive" de nous-mêmes, celle avec laquelle nous sommes nés et que nous devrions suivre n'existe pas.

@@ -1,13 +1,6 @@
-# Meta-données
+# The Zettelkasten Method
 
-MOC : [[MOC Productivité]]
-Source(s) : Eliott Meunier - Atomic Thinking
-Auteur : Erwan SILLON
-Tags : #permanent
-Date : 2022-07-19
-
-# Méthode de déconstruction de Zettelkasten
-
+[This needs to be translated !]
 ## Description
 
 Cette méthode vise à déconstruire une prise de notes, par exemple d'un livre ou d'un article en plusieurs concepts.

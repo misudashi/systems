@@ -1,10 +1,5 @@
-# Meta-données
-
-MOC : [[MOC Productivité]]
-Source(s) : Wikipedia
-Auteur : *Inconnu*
-Tags : #permanent
-Date : 2022-07-19
+# La Simplexité
+[This needs to be translated !]
 
 La **simplexité** est _l’art de rendre simples, lisibles, compréhensibles les choses complexes_. C'est une notion émergente et un domaine d'étude nouveau en systèmique, ingénierie et neurosciences.
 

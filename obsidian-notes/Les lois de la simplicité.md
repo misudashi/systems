@@ -1,10 +1,6 @@
-# Meta-données
+# The Laws of Simplicity
 
-MOC : [[MOC Productivité]] 
-Source(s) : /
-Auteur : Erwan SILLON
-Tags : #permanent
-Date : 2022-07-19
+[This needs to be translated !]
 
 # Les lois de la simplicité
 *Il y a dix lois de la simplicité, ainsi que trois clés d'après John Maeda :*
