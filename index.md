@@ -34,12 +34,11 @@ If you are trying to get more knowledge about a specific topic, I recommend taki
 
 ## HUB
 
-For now, the hub points to 5 different categories :
+For now, the hub points to 4 different categories :
 - [[MOC Languages]]# *nothing in there yet !*
 - [[MOC Self Improvement]]#
 - [[MOC Notes]]# *nothing here either !*
 - [[MOC Weekly Japanese Reviews]]#
-- [[MOC Weekly Business Reports]]#
 
 ## Disclaimer :
 
