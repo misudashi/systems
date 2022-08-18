@@ -18,3 +18,7 @@ I think this can be applied in lots of different domains in life, but one especi
 
 This will activate creativity, and it will allow us to actually make progress on climate change. Instead of having panicked, and useless people everywhere, there will be people willing to help about this cause, with the hope that they will live in a green paradise if they do.
 
+## Thoughts
+
+I think this is a really interesting way of convincing people. It is also pretty enjoyable, because you give hope and dreams to people, while solving their problems. The only issue I have with this is that if you give too much hope to someone, they may be sad finding that things are not as they expected.
+For instance, when your friend realizes no one even noticed that he changed socks, he may end up disappointed. You have to set realistic hopes to people in order to have them satisfied at the end of the day.
