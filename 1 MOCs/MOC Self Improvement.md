@@ -5,4 +5,4 @@
 - [[A-The 5 Principles of the Superior man]]#
 
 ## Links :
-[[index]]
+- [[index]]

@@ -7,20 +7,18 @@ Also, I originally thought of that as Daily Notes. That's why you have 3 consecu
 If this is not what you're looking for, you may be looking for my [[MOC Weekly Business Reports]]
 
 ## Current Review :
-[[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
+- [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
 
 ## First Review :
-[[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
+- [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
 
 ## All Reviews
 ### 2022
 ### August :
-
-[[2022-08-15]]#
-
-[[2022-08-14]]#
-
-[[2022-08-13]]#
+- [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]
+- [[2022-08-15]]#
+- [[2022-08-14]]#
+- [[2022-08-13]]#
 
 ## Links :
-[[index]]
+- [[index]]

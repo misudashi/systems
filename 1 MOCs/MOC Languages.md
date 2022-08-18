@@ -3,9 +3,9 @@
 Here, you can view every article I write about any language.
 
 ## Articles :
-*none*
+- 📌 **Pinned** ; [[MOC Weekly Japanese Reviews]]
 ## Others :
-[[Japanese Ressources Logging]]#
+- [[Japanese Ressources Logging]]#
 
 ## Links :
-[[index]]
+- [[index]]

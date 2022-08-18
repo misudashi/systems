@@ -1,4 +1,4 @@
-# WR - 2022-08-15  - 2022-08-21 (First Week)
+# WR1 - 2022-08-15  - 2022-08-21
 
 So that's it ! Here is the first week of my journey on learning Japanese. I already have some *weak weak* basics : I used Duolingo to learn Kana. I have a Anki Mining Deck set up, and I learned +- how to use it. I will be first learning basic Grammar using [Sakubi's Guide](https://sakubi.neocities.org/#) on the topic. When I feel like it is not enough anymore, I will switch on Tae Kim's guide. On the vocabulary part, I'm learning **a lot** everytime I read anything online, pretty much. I also watched the Pitch Tone basic introduction recommended by [Morg](https://morgs.systems).
 
@@ -46,3 +46,13 @@ And finally, when you want to use both at the same time, so if you want to say s
 [Here](https://cdn.discordapp.com/attachments/945027080037498890/1009701618251481098/unknown.png) is a small summary of this chapter.
 
 For now I'll be trying to do the exercises that you can see [here](https://guidetojapanese.org/learn/grammar/stateofbeing_ex) (4)
+
+## Anime
+
+I just started watching Jojo's to try and catch some cool words. I see that more like a fun way to passively, slightly improve my Japanese. I think it's a great anime to be honest, although I'm only at the beginning. I had already started it a few months ago, but after my first ever dopamine detox, I kind of forgot about it. I think now is a great time to start again, as Japanese kind of gives me an excuse too. I usually don't watch more than 2 episodes at once because I get "bored" easily. It's not that Jojo's is boring, but I don't really like just sitting passively and consuming content without thinking or anything for too long.
+
+Tomorrow, I'm going to start the 2nd part, with Joseph. I hope it will be as good as the first one, but to be honest, it sounds great ! I'll write more on that when I get further into the story.
+
+## Links
+- Previous Japanese Review : *None, this is the first one.*
+- Next Japanese Review : *Not available yet. Stay Tuned !*
