@@ -4,6 +4,7 @@
 - https://www.youtube.com/watch?v=8c7PcR2uMyI *(french)*
 - [[Switch]]
 
+## Note
 While it can sometimes be a good idea to use the negative emotions to convince someone to do something, it can have some devastating effects.
 
 For instance, if a company is about to go bankrupt, it may be a good idea to use the negative emotions on the CEO to convince him to take a decision that goes in your way. In this case, making him visualising his cherished company falling, his employees being jobless, him losing money, can have a real emotional impact, and can trigger a situation where he seeks help, which you will bring to him.
