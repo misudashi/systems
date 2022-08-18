@@ -4,7 +4,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 
 
 ## Notes :
-- [[A-The Bright Spot]]
+- [[A-The Bright Spot]]#
 ## Raw Notes :
 Here, you can view my rawest notes. Some may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
 

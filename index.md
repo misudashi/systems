@@ -37,13 +37,13 @@ If you are trying to get more knowledge about a specific topic, I recommend taki
 For now, the hub points to 5 different categories :
 - [[MOC Languages]]# *nothing in there yet !*
 - [[MOC Self Improvement]]#
-- [[MOC Raw Notes]]# *nothing here either !*
+- [[MOC Notes]]# *nothing here either !*
 - [[MOC Weekly Japanese Reviews]]#
 - [[MOC Weekly Business Reports]]#
 
 ## Disclaimer :
 
-The [[MOC Raw Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
+The [[MOC Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
 
 ### If you would like to support me..
 
