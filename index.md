@@ -22,6 +22,8 @@ This is possible because of [Neuron](https://neuron.zettel.page/), a powerful to
 
 To publish my notes, I use [GH Pages](https://pages.github.com/).
 
+Finally, I use [Obsidian](https://obsidian.md/) to edit them.
+
 ## How to properly browse this site
 
 If you just discovered this website, and you are simply curious about what it is all about, I would suggest to click random [links](https://www.youtube.com/watch?v=dQw4w9WgXcQ) that you will find.

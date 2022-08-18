@@ -13,7 +13,7 @@ Date : 2022-07-24
 - The most important virtue of all, without this virtue all self improvement is meaningless “Do the hard work especially when you don’t feel like it” 
 - This quote is to be taken quite Literally if you don’t feel like doing something then there is actually more reason to do it. This will create an unbelievable amount of discipline. 
 - For example if you wake up feeling horrible, then there is more reason to get out of bed to build the skill of discipline 
-- Discipline helps builds mental and physical strength which is crucial to our masculine/adonisss energy 
+- Discipline helps builds mental and physical strength which is crucial to our winner energy 
 - The Gym is a crucial area to build masculine energy and mental strength 
 
 ### 2. Humility 

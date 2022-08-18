@@ -1,6 +1,6 @@
 # Self Improvement HUB
 
-- [[article-the-benefits-of-meditation]]#
+- [[A-The Benefits Of Meditation]]#
 
 ## Links :
 [[index]]

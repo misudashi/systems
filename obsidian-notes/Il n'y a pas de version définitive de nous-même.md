@@ -1,4 +1,4 @@
-# Meta-données
+[French] - There is no definitive version of ourselves.
 
 MOC : [[MOC Autres Ressources]]
 Source(s) : Get Advice with Adonis Buddhist Monk (YouTube)
