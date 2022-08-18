@@ -1,5 +1,7 @@
 # Misudashi's Systems
 
+*I AM CURRENTLY NOT ABLE TO MODIFY ANYTHING ON THIS WEBSITE UNTIL THE END OF THIS MONTH (HOLIDAY).*
+
 Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain** *(fancy name)*
 
 I will be posting here my point of view on different topics, some articles, and weekly reviews mainly about my Japanese learning journey.

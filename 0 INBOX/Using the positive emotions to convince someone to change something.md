@@ -2,7 +2,7 @@
 
 ## Sources :
 - https://www.youtube.com/watch?v=8c7PcR2uMyI *(french)*
-- [[Switch]]
+- Switch by Chip Heath and Dan Heath
 
 ## Note
 While it can sometimes be a good idea to use the negative emotions to convince someone to do something, it can have some devastating effects.
