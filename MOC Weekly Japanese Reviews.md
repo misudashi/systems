@@ -1,16 +1,16 @@
-# Weekly Reviews (WR)
+# Weekly Japanese Reviews (WJR)
 
 I will be mainly doing Japanese Reports in these reviews, but they may also contain pieces of articles I am currently writing, or my thoughts on more precise topics. 
 
 Also, I originally thought of that as Daily Notes. That's why you have 3 consecutive Reviews, and that's also why they're a bit messy.
 
-If this is not what you're looking for, you may be looking for my [[weekly-business-report]]
+If this is not what you're looking for, you may be looking for my [[MOC Weekly Business Reports]]
 
 ## Current Review :
-[[WR-2022-08-15-2022-08-21]]#
+[[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
 
 ## First Review :
-[[WR-2022-08-15-2022-08-21]]#
+[[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
 
 ## All Reviews
 ### 2022

@@ -33,15 +33,15 @@ If you are trying to get more knowledge about a specific topic, I recommend taki
 ## HUB
 
 For now, the hub points to 5 different categories :
-- [[H-xoONhOSNlj]]# *nothing in there yet !*
-- [[H-0A4DB78Grj]]#
-- [[H-orXiJihMpx]]# *nothing here either !*
-- [[weekly-reviews]]#
-- [[weekly-business-report]]#
+- [[MOC Languages]]# *nothing in there yet !*
+- [[MOC Self Improvement]]#
+- [[MOC Raw Notes]]# *nothing here either !*
+- [[MOC Weekly Japanese Reviews]]#
+- [[MOC Weekly Business Reports]]#
 
 ## Disclaimer :
 
-The [[H-orXiJihMpx]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
+The [[MOC Raw Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
 
 ### If you would like to support me..
 
@@ -58,9 +58,9 @@ More seriously, if you don't really know what to do with your money, you can don
 
 I am doing two different weekly reports : 
 
-WR, which are about the Japanese content I consume during my immersion. You can view a list of them here: [[weekly-reviews]]#.
+WR, which are about the Japanese content I consume during my immersion. You can view a list of them here: [[MOC Weekly Japanese Reviews]]#.
 
-WBR, which essentially are my weekly business reports, so I can keep track of how fast my projects evolve. You can view a list of them here : [[weekly-business-report]]#.
+WBR, which essentially are my weekly business reports, so I can keep track of how fast my projects evolve. You can view a list of them here : [[MOC Weekly Business Reports]]#.
 
 
 

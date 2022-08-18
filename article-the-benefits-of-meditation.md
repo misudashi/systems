@@ -1,4 +1,4 @@
-# Why every teenager should meditate 5 minutes every day for the rest of their life.
+# The benefits of Meditation
 
 Greetings everyone, Misudashi here. In this article, we will be learning about the large topic of *Meditation*.
 **Please note that** I am not a professional, and I would be very pleased to be corrected by whoever may find mistakes, or someone who has things they would've liked to be added to this article. 
@@ -6,6 +6,7 @@ Greetings everyone, Misudashi here. In this article, we will be learning about t
 You can contact me by e-mail using `misudashi at yahoo dot com`.
 
 Through this page, I will be talking about my personal experience on meditation as a teenager, the scientific benefits behind it, how to start your journey on meditation. I will be starting by commenting on the stereotypes you may hear while starting to meditate.
+
 ### **Summary**
 
 - **The stereotypes about meditation and why you shouldn't listen to them**
@@ -25,13 +26,13 @@ I would like to share a thought I had about this problem recently : You may have
 **People like events. Not process**.
  The event is what you will reach once the process is done. It's the reward. The event is having a better mental health. The process is meditating. 
 
-Another "argument" against meditating is that when you say "Oh, yeah, I do meditate.", people will see you as a Buddhist Monk. Some may even be scared that meditating will "convert" them to Buddhism. That's not the case. Meditating isn't sticked to religions, and it is perfectly fine to meditate if you are not a Buddhist. As a matter of fact, literally anyone could *and should* meditate. I know a lot of muslims, christians, atheists, buddhists, that meditate daily. 
+Another "argument" against meditating is that when you say "Oh, yeah, I do meditate.", people will see you as a Buddhist Monk. Some may even be scared that meditating will "convert" them to Buddhism. That's not the case. Meditating isn't sticked to religions, and it is perfectly fine to meditate if you are not a Buddhist. As a matter of fact, literally anyone could *and should* meditate. I know a lot of Muslims, Christians, Atheists, Buddhists, that meditate daily. 
 
 ### 2: Why you should start meditating
 
 There are very few downsides to meditation. The ratio pros/cons is insane. Literally 5 minutes per day. 5 minutes is all it takes to enjoy the benefits listed below.
 
-*The benefits of meditation I, and other people from the [[H-0A4DB78Grj]] community are, but are not limited to:*
+*The benefits of meditation I, and other people from the [[MOC Self Improvement]] community are, but are not limited to:*
 
 - Being able to handle and manage stress better
 - Increasing self awareness

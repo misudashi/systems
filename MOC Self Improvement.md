@@ -1,6 +1,6 @@
 # Self Improvement HUB
 
-- [[A-Q6UcBh0Kbi]]#
+- [[article-the-benefits-of-meditation]]#
 
 ## Links :
 [[index]]
