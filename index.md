@@ -63,9 +63,6 @@ I am doing two different weekly reports :
 
 WR, which are about the Japanese content I consume during my immersion. You can view a list of them here: [[MOC Weekly Japanese Reviews]]#.
 
-WBR, which essentially are my weekly business reports, so I can keep track of how fast my projects evolve. You can view a list of them here : [[MOC Weekly Business Reports]]#.
-
-
 
 
 *Hope you will enjoy !*
