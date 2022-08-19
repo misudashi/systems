@@ -37,14 +37,14 @@ If you are trying to get more knowledge about a specific topic, I recommend taki
 ## HUB
 
 For now, the hub points to 4 different categories :
-- [[MOC Languages]]# *nothing in there yet !*
+- [[MOC Languages]]# 
 - [[MOC Self Improvement]]#
-- [[MOC Notes]]# *nothing here either !*
+- [[MOC Notes]]# 
 - [[MOC Weekly Japanese Reviews]]#
 
 ## Disclaimer :
 
-The [[MOC Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
+The Raw [[MOC Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
 
 ### If you would like to support me..
 
@@ -59,9 +59,9 @@ More seriously, if you don't really know what to do with your money, you can don
 
 ### Weekly Reviews
 
-I am doing two different weekly reports : 
 
-WR, which are about the Japanese content I consume during my immersion. You can view a list of them here: [[MOC Weekly Japanese Reviews]]#.
+
+The WJR are about the Japanese content I consume during my immersion. You can view a list of them here: [[MOC Weekly Japanese Reviews]]#.
 
 
 
