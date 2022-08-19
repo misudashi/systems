@@ -4,7 +4,7 @@ I will be mainly doing Japanese Reports in these reviews, but they may also cont
 
 Also, I originally thought of that as Daily Notes. That's why you have 3 consecutive Reviews, and that's also why they're a bit messy.
 
-If this is not what you're looking for, you may be looking for my [[MOC Weekly Business Reports]]
+
 
 ## Current Review :
 - [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
