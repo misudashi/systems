@@ -12,6 +12,7 @@ Here, you can view my rawest notes. Some may contain sensitive and/or controvers
 - [[The Laws of Simplicity]]#
 - [[The Zettelkasten Method]]#
 - [[Simplexité]]#
+- [[Using the positive emotions to convince someone to change something]]#
 
 ## Links :
 - [[index]]
