@@ -6,19 +6,19 @@ Also, I originally thought of that as Daily Notes. That's why you have 3 consecu
 
 
 
-## Current Review :
+## 📌 Current Review :
 - [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
 
-## First Review :
+### First Review :
 - [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
 
-## All Reviews
-### 2022
-### August :
+### All Reviews
+#### 2022
+#### August :
 - [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]
 - [[2022-08-15]]#
 - [[2022-08-14]]#
 - [[2022-08-13]]#
 
-## Links :
+###### Links :
 - [[index]]

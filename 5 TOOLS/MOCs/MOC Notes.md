@@ -5,21 +5,14 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 
 ## Notes :
 - [[A-The Bright Spot]]#
-- [[A-The 5 Principles of the Superior man]]#
-- [[A-The Benefits Of Meditation]]#
-- [[A-Whats my added value]]#
 - [[A-Using the positive emotions to convince someone to change something]]#
-- [[A-To give is to live]]#
 - [[A-Thoughts on todays education system]]#
-- [[A-Thoughts on failure]]#
 - [[A-The forgetting Curve]]#
 - [[A-The Ebbinghaus Curve]]#
 - [[A-The 80-20 rule]]#
 - [[A-Socrates 3 Filters for Information]]#
-- [[A-Parkinsons Law]]#
 - [[A-Noting Steps]]#
 - [[A-Newtons First Law]]#
-- [[A-Measuring Productivity]]#
 - [[A-Galls Law]]#
 
 
@@ -31,12 +24,7 @@ Here, you can view my rawest notes. Some may contain sensitive and/or controvers
 - [[R-The Zettelkasten Method]]#
 - [[R-Simplexité]]#
 - [[R-The importance of authenticity]]#
-- [[R-Stoicism on negative thoughts]]#
-- [[R-Stoicism on bullying]]#
-- [[R-Stoicism diet]]#
 - [[R-Random Thoughts]]#
-- [[R-Minimalism]]#
-- [[R-Meditations rise]]#
 
 ## Links :
 - [[index]]

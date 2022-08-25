@@ -7,7 +7,7 @@
 - [[A-Thoughts on failure]]#
 - [[A-Measuring Productivity]]#
 - [[A-Parkinsons Law]]#
-- 
+
 
 ## Links :
 - [[index]]
