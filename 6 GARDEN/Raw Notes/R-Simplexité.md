@@ -8,3 +8,5 @@ De même que _complexe_ ne doit pas être confondu avec _compliqué_, _simpl
 Une « chose simplexe » est une « chose complexe dont on a déconstruit la complexité que l'on sait expliquer de manière simple ».
 
 Rendre « simplexe un objet artificiel » est un « processus d'ingénierie complexe consistant à rendre simple et épuré un ensemble puissant de fonctionnalités ».
+
+- [[index]]

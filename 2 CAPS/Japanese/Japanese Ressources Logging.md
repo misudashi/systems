@@ -50,3 +50,6 @@ Here will be listed all the ressources I will be using to learn Japanese.
 - https://medium.com/the-language-learning-hub/duolingo-is-the-most-dangerous-app-for-untrained-language-learners-678781bd8aac
 - https://www.youtube.com/watch?v=IFKLj2-LVWw&t=0s
 
+###### Links:
+- [[index]]
+- [[MOC Weekly Japanese Reviews]]

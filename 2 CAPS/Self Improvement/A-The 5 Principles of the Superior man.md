@@ -35,3 +35,7 @@
 - To further you own growth and that of your community you must begin to teach more men these virtues. 
 - it’s a lonely life if we take this path alone. We must bring others along to also take part in this journey 
 - Strong men will be rewarded
+
+###### Links :
+- [[index]]
+- [[MOC Self Improvement]]

@@ -23,3 +23,7 @@ This will activate creativity, and it will allow us to actually make progress on
 
 I think this is a really interesting way of convincing people. It is also pretty enjoyable, because you give hope and dreams to people, while solving their problems. The only issue I have with this is that if you give too much hope to someone, they may be sad finding that things are not as they expected.
 For instance, when your friend realizes no one even noticed that he changed socks, he may end up disappointed. You have to set realistic hopes to people in order to have them satisfied at the end of the day.
+
+###### Links:
+- [[index]]
+- [[The Cognitive Theory]]

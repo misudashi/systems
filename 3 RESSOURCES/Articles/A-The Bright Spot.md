@@ -36,3 +36,6 @@ Bingo ! What did you do that you didn't do the other days ? Did you scroll less 
 Then try to eat a salad tonight, and see what happens !
 
 As you understand, this concept tells you that instead of focusing on things that make the situation you want to change a bad situation, ask yourself, when possible, when it transformed into a good situation, and why. Then, try to replicate this, so your bad situation transforms into a good one.
+
+###### Links;
+- [[index]]

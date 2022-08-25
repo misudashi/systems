@@ -54,5 +54,6 @@ I just started watching Jojo's to try and catch some cool words. I see that more
 Tomorrow, I'm going to start the 2nd part, with Joseph. I hope it will be as good as the first one, but to be honest, it sounds great ! I'll write more on that when I get further into the story.
 
 ## Links
+- [[index]]
 - Previous Japanese Review : *None, this is the first one.*
 - Next Japanese Review : *Not available yet. Stay Tuned !*

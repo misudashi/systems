@@ -41,3 +41,6 @@ Sun Tzu renverse également son idée de la stratégie. Il affirme que vous deve
 [L'influence morale en temps de guerre](obsidian://open?vault=Erwan%20SILLON&file=3%20RESSOURCES%2FL'influence%20morale%20en%20temps%20de%20Guerre)
 [L'importance de la météo et du terrain en temps de Guerre](obsidian://open?vault=Erwan%20SILLON&file=3%20RESSOURCES%2FL'importance%20de%20la%20m%C3%A9t%C3%A9o%20et%20du%20terrain%20en%20temps%20de%20Guerre)
 [Le commandement et la Doctrine de guerre vus par Sun Tzu](obsidian://open?vault=Erwan%20SILLON&file=3%20RESSOURCES%2FLe%20commandement%20et%20la%20Doctrine%20de%20guerre%20vus%20par%20Sun%20Tzu)
+
+###### Links:
+[[index]]

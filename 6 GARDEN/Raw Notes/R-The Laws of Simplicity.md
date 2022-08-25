@@ -30,3 +30,6 @@
 - 1) *Au loin*. Plus semble moins si l'on s'en tient éloigné, très éloigné.
 - 2) *Ouverture*. L'ouverture simplifie la complexité.
 - 3) *Puissance*. Se servir de moins, en tirer plus.
+
+###### Links:
+- [[index]]
