@@ -10,5 +10,5 @@ To overcome this, we can use [[A-The Ebbinghaus Curve]]
 ###### Links :
 - [[index]]
 - [[A-The Ebbinghaus Curve]]
-- [[productivity]]
+- [[Productivity]]
 - [[Education]]

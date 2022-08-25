@@ -18,7 +18,7 @@ For the 2nd way, say you have the same essay due for in 3 months, you will take 
 
 **To overcome this**, you can use the Law to your advantage. Instead of viewing deadines as your enemies, view them as your allies. 
 
-By setting shorter deadlines, you boost your [[productivity]]. Deadlines should be a motivation because our brains don't like failure, and they don't like it when you fail at something you swore to yourself you would do.
+By setting shorter deadlines, you boost your [[Productivity]]. Deadlines should be a motivation because our brains don't like failure, and they don't like it when you fail at something you swore to yourself you would do.
 
 Though, you have to be aware that setting **too short deadlines** will increase your procrastination, and decrease your motivation.
 

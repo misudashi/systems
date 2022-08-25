@@ -16,7 +16,7 @@ It is based on [[A-The forgetting Curve]], and on the fact that the more an info
 ###### Links:
 - [[index]]
 - [[A-The forgetting Curve]]
-- [[productivity]]
+- [[Productivity]]
 - [[Education]]
 - [[The Cognitive Theory]]
 - [[Memory Consolidation]]
