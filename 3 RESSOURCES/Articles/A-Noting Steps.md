@@ -1,7 +1,7 @@
 # Noting Steps
-Here are the steps you should do everytime you don't have anything to do, to transform your procrastination in productivity.
+Here are the steps you should do every time you don't have anything to do, to transform your procrastination in productivity.
 
-![[98C11C71-4DF7-41E0-9644-D0E1ACB08D95.jpeg]]
+[https://ibb.co/grZDXBb]
 
 *Translation :*
 
@@ -65,5 +65,5 @@ After a few hundred notes, you can check the Graph View of Obsidian and observe 
 - [[Productivity]]
 - [[R-The Zettelkasten Method]]
 - [[Reading List]]
-- [[relationships]]
+- [[Relationships]]
 - [[Memory Consolidation]]

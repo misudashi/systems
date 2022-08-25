@@ -10,7 +10,7 @@ I think this can be associated with instant gratification and delayed gratificat
 
 ###### Links:
 - [[index]]
-- [[stoicism]]
-- [[nutrition]]
+- [[Stoicism]]
+- [[Nutrition]]
 - [[MOC Self Improvement]]
-- [[philosophy]]
+- [[Philosophy]]

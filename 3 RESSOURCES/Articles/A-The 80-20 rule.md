@@ -41,5 +41,5 @@ I think that this rule can be really important and that we can use it in many wa
 ## Others
 ###### Links:
 - [[index]]
-[[A-Parkinsons Law]]
-[[The Cognitive Theory]]
+- [[A-Parkinsons Law]]
+- [[The Cognitive Theory]]

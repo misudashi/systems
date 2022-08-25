@@ -7,4 +7,4 @@
 ###### Links:
 - [[index]]
 - [[MOC Self Improvement]]
-- [[authenticity]]
+- [[Authenticity]]

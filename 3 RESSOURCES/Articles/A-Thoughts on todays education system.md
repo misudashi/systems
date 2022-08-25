@@ -29,4 +29,4 @@ Maybe this is the reason why teaching isn't the best job in the world anymore. T
 
 ###### Links:
 - [[index]]
-- [[education]]
+- [[Education]]

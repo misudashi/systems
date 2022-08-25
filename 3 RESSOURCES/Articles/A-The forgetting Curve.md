@@ -1,5 +1,5 @@
 # The forgetting Curve
-![[C1B0E46C-8426-4161-8D96-57FCFD2A24E4.jpeg]]
+![[The Forgetting Curve.jpeg]]
 - *Note : 1 jour = Day 1 ; 2 jours = Day 2, etc..*
 - *"Rétention d'information" = The "amount" of information you remember*
 
@@ -11,4 +11,4 @@ To overcome this, we can use [[A-The Ebbinghaus Curve]]
 - [[index]]
 - [[A-The Ebbinghaus Curve]]
 - [[productivity]]
-- [[education]]
+- [[Education]]

@@ -68,6 +68,6 @@ An interesting way of using these, though, is about dealing with the information
 
 ###### Links:
 - [[index]]
-- [[socrates]]
-- [[philosophy]]
+- [[Socrates]]
+- [[Philosophy]]
 

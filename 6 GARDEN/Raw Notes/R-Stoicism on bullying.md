@@ -7,7 +7,7 @@
 ###### Links:
 - [[index]]
 - [[R-Stoicism on negative thoughts]]
-- [[stoicism]]
-- [[philosophy]]
-- [[bullying]]
-- [[social sciences]]
+- [[Stoicism]]
+- [[Philosophy]]
+- [[Bullying]]
+- [[Social Sciences]]

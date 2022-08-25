@@ -13,5 +13,5 @@ I think this can allow us to select between the instant-gratification activities
 - [[A-To give is to live]]
 - [[R-Minimalism]]
 - [[MOC Self Improvement]]
-- [[philosophy]]
-- [[relationships]]
+- [[Philosophy]]
+- [[Relationships]]

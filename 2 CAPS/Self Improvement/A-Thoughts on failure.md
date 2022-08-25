@@ -20,4 +20,4 @@ Joshua Field Millburn and Ryan Nicodemus shared a sentence I liked in their book
 ###### Links:
 - [[index]]
 - [[MOC Self Improvement]]
-- [[philosophy]]
+- [[Philosophy]]

@@ -7,6 +7,6 @@
 ###### Links:
 - [[index]]
 - [[R-Stoicism on bullying]]
-- [[stoicism]]
-- [[philosophy]]
-- [[social sciences]]
+- [[Stoicism]]
+- [[Philosophy]]
+- [[Social Sciences]]

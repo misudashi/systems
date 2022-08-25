@@ -7,6 +7,6 @@
 ###### Links:
 - [[index]]
 - [[MOC Self Improvement]]
-- [[authenticity]]
-- [[philosophy]]
-- [[mindfulness]]
+- [[Authenticity]]
+- [[Philosophy]]
+- [[Mindfulness]]

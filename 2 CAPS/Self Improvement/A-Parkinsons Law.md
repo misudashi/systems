@@ -1,7 +1,7 @@
 # Parkinson's Law
 
 ## Note
-Parkinson's Law doesn't have anything to do with Stephen Hawking's disease. Instead, it is about [[procrastination]]. 
+Parkinson's Law doesn't have anything to do with Stephen Hawking's disease. Instead, it is about [[Procrastination]]. 
 
 Essentially, what it says is that 
 - *The time you will take for a given task is highly influenced by how much time you give yourself.*
@@ -41,4 +41,4 @@ You have to set **realistically unrealistic goals** in order to be productive.
 - [[Productivity]]
 - [[MOC Self Improvement]]
 - [[The Cognitive Theory]]
-- [[procrastination]]
+- [[Procrastination]]
