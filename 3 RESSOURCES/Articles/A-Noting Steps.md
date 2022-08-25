@@ -1,7 +1,7 @@
 # Noting Steps
 Here are the steps you should do every time you don't have anything to do, to transform your procrastination in productivity.
 
-![Note-Taking Steps](../.././static/Note-Taking Steps.jpeg)
+![Note-Taking Steps](https://www.misudashi.github.io/systems/static/Note-Taking Steps.jpeg)
 
 *Translation :*
 
