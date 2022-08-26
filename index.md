@@ -40,7 +40,7 @@ After using Obsidian for a few weeks only, I realized that it would be pretty *d
 
 ## About Raw Notes:
 
-The Raw [[MOC Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters. 
+The Raw [[MOC Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topic you can imagine, without filters. 
 
 **Though**, if you feel like what I am saying in these is too harsh, feel absolutely free to send me an e-mail so I can review what I wrote and potentially reformulate/correct what is said in there. 
 
