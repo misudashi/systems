@@ -1,5 +1,5 @@
 # The forgetting Curve
-![[The Forgetting-Curve.jpeg]]
+![Image](https://misudashi.github.io/systems/static/The-Forgetting-Curve.jpeg)
 - *Note : 1 jour = Day 1 ; 2 jours = Day 2, etc..*
 - *"Rétention d'information" = The "amount" of information you remember*
 
