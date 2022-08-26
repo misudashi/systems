@@ -6,7 +6,7 @@ Here, you can view my whole Zettelkasten System, which contains everything I hav
 
 ## 📌 How it works
 
-If you're simply curious about all of this, I suggest you simply browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse/) section.
+If you're simply curious about all of this, I suggest you simply browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse) section.
 
 If you are here for some knowledge on a specific topic, then I would recommend using the **Hub**, which you can read more about in the next section.
 
