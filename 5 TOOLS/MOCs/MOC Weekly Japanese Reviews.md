@@ -4,15 +4,16 @@ The Weekly Japanese Reviews (WJR) will (I hope) be consistent notes in which I w
 
 *Also, I originally thought of that as Daily Notes. That's why you have 3 consecutive Reviews, and that's also why they're a bit messy.*
 
-## 📌 Current Review :
+## 📌 Pinned
+### 📌Last Review :
 - [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
 
 ### First Review :
 This is the first ever Weekly Japanese Review I wrote.
 - [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#
 
-### All Reviews
-Here are all the other reviews you may be wanting to see. Some will be missing because I simply didn't consume any Japanese content (probably holidays, they should stay rare !)
+## All Reviews
+Here are all the other reviews you may be wanting to see. Some will be missing because I simply didn't consume any Japanese content during the missing time (probably holidays, they should stay rare !)
 
 #### 2022- August :
 - [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]#

@@ -1,6 +1,6 @@
 # Languages HUB
 
-Here, you can view every article I write about any language.
+This HUB links every articles I write about any language. I'm currently learning Japanese and Spanish, and I am fluent in English and in French.
 
 ## Articles :
 - 📌 **Pinned** ; [[MOC Weekly Japanese Reviews]]
