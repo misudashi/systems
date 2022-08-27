@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="EjMQ8FGWkoD2Q6sqwTvrHqZxhTTWjxRxxbWUUIh9RY4" />
+
 # Misudashi's Systems
 
 Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain** *(fancy name)*
