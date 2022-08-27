@@ -4,7 +4,7 @@ Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain**
 
 Here, you can view my whole Zettelkasten System, which contains everything I have ever created, read, watched, or thought.
 
-## 📌 How it works
+## 📌 How it work
 
 If you're simply curious about all of this, I suggest you simply browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse) section.
 
