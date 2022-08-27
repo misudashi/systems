@@ -1,4 +1,4 @@
-<meta name="google-site-verification" content="EjMQ8FGWkoD2Q6sqwTvrHqZxhTTWjxRxxbWUUIh9RY4" />
+
 
 # Misudashi's Systems
 
