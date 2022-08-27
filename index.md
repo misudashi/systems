@@ -58,7 +58,7 @@ I do not consider the things I write here to be part of a business.
 
 In addition to that, this whole thing isn't my idea, but it was inspired by [Morg](https://morg.systems), which I suggest you check out !
 
-**More seriously, if you don't really know what to do with your money, you can donate to** [**charities that matter to me**](https://www.google.com/search?q=I+want+to+donate+money+to+help+cancer+research.&oq=I+want+to+donate+money+to+help+cancer+research.&aqs=chrome..69i57j69i64.17103j0j9&sourceid=chrome&ie=UTF-8) *(thank you !)*
+**More seriously, if you don't really know what to do with your money, you can donate to** [**charities that matter to me**](https://www.google.com/search?q=i+want+to+donate+money+to+help+cervix+cancer+research.&source=lmns&bih=617&biw=414&prmd=niv&sa=X&ved=2ahUKEwic-u3R-ub5AhUPixoKHV-lB44Q_AUoAHoECAAQBA&pccc=1) *(thank you !)*
 
 
 *Hope you will enjoy !*
