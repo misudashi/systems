@@ -1,4 +1,4 @@
-# Misudashi's Systems
+# Misudashi Systems
 
 Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain** *(fancy name)*
 
@@ -6,7 +6,7 @@ Here, you can view my whole Zettelkasten System, which contains everything I hav
 
 ## 📌 How it works
 
-If you're simply curious about all of this, I suggest you simply browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse/) section.
+If you're simply curious about all of this, I suggest you simply browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse) section.
 
 If you are here for some knowledge on a specific topic, then I would recommend using the **Hub**, which you can read more about in the next section.
 
@@ -40,7 +40,7 @@ After using Obsidian for a few weeks only, I realized that it would be pretty *d
 
 ## About Raw Notes:
 
-The Raw [[MOC Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters. 
+The Raw [[MOC Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topic you can imagine, without filters. 
 
 **Though**, if you feel like what I am saying in these is too harsh, feel absolutely free to send me an e-mail so I can review what I wrote and potentially reformulate/correct what is said in there. 
 
@@ -56,9 +56,14 @@ I do not consider the things I write here to be part of a business.
 
 In addition to that, this whole thing isn't my idea, but it was inspired by [Morg](https://morg.systems), which I suggest you check out !
 
-**More seriously, if you don't really know what to do with your money, you can donate to** [**charities that matter to me**](https://www.google.com/search?q=I+want+to+donate+money+to+help+cancer+research.&oq=I+want+to+donate+money+to+help+cancer+research.&aqs=chrome..69i57j69i64.17103j0j9&sourceid=chrome&ie=UTF-8) *(thank you !)*
+**More seriously, if you don't really know what to do with your money, you can donate to** [**charities that matter to me**](https://www.google.com/search?q=i+want+to+donate+money+to+help+cervix+cancer+research.&source=lmns&bih=617&biw=414&prmd=niv&sa=X&ved=2ahUKEwic-u3R-ub5AhUPixoKHV-lB44Q_AUoAHoECAAQBA&pccc=1) *(thank you !)*
 
 
 *Hope you will enjoy !*
 
 *-Misudashi 三スダッ*
+
+
+
+###### Tag
+#pinned
