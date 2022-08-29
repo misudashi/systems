@@ -56,4 +56,4 @@ Tomorrow, I'm going to start the 2nd part, with Joseph. I hope it will be as goo
 ## Links
 - [[index]]
 - Previous Japanese Review : *None, this is the first one.*
-- Next Japanese Review : *Not available yet. Stay Tuned !*
+- Next Japanese Review : [[Weekly Japanese Review 2 2022-08-28 to 2022-09-04]]

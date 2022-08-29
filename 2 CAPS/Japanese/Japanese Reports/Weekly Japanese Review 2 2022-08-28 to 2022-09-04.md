@@ -22,7 +22,25 @@ I am really enjoying the anime so far. Easily  9/10, the action is great, it has
 
 I enjoy the characters, especially the old guy in a wheelchair, and I believe he is named Speedwagon (スピードワゴン) but I'm not 100% sure about that either. Even if I don't understand half the plot, Jojo's is so well made it is still highly enjoyable. I'm looking forward for the next episodes, but I only allow myself 2 episodes per day to avoid binge watching. (It would make it less fun, and I need to stay productive !)
 
+## Anki
+I don't really know if I should continue Anki or not. It seems to be really controversial, and some people say it even can be bad for you to try and memorize Kanji like that. I don't really get how. I guess I will continue for a bit, and then see if I enjoy it or not.
+
+After all, the key if really to simply enjoy your learning journey.
+
+## ビジュアルノべル
+
+I read about ビジュアルノべル (Visual novels) and I thought "What a super idea !". It really hyped me, but, now that I search about it, it seems pretty complicated. I didn't find that many that seemed to be interesting, and they seemed much harder than what I can read for now. 
+
+I think I will focus more on acquiring N5 Level for a few more months, and then, I will tryhard visual novels. I'll keep updating on them as I try again to read some.
+
+## Tae Kim
+After a small conversation with Frozen#6394, I decided to rush through Tae Kim's Grammar guide (while, of course, trying to understand it) and then jump right into simple native content to avoid losing motivation.
+
+![Image](https://misudashi.github.io/systems/static/beginner-steps.png)
+
+Tomorrow, I will try to read about half of it, and the next day, the other half. Once I have *really weak* grammar bases, I will take the first easy native manga I see and I will try to understand what is said using a dictionary.
+
+At first, I will literally not understand **anything** that is said, but I enjoy pain, so that's alright.
 ###### Links
-- Next WJR: *not available yet*
 - Previous WJR: [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]
 - [[index]]
