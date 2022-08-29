@@ -49,6 +49,14 @@ Here will be listed all the ressources I will be using to learn Japanese.
 - https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/#windows-10-ime-pad
 - https://medium.com/the-language-learning-hub/duolingo-is-the-most-dangerous-app-for-untrained-language-learners-678781bd8aac
 - https://www.youtube.com/watch?v=IFKLj2-LVWw&t=0s
+-  https://youtu.be/J_EQDtpYSNM
+- https://youtu.be/illApgaLgGA
+- https://www.hellotalk.com/?lang=fr
+- https://www.linguajunkie.com/japanese/simple-japanese-conversation
+- https://tadoku.org/japanese/wp-content/uploads/f0087e-kareshi.pdf
+- https://tadoku.org/
+- https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/
+- https://netflix.com/
 
 ###### Links:
 - [[index]]

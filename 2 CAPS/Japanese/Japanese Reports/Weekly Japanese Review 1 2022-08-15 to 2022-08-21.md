@@ -1,4 +1,4 @@
-# WR1 - 2022-08-15  - 2022-08-21
+# WJR1 - 2022-08-15  - 2022-08-21
 
 So that's it ! Here is the first week of my journey on learning Japanese. I already have some *weak weak* basics : I used Duolingo to learn Kana. I have a Anki Mining Deck set up, and I learned +- how to use it. I will be first learning basic Grammar using [Sakubi's Guide](https://sakubi.neocities.org/#) on the topic. When I feel like it is not enough anymore, I will switch on Tae Kim's guide. On the vocabulary part, I'm learning **a lot** everytime I read anything online, pretty much. I also watched the Pitch Tone basic introduction recommended by [Morg](https://morgs.systems).
 

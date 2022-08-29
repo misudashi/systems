@@ -8,6 +8,7 @@
 - [[A-Measuring Productivity]]#
 - [[A-Parkinsons Law]]#
 - [[A-Whats my added value]]#
+- [[A-The 4 Phases of Learning Productivity]]#
 
 ## Raw Notes on Self Improvement
 - [[R-Meditations rise]]#
@@ -15,6 +16,8 @@
 - [[R-Stoicism diet]]#
 - [[R-Stoicism on bullying]]#
 - [[R-Stoicism on negative thoughts]]#
+- [[R-Stoicism on Opinions]]#
+- [[R-Thoughts on discomfort]]#
 
 *if these are not the Raw Notes you're looking for, take a look at the [[MOC Notes]]*
 
