@@ -24,5 +24,5 @@ I enjoy the characters, especially the old guy in a wheelchair, and I believe he
 
 ###### Links
 - Next WJR: *not available yet*
-- Previous WJR: [[linker WJR1]]
+- Previous WJR: [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]
 - [[index]]
