@@ -42,23 +42,6 @@ Tomorrow, I will try to read about half of it, and the next day, the other half.
 
 At first, I will literally not understand **anything** that is said, but I enjoy pain, so that's alright.
 
-## Tae Kim
-So let's actually learn grammar ! I will list below the summaries I encounter.
-
-- [![Image](https://misudashi.ga/static/summary_1.png)](https://misudashi.ga/static/summary_1.png)
-
-- [![Image](https://misudashi.ga/static/summary_0.png)](https://misudashi.ga/static/summary_0.png)
-
-- [![Image](https://misudashi.ga/static/summary_2.png)](https://misudashi.ga/static/summary_2.png)
-
-- [![Image](https://misudashi.ga/static/summary_4.png)](https://misudashi.ga/static/summary_4.png)
-
-- [![Image](https://misudashi.ga/static/summary_3.png)](https://misudashi.ga/static/summary_3.png)
-
-- [![Image](https://misudashi.ga/static/summary_5.png)](https://misudashi.ga/static/summary_5.png)
-
-- [![Image](https://misudashi.ga/static/summary_6.png)](https://misudashi.ga/static/summary_6.png)
-
 ## Anki
 
 I really enjoy the Tango N5 Deck, to be honest. I re-opened it today and I didn't forget that much what I learned before going on vacation, and the 3 new words I learned today were pretty cool. 
