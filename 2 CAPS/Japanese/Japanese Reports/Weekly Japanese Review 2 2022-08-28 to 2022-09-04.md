@@ -46,24 +46,31 @@ At first, I will literally not understand **anything** that is said, but I enjoy
 So let's actually learn grammar ! I will list below the summaries I encounter.
 
 - How to conjugate い-adjectives :
-![Image](https://misudashi.ga/static/summary_1.png)
+
+[![Image](https://misudashi.ga/static/summary_1.png)](https://misudashi.ga/static/summary_1.png)
 
 - How to express state-of-being :
-![Image](https://misudashi.ga/static/summary_0.png)
+
+[![Image](https://misudashi.ga/static/summary_0.png)](https://misudashi.ga/static/summary_0.png)
 
 - How to conjugate the い-adjectives 「いい」 (good) and 「かっこいい」(good looking, cool)
+
 ![Image](https://misudashi.ga/static/summary_2.png)
 
 - Example on How to conjugate verbs :
+
 ![Image](https://misudashi.ga/static/summary_4.png)
 
 - How to conjugate negative verbs :
+
 ![Image](https://misudashi.ga/static/summary_3.png)
 
 - Past tense for 「る」verbs :
+
 ![Image](https://misudashi.ga/static/summary_5.png)
 
 - Past tense for 「う」verbs (which breaks into 4 categories) :
+
 ![Image](https://misudashi.ga/static/summary_6.png)
 
 ###### Links
