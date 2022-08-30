@@ -1,10 +1,14 @@
 # Using the positive emotions to convince someone to change something
+- MOC : [[MOC Notes]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[The Cognitive Theory]]
+- Sources : [Switch Recap - Eliott Meunier](https://www.youtube.com/watch?v=8c7PcR2uMyI) - Switch
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
-## Sources :
-- https://www.youtube.com/watch?v=8c7PcR2uMyI *(french)*
-- Switch by Chip Heath and Dan Heath
-
-## Note
+## Using the positive emotions to convince someone to change something
 While it can sometimes be a good idea to use the negative emotions to convince someone to do something, it can have some devastating effects.
 
 For instance, if a company is about to go bankrupt, it may be a good idea to use the negative emotions on the CEO to convince him to take a decision that goes in your way. In this case, making him visualising his cherished company falling, his employees being jobless, him losing money, can have a real emotional impact, and can trigger a situation where he seeks help, which you will bring to him.
@@ -23,7 +27,3 @@ This will activate creativity, and it will allow us to actually make progress on
 
 I think this is a really interesting way of convincing people. It is also pretty enjoyable, because you give hope and dreams to people, while solving their problems. The only issue I have with this is that if you give too much hope to someone, they may be sad finding that things are not as they expected.
 For instance, when your friend realizes no one even noticed that he changed socks, he may end up disappointed. You have to set realistic hopes to people in order to have them satisfied at the end of the day.
-
-###### Links:
-- [[index]]
-- [[The Cognitive Theory]]

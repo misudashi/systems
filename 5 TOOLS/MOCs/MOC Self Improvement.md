@@ -23,4 +23,4 @@
 
 
 ## Links :
-- [[index]]
+- [Home](https://misudashi.ga/)

@@ -1,5 +1,14 @@
-# R-The Fastest way to acquire a new language
+# The fastest way to acquire a new language
+- MOC : [[MOC Languages]]
+- Date : Aug. 2022
+- Tag : #in-progress
+- Linked Notes : 
+- Source : [YouTube](https://youtube.com/)
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
+## The fastest way to acquire a new language
 1. Acquire the language through context
 
 Essentially, what he says in this part is that when you first hear a word, you will assume a meaning for it. But when you hear it in a 2nd context, and a third one, and a fourth one, you will eventually get the right meaning by associating them unconsciously.
@@ -11,7 +20,3 @@ You will need to hear a word in many different contexts in order to understand i
 3. Listen and pronounce
 
 You can take one, two, three syllables and repeat it with the intonation and the accent. After a few hours, two words, three maybe. Then when you're really really fluent, a sentence ! It will allow you to get the accent and the intonations you should use in certain situations.
-
-###### Links
-- [[index]]
-- [[MOC Languages]]

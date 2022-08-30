@@ -1,4 +1,13 @@
 # The Ebbinghaus Curve
+- MOC : [[MOC Notes]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[A-The forgetting Curve]] - [[Productivity]] - [[Education]] - [[The Cognitive Theory]] - [[Memory Consolidation]]
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
+
+## The Ebbinghaus Curve
 Hermann Ebbinghaus was a 19th century German philosopher.  Considered the father of the experimental psychology of learning, he is at the origin of the Ebbinghaus Curve.
 
 ![Image](https://misudashi.github.io/systems/static/The-Ebbinghaus-Curve.jpeg)
@@ -11,12 +20,4 @@ It is based on [[A-The forgetting Curve]], and on the fact that the more an info
 
 *I would like to add that in order to be learned, an information needs to be understood. The reminders you have set to remember it should be at first close together, and they should get further and further in time as it goes on.*
 
-**My personal theory is that *simply reading again* the information is *NOT ENOUGH*. You should use logicials such as Anki to create flash cards.**
-
-###### Links:
-- [[index]]
-- [[A-The forgetting Curve]]
-- [[Productivity]]
-- [[Education]]
-- [[The Cognitive Theory]]
-- [[Memory Consolidation]]
+**My personal theory is that *simply reading again* the information is *NOT ENOUGH*. You should use programs such as Anki to create flash cards.**

@@ -1,6 +1,13 @@
 # Parkinson's Law
+- MOC : [[MOC Self Improvement]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[A-The 80-20 rule]] - [[A-Measuring Productivity]] - [[Productivity]] - [[The Cognitive Theory]] - [[Procrastination]]
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
-## Note
+## Parkinson's Law
 Parkinson's Law doesn't have anything to do with Stephen Hawking's disease. Instead, it is about [[Procrastination]]. 
 
 Essentially, what it says is that 
@@ -33,12 +40,3 @@ You have to set **realistically unrealistic goals** in order to be productive.
 - La loi de Parkinson vous donne une astuce simple : **considérez les délais non pas comme des ennemis, mais comme un allié essentiel de votre productivité**.
 - Utilisez des délais plus courts pour améliorer votre productivité et vos résultats.
 - Mais faites attention à ne pas vous fixer des échéances irréalisables.
-## Others
-###### Links:
-- [[index]]
-- [[A-The 80-20 rule]]
-- [[A-Measuring Productivity]]
-- [[Productivity]]
-- [[MOC Self Improvement]]
-- [[The Cognitive Theory]]
-- [[Procrastination]]

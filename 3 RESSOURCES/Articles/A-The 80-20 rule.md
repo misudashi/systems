@@ -1,13 +1,20 @@
-# The 80/20 Rule (Pareto's Law)
+# The 80/20 Rule (and Pareto's Law)
+- MOC : [[MOC Notes]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[A-Parkinsons Law]] - [[The Cognitive Theory]]
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
-## Note
+## The 80/20 Rule (and Pareto's Law)
 What it states is that in a lot of cases in your life, those two numbers 80 and 20 will show. For instance, 20% of the clients of a company make 80% of their benefits.
 
 You can use this to your advantage to focus on these 20% of clients. Though, focusing on something doesn't mean leaving the rest alone. You may not abandon the rest. You can use this in your every day life.
 
 I think that this rule can be really important and that we can use it in many ways. Essentially, It can be applied to all lots of things such as time managing. 
 
-## Highlights 
+### Highlights 
 - Lorsque l’on examine des systèmes, des entreprises, des organisations ou comment on utilise son temps, on constate qu’une minorité d’éléments génère plus de résultats qu’une majorité d’éléments. Ce principe révèle une relation inégale et déséquilibrée entre les entrées et les sorties d’un système.
 - 80% des résultats proviennent de 20% des causes.
 - Notez que la distribution n’est pas toujours de 80/20. Il peut s’agir 85/15, 90/10 ou 75/25. Ou encore 75/30 car la somme ne fait pas toujours 100. Mais la règle générale est toujours la même : une minorité d’éléments produit une majorité de résultats.
@@ -37,9 +44,3 @@ I think that this rule can be really important and that we can use it in many wa
 - Si vous voulez gérer efficacement votre temps, vous devez commencer par le mesurer.
 - Avec toutes les distractions et interruptions auxquelles nous sommes exposées, votre journée de travail peut se terminer avant même que vous vous en rendiez compte.
 - Bien que les listes de tâches soient très utiles, elles peuvent devenir une source d’inefficacité ou de procrastination si elles sont mal utilisées.
-
-## Others
-###### Links:
-- [[index]]
-- [[A-Parkinsons Law]]
-- [[The Cognitive Theory]]

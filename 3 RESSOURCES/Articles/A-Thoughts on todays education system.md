@@ -1,5 +1,14 @@
-# Thoughts on today's Education system
+# Thoughts on today's education system
+- MOC : [[MOC Notes]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[Education]]
+- Source : [Éducation nationale recherche professeurs désespérément](https://www.philomag.com/articles/education-nationale-recherche-professeurs-desesperement)
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
+## Thoughts on today's education system
 “Isn't recruiting teachers today,  recruiting missionaries for a cause that goes far beyond the question of knowledge?”
 
 In this article *(see sources)*, the author shows us how wrong the education system is. 
@@ -23,10 +32,3 @@ This translates to
 Maybe this is the reason why teaching isn't the best job in the world anymore. The education system precisely expects them to do what Peguy forbids because it would lead to a fall. 
 
 “Isn't recruiting teachers today,  recruiting missionaries for a cause that goes far beyond the question of knowledge?”
-
-
-**Source**: [Éducation nationale recherche professeurs désespérément](https://www.philomag.com/articles/education-nationale-recherche-professeurs-desesperement)
-
-###### Links:
-- [[index]]
-- [[Education]]

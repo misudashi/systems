@@ -1,8 +1,16 @@
 # The Laws of Simplicity
+- MOC : [[MOC Notes]]
+- Date : Aug. 2022
+- Tag : #in-progress
+- Linked Notes : [[R-Simplexité]]
+- Source : Les lois de la simplicité by John Maeda
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
+## The Laws of simplicity
 [This needs to be translated !]
 
-# Les lois de la simplicité
 *Il y a dix lois de la simplicité, ainsi que trois clés d'après John Maeda :*
 
 - 1) *Réduction*. Pour atteindre la simplicité, le mieux est la réduction méthodique.
@@ -30,6 +38,3 @@
 - 1) *Au loin*. Plus semble moins si l'on s'en tient éloigné, très éloigné.
 - 2) *Ouverture*. L'ouverture simplifie la complexité.
 - 3) *Puissance*. Se servir de moins, en tirer plus.
-
-###### Links:
-- [[index]]

@@ -28,4 +28,4 @@ Here, you can view my rawest notes. Some may contain sensitive and/or controvers
 - [[R-Misudashi]]#
 
 ## Links :
-- [[index]]
+- [Home](https://misudashi.ga/)

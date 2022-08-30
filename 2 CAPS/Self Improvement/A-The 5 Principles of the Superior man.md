@@ -1,5 +1,13 @@
-# The 5 principles of the Superior man
+# The 5 Principles of the superior man
+- MOC : [[MOC Self Improvement]] - 
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : 
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
+## The 5 Principles of the superior man
 ### 1. Discipline 
 - The most important virtue of all, without this virtue all self improvement is meaningless “Do the hard work especially when you don’t feel like it” 
 - This quote is to be taken quite Literally if you don’t feel like doing something then there is actually more reason to do it. This will create an unbelievable amount of discipline. 
@@ -35,7 +43,3 @@
 - To further you own growth and that of your community you must begin to teach more men these virtues. 
 - it’s a lonely life if we take this path alone. We must bring others along to also take part in this journey 
 - Strong men will be rewarded
-
-###### Links :
-- [[index]]
-- [[MOC Self Improvement]]

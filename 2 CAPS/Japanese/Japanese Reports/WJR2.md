@@ -1,4 +1,14 @@
-# WJR2 - 2022-08-28- 2022-09-04
+# WJR[2] 28 Aug. -  04 Sept. 2022
+- MOC : [[MOC Weekly Japanese Reviews]]
+- Date : 2022-08-28
+- Tag : #wjr - #in-progress - #permanent
+- Previous Japanese Review : [[WJR1]]
+- Next Japanese Review : This is the current WJR.
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
+
+## WJR[2] 28 Aug. -  04 Sept. 2022
 
 After a small break for my holidays, where the only Japanese I was learning was through Duolingo because I didn't have any time, I'm back and I'm more determined than ever to make some good progress !
 
@@ -50,7 +60,6 @@ I think it was 「〜がいい」, which means 'Want', 「くろい」, which me
 
 I'm definitely going to continue on using Anki, at least for now. 
 
-###### Links
-- Previous WJR: [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]
-- [[index]]
-- [Tae Kim's Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)
+----
+- Next Japanese Review : This is the current one.
+- Previous Japanese Review : [[WJR1]]

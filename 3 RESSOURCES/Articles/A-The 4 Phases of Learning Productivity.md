@@ -1,7 +1,14 @@
-# A-The 4 Phases of Learning Productivity
-**Source:** [Everlaab](https://everlaab.com/4-phases-dapprentissage-inevitables-pour-devenir-une-bete-de-productivite/)
+# The 4 phases of learning Productivity
+- MOC : [[MOC Notes]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[Education]] - [[The Cognitive Theory]]
+- Source : [Everlaab](https://everlaab.com/4-phases-dapprentissage-inevitables-pour-devenir-une-bete-de-productivite/)
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
-## Note:
+## The 4 phases of learning Productivity
 - **Phase 1**: You are unconsciously incompetent.  
 - **Phase 2**: You are consciously incompetent.  
 - **Phase 3**: you are consciously competent.
@@ -25,8 +32,3 @@ After realizing that you were incompetent, you decided to work on it and now you
 #### Phase 4: You are unconsciously competent
 
 In this phase, being productive is just natural to you because you have done it so much. The example Everlaab uses in this article is driving : at first, you were paying attention to everything you were doing. But after a few years of driving, it seems really natural to you and you don't even think about it anymore.
-
-###### Links:
-- [[index]]
-- [[Education]]
-- [[The Cognitive Theory]]

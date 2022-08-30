@@ -1,10 +1,13 @@
-# The benefits of Meditation
+# The benefits of meditation
+- MOC : [[MOC Self Improvement]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[Meditation]]
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
-Greetings everyone, Misudashi here. In this article, we will be learning about the large topic of *Meditation*.
-**Please note that** I am not a professional, and I would be very pleased to be corrected by whoever may find mistakes, or someone who has things they would've liked to be added to this article. 
-
-You can contact me by e-mail using `misudashi at yahoo dot com`.
-
+## The benefits of meditation
 Through this page, I will be talking about my personal experience on meditation as a teenager, the scientific benefits behind it, how to start your journey on meditation. I will be starting by commenting on the stereotypes you may hear while starting to meditate.
 
 ### **Summary**
@@ -97,14 +100,3 @@ Instead, what you need to do is meditate every day, at the same time. I would re
 When you wake up, start the app, and meditate for 3 or 5 minutes. Close the app, and do what you would normally do on your morning. 
 
 If you want to learn more about setting good habits, I recommend a book called [Atomic Habits](https://1lib.fr/dl/5214617/de8d64). (This link will download the pdf version of the book, but you can also buy it on websites like Amazon.)
-
-
-### Thank you for reading this article.
-
-If you have any questions, suggestions, or if you saw I made mistakes while explaining this, feel free to e-mail me at `misudashi at yahoo dot com`.
-
--Misudashi
-
-###### Links :
-- [[index]]
-- [[MOC Self Improvement]]

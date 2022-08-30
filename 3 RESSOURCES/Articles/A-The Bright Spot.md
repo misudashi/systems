@@ -1,10 +1,14 @@
 # The Bright Spot
+- MOC : [[MOC Notes]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : 
+- Sources : [Switch Recap - Eliott Meunier](https://www.youtube.com/watch?v=8c7PcR2uMyI) - Switch
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
-## Sources :
-- https://www.youtube.com/watch?v=8c7PcR2uMyI *(french)*
-- "Switch", by Chip Heath and Dan Heath
-
-## Context :
+## The Bright Spot
 Eliott Meunier explains here that an important concept he noticed while reading the book "Switch" is called the Bright Spot.
 
 If you didn't know, this book talks about the best way you can use to change something.
@@ -15,11 +19,11 @@ The first one is to have a clear view of the road you want to follow. *For insta
 
 The Second step is to convince the elephant that the there is a problem about the road he is currently following *Mr. the Director, a lot of vegetarians in the school are not feeling well because all they can eat is bread and a small portion of rice. This decreases the grades they get.*
 
-The Third and last step is to show the right road, the one you chose, to the elephant : *If we put a vegetarian menu, everyone would be happy : the meals would cost less, you wouldn't have to think about anything because we have already planned everything and we will be the ones managing the project, and the children would be happier.**
+The Third and last step is to show the right road, the one you chose, to the elephant : *If we put a vegetarian menu, everyone would be happy : the meals would cost less, you wouldn't have to think about anything because we have already planned everything and we will be the ones managing the project, and the children would be happier.*
 
-## The Note
+----
 
-The concept of the bright spot is based on the notion that humans are more likely to see the dark spots when they are confronted to a problem. The example Eliott uses here is the following :
+**The concept of the bright spot** is based on the notion that humans are more likely to see the dark spots when they are confronted to a problem. The example Eliott uses here is the following :
 
 A friend tells you that he hasn't been sleeping well at all for the past month. The reflex of a lot of people would be to ask him "What do you think is the reason why you didn't sleep ?"
 
@@ -36,6 +40,3 @@ Bingo ! What did you do that you didn't do the other days ? Did you scroll less 
 Then try to eat a salad tonight, and see what happens !
 
 As you understand, this concept tells you that instead of focusing on things that make the situation you want to change a bad situation, ask yourself, when possible, when it transformed into a good situation, and why. Then, try to replicate this, so your bad situation transforms into a good one.
-
-###### Links;
-- [[index]]

@@ -1,4 +1,13 @@
 # Noting Steps
+- MOC : [[MOC Notes]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[Productivity]] - [[R-The Zettelkasten Method]] - [[Reading List]] - [[Relationships]] - [[Memory Consolidation]]
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
+
+## Noting Steps
 Here are the steps you should do every time you don't have anything to do, to transform your procrastination in productivity.
 
 ![Image](https://misudashi.github.io/systems/static/Note-Taking-Steps.jpeg)
@@ -55,15 +64,3 @@ Finally, the next step is to [link]() your notes with existing ones in your syst
 
 ### The advantage of Obsidian
 After a few hundred notes, you can check the Graph View of Obsidian and observe how each note are linked to each other, creating your very own **2nd Brain**. This can help you in lots of ways, which I won't go into details in this article because it isn't the subject !
-
-
-
-
-
-###### Links
-- [[index]]
-- [[Productivity]]
-- [[R-The Zettelkasten Method]]
-- [[Reading List]]
-- [[Relationships]]
-- [[Memory Consolidation]]

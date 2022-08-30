@@ -10,4 +10,4 @@ This HUB links every articles I write about any language. I'm currently learning
 - [[R-The Fastest way to acquire a new language]]#
 
 ## Links :
-- [[index]]
+- [Home](https://misudashi.ga/)

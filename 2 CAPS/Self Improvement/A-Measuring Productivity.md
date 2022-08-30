@@ -1,5 +1,13 @@
-# Measuring productivity
-## Context
+# Measuring Productivity
+- MOC : [[MOC Self Improvement]]
+- Date : Aug. 2022
+- Tag : #permanent - #completed 
+- Linked Notes : [[Productivity]]
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
+
+## Measuring Productivity
 
 I'm listening to a podcast right now named [How to measure your productivity](https://alifeofproductivity.com/podcast-how-to-measure-your-productivity/) and they commented about something that gave me a bit of an idea.
 
@@ -13,7 +21,7 @@ The woman then said that measuring tasks on a large time frame can be a good ide
 - If you do this on a shorter period of time, like a day, you may experience unbalanced statistics : you may have felt really productive for one day because you actually did make a lot of progress by fixing lots of bugs, if you didn't create a new feature, the day will be counted as not productive, even though it was.
 - It can be hard to measure how much progress you've made on a task, because it will be blurry since you count for a whole year before seeing results.
 
-## My idea
+## The idea
 While they were saying this, I thought "why not simply rating your days on a score out of 10 ?"
 
 Basically, you would yourself set descriptions like 
@@ -30,8 +38,3 @@ The pro's of this are :
 - Your motivation to be productive is only your desire of being satisfied at the end of the month
 - Nothing is static: if you feel like you underrated or overrated some parts of each week, you may change them freely. You are the only judge.
 - By constantly improving your weeks, you will eventually simply be happier because you are satisfied with what you did instead of having someone judging for you.
-
-###### Links:
-- [[index]]
-- [[Productivity]]
-- [[MOC Self Improvement]]

@@ -1,4 +1,4 @@
-# Socrates
+# Miki Matsubara
 - MOC : [[MOC Not Written Yet]] - 
 - Date : *Not written yet*
 - Tag : #in-progress
@@ -7,5 +7,5 @@
 - [Go back to Homepage](https://misudashi.ga/)
 -----
 
-## Socrates
+## Miki Matsubara
 

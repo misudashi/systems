@@ -1,5 +1,13 @@
 # Reading List
+- MOC : No Hierarchy
+- Date : Aug. 2022
+- Tag : #permanent
+- Linked Notes : 
+-------------------
+- [Go back to Homepage](https://misudashi.ga/)
+-----
 
+## Reading List
 - Une brève histoire de tout
 - La vision intégrale
 - The subtle art of not giving a fuck
@@ -11,5 +19,3 @@
 - Dictateur
 - Le pouvoir des habitudes
 - Ego is the enemy
-###### Links:
-- [[index]]
