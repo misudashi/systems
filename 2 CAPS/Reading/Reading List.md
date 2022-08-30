@@ -19,3 +19,4 @@
 - Dictateur
 - Le pouvoir des habitudes
 - Ego is the enemy
+- Introduction à la pensée complexe

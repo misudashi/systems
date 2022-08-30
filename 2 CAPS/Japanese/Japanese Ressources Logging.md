@@ -67,3 +67,4 @@ Expect a mess of links, sometimes repeating.
 - [Team Japanese](https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/)
 - [Netflix](https://netflix.com/)
 - [Tae Kim's Grammar Guide - PDF Version](http://www.guidetojapanese.org/grammar_guide.pdf)
+- [Livakivi](https://www.youtube.com/c/Livakivi)

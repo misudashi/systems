@@ -26,7 +26,7 @@ Morg actually came with a really good analogy, which you can see [here](https://
 
 I downloaded a 2nd deck called 2k/6k which, at first, seemed interesting. But actually, the words weren't that clever, I felt like. So yesterday I only learned 5 new words (which were also a pain to remember, like actually) and today I did 5 others. Now, I put the daily limit of new words to 0. Because I'll be gone next week and I don't want to come back and discover I have 100 cards to do per day until Christmas..
 
-I decided to download a 3rd deck called N5 Tango, which seems more appropriate to my level. You can test it out [here](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view) if you want. I learned the word West, "What day is it ?", Friday, etc. More interesting than "matchmaker" to me, since I'm a complete beginner... I'll try to get 3 new words tomorrow aswell. Then for the rest of the week, I'll set it to 0 too so I'm O.K. to go.
+I decided to download a 3rd deck called N5 Tango, which seems more appropriate to my level. You can test it out [here](https://drive.google.com/file/d/1pMlJvSrKQOSaiN8sPLdNDvWP31EClxDO/view) if you want. I learned the word West, "What day is it ?", Friday, etc. More interesting than "matchmaker" to me, since I'm a complete beginner... I'll try to get 3 new words tomorrow as well. Then for the rest of the week, I'll set it to 0 too so I'm O.K. to go.
 
 ### Routine
 So I'm going to set up a small Japanese Routine to avoid two things :
