@@ -33,7 +33,7 @@ I read about ビジュアルノべル (Visual novels) and I thought "What a supe
 
 I think I will focus more on acquiring N5 Level for a few more months, and then, I will tryhard visual novels. I'll keep updating on them as I try again to read some.
 
-## Tae Kim
+## Plans
 After a small conversation with Frozen#6394, I decided to rush through Tae Kim's Grammar guide (while, of course, trying to understand it) and then jump right into simple native content to avoid losing motivation.
 
 ![Image](https://misudashi.github.io/systems/static/beginner-steps.png)
@@ -41,6 +41,32 @@ After a small conversation with Frozen#6394, I decided to rush through Tae Kim's
 Tomorrow, I will try to read about half of it, and the next day, the other half. Once I have *really weak* grammar bases, I will take the first easy native manga I see and I will try to understand what is said using a dictionary.
 
 At first, I will literally not understand **anything** that is said, but I enjoy pain, so that's alright.
+
+## Tae Kim
+So let's actually learn grammar ! I will list below the summaries I encounter.
+
+- How to conjugate い-adjectives :
+![Image](https://misudashi.ga/static/summary_1.png)
+
+- How to express state-of-being :
+![Image](https://misudashi.ga/static/summary_0.png)
+
+- How to conjugate the い-adjectives 「いい」 (good) and 「かっこいい」(good looking, cool)
+![Image](https://misudashi.ga/static/summary_2.png)
+
+- Example on How to conjugate verbs :
+![Image](https://misudashi.ga/static/summary_4.png)
+
+- How to conjugate negative verbs :
+![Image](https://misudashi.ga/static/summary_3.png)
+
+- Past tense for 「る」verbs :
+![Image](https://misudashi.ga/static/summary_5.png)
+
+- Past tense for 「う」verbs (which breaks into 4 categories) :
+![Image](https://misudashi.ga/static/summary_6.png)
+
 ###### Links
 - Previous WJR: [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]
 - [[index]]
+- [Tae Kim's Grammar Guide](http://www.guidetojapanese.org/grammar_guide.pdf)
