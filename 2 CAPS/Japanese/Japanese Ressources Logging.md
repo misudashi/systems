@@ -57,6 +57,8 @@ Here will be listed all the ressources I will be using to learn Japanese.
 - https://tadoku.org/
 - https://teamjapanese.com/free-websites-japanese-reading-practice-every-level/
 - https://netflix.com/
+- http://www.guidetojapanese.org/grammar_guide.pdf
+- 
 
 ###### Links:
 - [[index]]

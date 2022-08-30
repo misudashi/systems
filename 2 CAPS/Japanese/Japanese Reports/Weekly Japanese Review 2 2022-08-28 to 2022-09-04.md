@@ -45,33 +45,27 @@ At first, I will literally not understand **anything** that is said, but I enjoy
 ## Tae Kim
 So let's actually learn grammar ! I will list below the summaries I encounter.
 
-- How to conjugate い-adjectives :
+- [![Image](https://misudashi.ga/static/summary_1.png)](https://misudashi.ga/static/summary_1.png)
 
-[![Image](https://misudashi.ga/static/summary_1.png)](https://misudashi.ga/static/summary_1.png)
+- [![Image](https://misudashi.ga/static/summary_0.png)](https://misudashi.ga/static/summary_0.png)
 
-- How to express state-of-being :
+- [![Image](https://misudashi.ga/static/summary_2.png)](https://misudashi.ga/static/summary_2.png)
 
-[![Image](https://misudashi.ga/static/summary_0.png)](https://misudashi.ga/static/summary_0.png)
+- [![Image](https://misudashi.ga/static/summary_4.png)](https://misudashi.ga/static/summary_4.png)
 
-- How to conjugate the い-adjectives 「いい」 (good) and 「かっこいい」(good looking, cool)
+- [![Image](https://misudashi.ga/static/summary_3.png)](https://misudashi.ga/static/summary_3.png)
 
-![Image](https://misudashi.ga/static/summary_2.png)
+- [![Image](https://misudashi.ga/static/summary_5.png)](https://misudashi.ga/static/summary_5.png)
 
-- Example on How to conjugate verbs :
+- [![Image](https://misudashi.ga/static/summary_6.png)](https://misudashi.ga/static/summary_6.png)
 
-![Image](https://misudashi.ga/static/summary_4.png)
+## Anki
 
-- How to conjugate negative verbs :
+I really enjoy the Tango N5 Deck, to be honest. I re-opened it today and I didn't forget that much what I learned before going on vacation, and the 3 new words I learned today were pretty cool. 
 
-![Image](https://misudashi.ga/static/summary_3.png)
+I think it was 「〜がいい」, which means 'Want', 「くろい」, which means 'Black', and another one that I can't remember, sadly. It feels much better than the 2k/6k deck, probably because it was not as beginner-orientated as this one.
 
-- Past tense for 「る」verbs :
-
-![Image](https://misudashi.ga/static/summary_5.png)
-
-- Past tense for 「う」verbs (which breaks into 4 categories) :
-
-![Image](https://misudashi.ga/static/summary_6.png)
+I'm definitely going to continue on using Anki, at least for now. 
 
 ###### Links
 - Previous WJR: [[Weekly Japanese Review 1 2022-08-15 to 2022-08-21]]
