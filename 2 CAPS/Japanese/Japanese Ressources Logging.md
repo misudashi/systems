@@ -1,8 +1,8 @@
 # Japanese Ressources
-- MOC : [[Japanese]] - [[MOC Weekly Japanese Reviews]]
+- MOC : [[Japanese]] - [[MOC Languages]]
 - Date : 2022-08-15
 - Tag : #permanent
-- Linked Notes : [[WJR1]]
+- Linked Notes : [[MOC Weekly Japanese Reviews]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----
@@ -58,7 +58,7 @@ Expect a mess of links, sometimes repeating.
 - [Tofugu's guide on Japanese keyboards](https://www.tofugu.com/japanese/how-to-install-japanese-keyboard/#windows-10-ime-pad)
 - [Why you shouldn't use Duolingo](https://medium.com/the-language-learning-hub/duolingo-is-the-most-dangerous-app-for-untrained-language-learners-678781bd8aac)
 - [YouTube video](https://www.youtube.com/watch?v=IFKLj2-LVWw&t=0s)
--  [YouTube video](https://youtu.be/J_EQDtpYSNM)
+- [YouTube video](https://youtu.be/J_EQDtpYSNM)
 - [YouTube video](https://youtu.be/illApgaLgGA)
 - [HelloTalk](https://www.hellotalk.com/?lang=fr)
 - [LinguaJunkie](https://www.linguajunkie.com/japanese/simple-japanese-conversation)
@@ -68,3 +68,4 @@ Expect a mess of links, sometimes repeating.
 - [Netflix](https://netflix.com/)
 - [Tae Kim's Grammar Guide - PDF Version](http://www.guidetojapanese.org/grammar_guide.pdf)
 - [Livakivi](https://www.youtube.com/c/Livakivi)
+- [YouTube Video](https://www.youtube.com/watch?v=vJG9kpqTRmU)

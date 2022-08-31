@@ -27,13 +27,15 @@ I learned a little bit more about the different levels JLPT has to offer, and I 
 
 I really am planning to enjoy the process, and not the event. I want to actually enjoy my learning journey, rather than hating it but having the hope that someday I will be fluent, because that probably will never happen with this mindset anyway. That's also why I am not setting any goals, when I generally set monthly and yearly goals for about anything in my life. I really see Japanese as a hobby, or something I like doing on my free time (still consistently) rather than a "Project" or whatever other people consider it.
 
-I also found [some interesting website](https://www.fluentin3months.com/jlpt-n5-kanji/#:~:text=At%20the%20N5%20level%2C%20the,%2C%20basic%20adjectives%2C%20and%20directions.) that, apparently, lists all the Kanji I need to know for N5. I will get further into it and I will update you on this as well.
+I also found [some interesting website](https://www.fluentin3months.com/jlpt-n5-kanji/#:~:text=At%20the%20N5%20level%2C%20the,%2C%20basic%20adjectives%2C%20and%20directions.) that, apparently, lists all the Kanji I need to know for N5. The author linked an Anki deck, which at first, seemed pretty good to me. But when I started reading the comments and the reviews... Oh boy... You can read them [here](https://ankiweb.net/shared/info/1956010956) if you want. I think I'll pass for now, and I may actually create my very own deck which I will simply call 'Mining', and in which I will also include Tae Kim's vocabulary. I'll take this decision later on as I'm not ready just yet to start mining my own sentences.
 
 ----
 ### A note on Duolingo
 I actually think Duolingo is a great ressource for keeping consistency, as it is kind of addictive. Though,  I have drastically decreased the time I spend on the app, replacing it by native Japanese content as well as real courses (grammar, and vocabulary). I went from around 300 daily exp to 10, or sometimes double or triple that. I'm going to watch YouTube videos talking about it and stuff to find out if the 'Stories' are worth my attention or not.
 
 I will keep my streak because it keeps me motivated, but I don't think the app will make me progress that much compared to other ressources available to me right now. I think I will still finish the course, because it shouldn't take long if I have the level. 
+
+I am entering some more difficult courses, but it still seems doable. The problem I have with the app is the fact that it doesn't quite explain you which Kanji does what. You kind of have to guess, but since you always see it in the same context, I have no validation to know if I'm interpreting it the right way or not. Anyway, I started multiple courses at once and I'm trying to complete them to at least the 2nd level before I continue on another one. I don't know if it's the right strategy, I may switch back to the good ol' "Maxing a course before switching to the next one". We'll see how it goes in the next days, and from there I will decide.
 
 ----
 ### HelloTalk
@@ -43,11 +45,11 @@ I watched [some of Livakivi's videos](https://www.youtube.com/c/Livakivi) and I 
 
 ----
 ### Jojo's Bizarre Adventure
-I am going to put the subtitles in Japanese this time because I feel like I will learn much more.
+I put the subtitles in Japanese this time because I feel like I will learn much more.
 
 I am really enjoying the anime, it's easily a 10/10 for me so far. The action is great, it has good drawings, good voice acting and even more importantly a good story. I only understand half of the action, but it is fine because the images really help a lot. It is actually kind of fun, and at the same time motivating because I understand some words here and there when I look at the subtitles. Nothing too crazy, but things like 「私」、「これ」、and the character's names written in Katakana such as Speedwagon : 「スピードワゴン」, and Jojo : 「ジョジョ」
 
-[ SPOILER ] - I started the 2nd part, and I actually understood some things, mostly because of the images. I think there were nazis, and something to do with a huge, really powerful stone creature that came back to life. A few minutes after, it was already dead, apparently Joseph exposed it to the sun while they were both in a well. I have to say I enjoy the characters, especially the old guy in a wheelchair named 「スピードワゴン」. Fast forward to the next episode, where we discover even more stone creatures that came back to life. This time, they are three, and I think they are Egyptians or something similar to that. They introduced two new characters as well, but one, apparently a taxi driver  that was also really close to the first character, got cut in half by one of the three Egyptians when it passed through him. The scene was kind of sad, apparently he had a girlfriend or something because he had a sort of jewel with the picture of a woman on it (Maybe the woman we say in the beginning of the episode ?).  At the beginning of this episode, they were in an Italian city called 「ロ一マ」, which, I am proud to say translates to Rome. 
+[ SPOILER ] - I started the 2nd part, and I actually understood some things, mostly because of the images. I think there were nazis, and something to do with a huge, really powerful stone creature that came back to life. A few minutes after, it was already dead, apparently Joseph exposed it to the sun while they were both in a well. I have to say I enjoy the characters, especially the old guy in a wheelchair named 「スピードワゴン」. Fast forward to the next episode, where we discover even more stone creatures that came back to life. This time, they are three, and I think they are Egyptians or something similar to that. They introduced two new characters as well, but one, apparently a taxi driver  that was also really close to the first character, got cut in half by one of the three Egyptians when it passed through him. The scene was kind of sad, apparently he had a girlfriend or something because he had a sort of jewel with the picture of a woman on it (Maybe the woman we saw in the beginning of the episode ?).  At the beginning of this episode, they were in an Italian city called 「ロ一マ」, which, I am proud to say translates to Rome. 
 
 ----
 ### ビジュアルノべル
@@ -66,6 +68,11 @@ Now that I can try it calmly, I actually really enjoyed the N5 Tango deck. I re-
 Anyway, after a bit of tests and of searching, I decided I would set my daily limit to 10 new cards to avoid burning out. At most, I should have from 30 to 50 minutes of daily Anki which should be fine, given that I will also have a lot to do on the side. If I ever feel like doing more Japanese, I will simply spend a little more time on other ressources such as Tae Kim's Grammar guide, or Duolingo. 
 
 What I will probably be doing is actually to firstly finish this deck, in about 200 days from now. Then, I will probably switch on the 2k/6k deck. It sounds like a good idea.
+
+It takes me around 30 minutes per day, which I think is quite alright given that I also have to read a few pages of Tae Kim's grammar guide.
+
+### Tae Kim
+I'm only at the 66th page out of 353, so even simply reading through it probably will bit a bit longer than I expected. Though, I do learn a lot of things every time I get back into it. It is half fun, half un-fun in my opinion because I would prefer reading actual books, but at the same time I enjoy suffering. I will probably finish it at the end of September.
 
 ----
 - Next Japanese Review : This is the current WJR
