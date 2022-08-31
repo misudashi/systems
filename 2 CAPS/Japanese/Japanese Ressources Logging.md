@@ -69,3 +69,5 @@ Expect a mess of links, sometimes repeating.
 - [Tae Kim's Grammar Guide - PDF Version](http://www.guidetojapanese.org/grammar_guide.pdf)
 - [Livakivi](https://www.youtube.com/c/Livakivi)
 - [YouTube Video](https://www.youtube.com/watch?v=vJG9kpqTRmU)
+- [Beginner native content](https://www.lingq.com/blog/japanese-for-beginners/)
+- 
