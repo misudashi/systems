@@ -14,7 +14,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[A-Noting Steps]]#
 - [[A-Newtons First Law]]#
 - [[A-Galls Law]]#
-
+- [[A-How to actually have good grades]]#
 
 ## Raw Notes :
 Here, you can view my rawest notes. Some may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters.
