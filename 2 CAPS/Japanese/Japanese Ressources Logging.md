@@ -70,4 +70,6 @@ Expect a mess of links, sometimes repeating.
 - [Livakivi](https://www.youtube.com/c/Livakivi)
 - [YouTube Video](https://www.youtube.com/watch?v=vJG9kpqTRmU)
 - [Beginner native content](https://www.lingq.com/blog/japanese-for-beginners/)
+- [松原みき concert](https://www.youtube.com/watch?v=YlPtE4pFSxA)
+- [Reddit](https://www.reddit.com/r/LearnJapanese/comments/kqgkgx/japanese_youtube_recommendations/)
 - 

@@ -71,7 +71,7 @@ Anyway, after a bit of tests and of searching, I decided I would set my daily li
 
 What I will probably be doing is actually to firstly finish this deck, in about 200 days from now. Then, I will probably switch on the 2k/6k deck. It sounds like a good idea.
 
-It takes me around 30 minutes per day, which I think is quite alright given that I also have to read a few pages of Tae Kim's grammar guide.
+It takes me around 30 minutes per day, which I think is quite alright given that I also have to read a few pages of Tae Kim's grammar guide and that I will be going to highschool again in a few days, which means much less time to learn Japanese.
 
 ### Tae Kim
 I'm only at the 66th page out of 353, so even simply reading through it probably will bit a bit longer than I expected. Though, I do learn a lot of things every time I get back into it. It is half fun, half un-fun in my opinion because I would prefer reading actual books, but at the same time I enjoy suffering. I will probably finish it at the end of September.
