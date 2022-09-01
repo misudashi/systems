@@ -54,7 +54,7 @@ Teaching, essentially, is reformulating something. Right now, I am technically t
 For instance, at the end of this article, you would be needed to think, say, or write : "Okay, so there were 3 main steps to get good grades : The first one is to take good notes with this method, and the Second one is to do that, etc". 
 
 ###### Keeping a way of remembering what you just understood : taking notes
-And that's where it all makes sense. You're capable of reformulating what you understood, right ? Well that's exactly what the process of taking notes is all about. After reformulating all of this in your head, you will want to draw a mind map. It doesn't have to be fancy at all, don't worry. It would literally take 5 minutes. Like seriously, **don't make it fancy**. Here's what mines look like :
+And that's where it all makes sense. You're capable of reformulating what you understood, right ? Well that's exactly what the process of taking notes is all about. After reformulating all of this in your head, you will want to draw a mind map. It doesn't have to be fancy at all, don't worry. It would literally take 5 minutes. Like seriously, **don't make it fancy**. Here's how mine looks:
 [![Image](https://misudashi.ga/static/example_mindmap.jpg)](https://misudashi.ga/static/example_mindmap.jpg)
 
 #### How to use your notes
