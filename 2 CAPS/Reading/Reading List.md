@@ -22,3 +22,4 @@
 - Introduction à la pensée complexe
 - The 4 hours week
 - [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
+- Atomic Habits

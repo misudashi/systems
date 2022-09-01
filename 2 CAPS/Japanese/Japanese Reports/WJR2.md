@@ -12,6 +12,40 @@
 
 After a small break for my holidays, where the only Japanese I was learning was through Duolingo because I didn't have any time, I'm back and I'm more determined than ever to make some good progress !
 
+----
+### Jojo's Bizarre Adventure
+I put the subtitles in Japanese this time because I feel like I will learn much more.
+
+I am really enjoying the anime, it's easily a 10/10 for me so far. The action is great, it has good drawings, good voice acting and even more importantly a good story. I only understand half of the action, but it is fine because the images really help a lot. It is actually kind of fun, and at the same time motivating because I understand some words here and there when I look at the subtitles. Nothing too crazy, but things like 「私」、「これ」、and the character's names written in Katakana such as Speedwagon : 「スピードワゴン」, and Jojo : 「ジョジョ」
+
+[ SPOILER ] - I started the 2nd part, and I actually understood some things, mostly because of the images. I think there were nazis, and something to do with a huge, really powerful stone creature that came back to life. A few minutes after, it was already dead, apparently Joseph exposed it to the sun while they were both in a well. I have to say I enjoy the characters, especially the old guy in a wheelchair named 「スピードワゴン」. Fast forward to the next episode, where we discover even more stone creatures that came back to life. This time, they are three, and I think they are Egyptians or something similar to that. They introduced two new characters as well, but one, apparently a taxi driver  that was also really close to the first character, got cut in half by one of the three Egyptians when it passed through him. The scene was kind of sad, apparently he had a girlfriend or something because he had a sort of jewel with the picture of a woman on it (Maybe the woman we saw in the beginning of the episode ?).  At the beginning of this episode, they were in an Italian city called 「ロ一マ」, which, I am proud to say translates to Rome. 
+
+On the next episode, they keep fighting the 3 Egyptians, and the blonde guy has his face all covered in blood, but he seems fine after a few minutes. There was a huge fight with one of the 3 Egyptians, and I thought Joseph had killed it, but apparently he didn't. Then they left him for dead after putting 2 rings inside of him. One is on his heart and the other one is in his throat. I don't really know what they're for as I didn't really understand what they said but the rings are the same colors as the Egyptian hats so I guess that was some kind of important ritual or something ? Anyway, I'm really satisfied with this episode, and it had a nice fight. Surprisingly enough, no one died, even if Joseph was hurt quite a lot. He tried to dynamite his enemy but another Egyptian simply ate it and his stomach simply extended a little before going back to its normal form. That truly shows how powerful they are. I was kind of disappointed how 「スピードワゴン」pretty much didn't do anything, even if he doesn't have a wheelchair anymore. I should've expected that to be honest, as he really is a grandpa compared to Joseph and the other characters his age. Maybe we'll see more of him in the future, who knows ?
+
+今、先生がいます。リサリサと言います。She locked them in a huge tower, covered in oil, and they had to use their orange power to get out. A sort of magnetic field, apparently really dangerous, was activated when ジョセフ randomly pressed a sort of lever. The blonde guy, (I still don't know his name) managed to get out of there pretty quickly, and ジョセフ made a jump of 3 meters to go on the other side. He almost died, because he was about to lose his consciousness, but the blonde guy took his hand. リサリサ "brought" two huge guys, which kind of look like the Egyptian guys in a way, but I don't think they're the same characters. We also saw at the beginning of this episode that ジョセフ does have two リング in his body : one on an artery, and one on the skeleton of his throat. I don't really know if it has a that huge of an impact on the story, but it may have, since it seemed kind of dramatic. (As expected in Jojo's).
+
+----
+### ビジュアルノべル
+
+I read about Visual Novels 「ビジュアルノべル」 and I thought "What a super idea" ! It really hyped me, but, now that I search about it, it seems pretty complicated. I didn't find that many that seemed to be interesting, and they seemed much harder than what I can read for now. 
+
+I think I will focus more on acquiring N5 Level for a few more months, and then, I will try hard VN. I'll keep updating on them as I try again to read some more in the future.
+
+-----
+### Anki
+
+I was at first doubting of the efficiency of Anki, and even more importantly, how fun it is. I think my opinion has changed.
+
+Now that I can try it calmly, I actually really enjoyed the N5 Tango deck. I re-opened it today and I didn't forget that much what I learned before going on vacation, and the 3 new words I learned today were pretty cool. I think there was 「〜がいい」, which means 'Want', 「くろい」, which means 'Black', and another one that I can't remember, sadly. It feels much better than the 2k/6k deck, probably because it was not as beginner-orientated as this one. 
+
+Anyway, after a bit of tests and of searching, I decided I would set my daily limit to 10 new cards to avoid burning out. At most, I should have from 30 to 50 minutes of daily Anki which should be fine, given that I will also have a lot to do on the side. If I ever feel like doing more Japanese, I will simply spend a little more time on other ressources such as Tae Kim's Grammar guide, or Duolingo. 
+
+What I will probably be doing is actually to firstly finish this deck, in about 200 days from now. Then, I will probably switch on the 2k/6k deck. It sounds like a good idea.
+
+It takes me around 30 minutes per day, which I think is quite alright given that I also have to read a few pages of Tae Kim's grammar guide and that I will be going to highschool again in a few days, which means much less time to learn Japanese.
+
+----- 
+
 ### Plans
 After a small conversation with ``Frozen#6394`` from EJLE, I decided to rush through Tae Kim's Grammar guide (while, of course, trying to understand it) and then jump right into simple native content to avoid losing motivation.
 
@@ -44,34 +78,6 @@ I downloaded HelloTalk, but I have to say I'm not a huge fan of it because the o
 I watched [some of Livakivi's videos](https://www.youtube.com/c/Livakivi) and I have to say he has convinced me that output isn't as important as input when you start. I will follow his experience and focus on input first.
 
 ----
-### Jojo's Bizarre Adventure
-I put the subtitles in Japanese this time because I feel like I will learn much more.
-
-I am really enjoying the anime, it's easily a 10/10 for me so far. The action is great, it has good drawings, good voice acting and even more importantly a good story. I only understand half of the action, but it is fine because the images really help a lot. It is actually kind of fun, and at the same time motivating because I understand some words here and there when I look at the subtitles. Nothing too crazy, but things like 「私」、「これ」、and the character's names written in Katakana such as Speedwagon : 「スピードワゴン」, and Jojo : 「ジョジョ」
-
-[ SPOILER ] - I started the 2nd part, and I actually understood some things, mostly because of the images. I think there were nazis, and something to do with a huge, really powerful stone creature that came back to life. A few minutes after, it was already dead, apparently Joseph exposed it to the sun while they were both in a well. I have to say I enjoy the characters, especially the old guy in a wheelchair named 「スピードワゴン」. Fast forward to the next episode, where we discover even more stone creatures that came back to life. This time, they are three, and I think they are Egyptians or something similar to that. They introduced two new characters as well, but one, apparently a taxi driver  that was also really close to the first character, got cut in half by one of the three Egyptians when it passed through him. The scene was kind of sad, apparently he had a girlfriend or something because he had a sort of jewel with the picture of a woman on it (Maybe the woman we saw in the beginning of the episode ?).  At the beginning of this episode, they were in an Italian city called 「ロ一マ」, which, I am proud to say translates to Rome. 
-
-On the next episode, they keep fighting the 3 Egyptians, and the blonde guy has his face all covered in blood, but he seems fine after a few minutes. There was a huge fight with one of the 3 Egyptians, and I thought Joseph had killed it, but apparently he didn't. Then they left him for dead after putting 2 rings inside of him. One is on his heart and the other one is in his throat. I don't really know what they're for as I didn't really understand what they said but the rings are the same colors as the Egyptian hats so I guess that was some kind of important ritual or something ? Anyway, I'm really satisfied with this episode, and it had a nice fight. Surprisingly enough, no one died, even if Joseph was hurt quite a lot. He tried to dynamite his enemy but another Egyptian simply ate it and his stomach simply extended a little before going back to its normal form. That truly shows how powerful they are. I was kind of disappointed how 「スピードワゴン」pretty much didn't do anything, even if he doesn't have a wheelchair anymore. I should've expected that to be honest, as he really is a grandpa compared to Joseph and the other characters his age. Maybe we'll see more of him in the future, who knows ?
-
-----
-### ビジュアルノべル
-
-I read about Visual Novels 「ビジュアルノべル」 and I thought "What a super idea" ! It really hyped me, but, now that I search about it, it seems pretty complicated. I didn't find that many that seemed to be interesting, and they seemed much harder than what I can read for now. 
-
-I think I will focus more on acquiring N5 Level for a few more months, and then, I will try hard VN. I'll keep updating on them as I try again to read some more in the future.
-
------
-### Anki
-
-I was at first doubting of the efficiency of Anki, and even more importantly, how fun it is. I think my opinion has changed.
-
-Now that I can try it calmly, I actually really enjoyed the N5 Tango deck. I re-opened it today and I didn't forget that much what I learned before going on vacation, and the 3 new words I learned today were pretty cool. I think there was 「〜がいい」, which means 'Want', 「くろい」, which means 'Black', and another one that I can't remember, sadly. It feels much better than the 2k/6k deck, probably because it was not as beginner-orientated as this one. 
-
-Anyway, after a bit of tests and of searching, I decided I would set my daily limit to 10 new cards to avoid burning out. At most, I should have from 30 to 50 minutes of daily Anki which should be fine, given that I will also have a lot to do on the side. If I ever feel like doing more Japanese, I will simply spend a little more time on other ressources such as Tae Kim's Grammar guide, or Duolingo. 
-
-What I will probably be doing is actually to firstly finish this deck, in about 200 days from now. Then, I will probably switch on the 2k/6k deck. It sounds like a good idea.
-
-It takes me around 30 minutes per day, which I think is quite alright given that I also have to read a few pages of Tae Kim's grammar guide and that I will be going to highschool again in a few days, which means much less time to learn Japanese.
 
 ### Tae Kim
 I'm only at the 66th page out of 353, so even simply reading through it probably will bit a bit longer than I expected. Though, I do learn a lot of things every time I get back into it. It is half fun, half un-fun in my opinion because I would prefer reading actual books, but at the same time I enjoy suffering. I will probably finish it at the end of September.
