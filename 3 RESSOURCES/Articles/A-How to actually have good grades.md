@@ -1,4 +1,4 @@
-# A-How to actually have good grades
+# How to actually have good grades
 - MOC : [[MOC Notes]]
 - Date : 2022-09-01
 - Tag : #in-progress

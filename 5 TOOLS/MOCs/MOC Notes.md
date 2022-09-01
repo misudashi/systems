@@ -25,7 +25,7 @@ Here, you can view my rawest notes. Some may contain sensitive and/or controvers
 - [[R-Simplexité]]#
 - [[R-The importance of authenticity]]#
 - [[R-Random Thoughts]]#
-- [[R-Misudashi]]#
+- [[Misudashi]]#
 
 ## Links :
 - [Home](https://misudashi.ga/)

@@ -1,8 +1,8 @@
 # Misudashi Systems
 
-Hi, I am Misudashi. Welcome to my personal website, that I call my **2nd Brain** *(fancy name)*
+Hi, I am [[Misudashi]]#. Welcome to my personal website, that I call my **2nd Brain** *(fancy name)*
 
-Here, you can view my whole Zettelkasten System, which contains everything I have ever created, read, watched, or thought.
+Here, you can view my whole [[Zettelkasten]] System, which contains everything I have ever created, read, watched, or thought.
 
 ## 📌 How it works
 
@@ -14,11 +14,12 @@ If you are here for some knowledge on a specific topic, then I would recommend u
 
 For a better experience, I *try* to organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). If you are too lazy to click on the link, basically, a Map Of Content (MOC) can be seen like a folder, but *better*.
 
-For now, the hub points to 4 different categories :
+For now, the hub points to 5 different categories :
 - [[MOC Languages]]#
 - [[MOC Self Improvement]]#
 - [[MOC Notes]]#
 - [[MOC Weekly Japanese Reviews]]#
+- [[MOC Projects]]#
 
 ##  Credits
 
@@ -61,7 +62,7 @@ In addition to that, this whole thing isn't my idea, but it was inspired by [Mor
 
 *Hope you will enjoy !*
 
-*-Misudashi 三スダッ*
+*-[[Misudashi]]# 三スダッ*
 
 
 
