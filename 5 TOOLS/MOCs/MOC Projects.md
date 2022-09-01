@@ -5,4 +5,4 @@ This is where every files related to my personal-life projects will be listed. P
 ## Projects
 
 ### Free Online Course
-- [[Free online course]]
+- [[Free online course]]#
