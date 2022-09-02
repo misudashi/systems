@@ -2,7 +2,7 @@
 - MOC : [[MOC Notes]]
 - Date : 2022-09-01
 - Tag : #in-progress
-- Linked Notes : [[Education]] - [[A-Thoughts on todays education system]] - [[A-The Ebbinghaus Curve]] - [[A-The 80-20 rule]]
+- Linked Notes : [[Education]] - [[Thoughts on todays education system]] - [[The Ebbinghaus Curve]] - [[The 80-20 rule]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----
@@ -74,7 +74,7 @@ Here is mine, made in just under 2 minutes:
 [![Image](https://misudashi.ga/static/example_mindmap_electronic.png)](https://misudashi.ga/static/example_mindmap_electronic.png)
 
 ###### How to use your mindmap
-We will be using [[A-The Ebbinghaus Curve]] to remember efficiently this mindmap. At first, you will need to practice re-doing it on paper or in your mind immediately after creating it. Then, a day after. And following what I said in the above article, you will be able to retrace it super easily. It shouldn't take you very long every day, and you can do that for every subject you want to study. **That's** your homework.
+We will be using [[The Ebbinghaus Curve]] to remember efficiently this mindmap. At first, you will need to practice re-doing it on paper or in your mind immediately after creating it. Then, a day after. And following what I said in the above article, you will be able to retrace it super easily. It shouldn't take you very long every day, and you can do that for every subject you want to study. **That's** your homework.
 
 #### The day of the exam
 The second you receive the test, without even looking at the questions, take a sheet of paper and retrace the mindmap you spent "so much time" remembering. 

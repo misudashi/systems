@@ -1,14 +1,14 @@
 # Self Improvement HUB
 
 ## Articles :
-- [[A-The Benefits Of Meditation]]#
-- [[A-The 5 Principles of the Superior man]]#
-- [[A-To give is to live]]#
-- [[A-Thoughts on failure]]#
-- [[A-Measuring Productivity]]#
-- [[A-Parkinsons Law]]#
-- [[A-Whats my added value]]#
-- [[A-The 4 Phases of Learning Productivity]]#
+- [[The Benefits Of Meditation]]#
+- [[The 5 Principles of the Superior man]]#
+- [[To give is to live]]#
+- [[Thoughts on failure]]#
+- [[Measuring Productivity]]#
+- [[Parkinsons Law]]#
+- [[Whats my added value]]#
+- [[The 4 Phases of Learning Productivity]]#
 
 ## Raw Notes on Self Improvement
 - [[R-Meditations rise]]#

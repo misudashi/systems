@@ -2,7 +2,7 @@
 - MOC : [[MOC Notes]]
 - Date : Aug. 2022
 - Tag : #permanent - #completed 
-- Linked Notes : [[Productivity]] - [[R-The Zettelkasten Method]] - [[Reading List]] - [[Relationships]] - [[Memory Consolidation]]
+- Linked Notes : [[Productivity]] - [[Zettelkasten]] - [[Reading List]] - [[Relationships]] - [[Memory Consolidation]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----

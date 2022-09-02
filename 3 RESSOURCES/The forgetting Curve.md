@@ -2,7 +2,7 @@
 - MOC : [[MOC Notes]]
 - Date : Aug. 2022
 - Tag : #permanent - #completed 
-- Linked Notes : [[A-The Ebbinghaus Curve]] - [[Productivity]] - [[Education]]
+- Linked Notes : [[The Ebbinghaus Curve]] - [[Productivity]] - [[Education]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----
@@ -14,4 +14,4 @@
 
 This curve shows us that generally speaking, we lose half of the information we learn after only 2 days, and the loss continues in the following days.
 
-To overcome this, we can use [[A-The Ebbinghaus Curve]]
+To overcome this, we can use [[The Ebbinghaus Curve]]

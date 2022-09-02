@@ -2,7 +2,7 @@
 - MOC : [[MOC Self Improvement]]
 - Date : Aug. 2022
 - Tag : #permanent - #completed 
-- Linked Notes : [[A-The 80-20 rule]] - [[A-Measuring Productivity]] - [[Productivity]] - [[The Cognitive Theory]] - [[Procrastination]]
+- Linked Notes : [[The 80-20 rule]] - [[Measuring Productivity]] - [[Productivity]] - [[The Cognitive Theory]] - [[Procrastination]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----

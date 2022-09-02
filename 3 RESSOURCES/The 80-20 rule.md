@@ -2,7 +2,7 @@
 - MOC : [[MOC Notes]]
 - Date : Aug. 2022
 - Tag : #permanent - #completed 
-- Linked Notes : [[A-Parkinsons Law]] - [[The Cognitive Theory]]
+- Linked Notes : [[Parkinsons Law]] - [[The Cognitive Theory]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----

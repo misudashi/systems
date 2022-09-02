@@ -2,7 +2,7 @@
 - MOC : [[MOC Notes]]
 - Date : Aug. 2022
 - Tag : #permanent - #completed 
-- Linked Notes : [[Productivity]] - [[R-The Zettelkasten Method]] - [[R-The Laws of Simplicity]]
+- Linked Notes : [[Productivity]] - [[M-The Zettelkasten Method]] - [[R-The Laws of Simplicity]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----

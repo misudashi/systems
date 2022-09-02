@@ -2,7 +2,7 @@
 - MOC : [[MOC Self Improvement]]
 - Date : Aug. 2022
 - Tag : #permanent - #completed 
-- Linked Notes : [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]] - [[A-To give is to live]] - [[R-Minimalism]] - [[Relationships]] - [[Philosophy]]
+- Linked Notes : [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]] - [[To give is to live]] - [[R-Minimalism]] - [[Relationships]] - [[Philosophy]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----

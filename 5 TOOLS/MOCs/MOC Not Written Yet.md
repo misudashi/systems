@@ -9,7 +9,6 @@ It may seem weird but it's actually really useful to me, don't worry about it.
 - [[Productivity]]#
 - [[Procrastination]]#
 - [[The Cognitive Theory]]#
-- [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
 - [[Philosophy]]#
 - [[Authenticity]]#
 - [[Mindfulness]]#
@@ -21,10 +20,8 @@ It may seem weird but it's actually really useful to me, don't worry about it.
 - [[Memory Consolidation]]#
 - [[Socrates]]#
 - [[Education]]#
-- [[Stoicism]]#
 - [[Nutrition]]#
 - [[Bullying]]#
 - [[Social Sciences]]#
 - [[Meditation]]#
 - [[Miki Matsubara]]#
-- [[Zettelkasten]]#
