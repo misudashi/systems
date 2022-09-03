@@ -14,4 +14,5 @@ I am currently learning Japanese and here, I will list every note related to pre
 - [[MOC Weekly Japanese Reviews]]#
 - [[WJR1]]#
 - [[WJR2]]#
+- [[WJR3]]#
 - [[Japanese Ressources Logging]]#
