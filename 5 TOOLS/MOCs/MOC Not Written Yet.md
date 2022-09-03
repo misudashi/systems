@@ -2,10 +2,10 @@
 
 This is kind of a special HUB. Instead of listing notes that are finished, you can see empty notes.
 
-It may seem weird but it's actually really useful to me, don't worry about it.
+It may seem weird but it's actually really useful to me, don't worry about it. I will include notes that have moved, because that's also useful to me. Pretty selfish, I know.
 
 ## Empty pages
-- [[Music]]#
+- [[MOC Music]]#
 - [[Productivity]]#
 - [[Procrastination]]#
 - [[The Cognitive Theory]]#
@@ -25,3 +25,6 @@ It may seem weird but it's actually really useful to me, don't worry about it.
 - [[Social Sciences]]#
 - [[Meditation]]#
 - [[Miki Matsubara]]#
+
+## Moved Notes :
+- [[M-The Zettelkasten Method]]#

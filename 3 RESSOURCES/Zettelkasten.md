@@ -14,12 +14,14 @@ Zettelkasten is a knowledge-managing and a note-taking method. This method is mo
 In addition to facilitating the classification of ideas, this method also aims to improve creativity. Cross-referencing through markers allows users to perceive connections and relationships between individual units of information that might not appear obvious in an isolated context. These emerging aspects of the method thus maintain a certain similarity with the neural networks with which we can converse.
 
 This is how my Zettel Graph looks right now : 
-[![Image](https://misudashi.ga/static/preview_1.png)](https://misudashi.ga/static/preview_1.png)
+[![Image](https://misudashi.ga/static/preview_2.png)](https://misudashi.ga/static/preview_2.png)
 
 - The yellow dots are completed notes.
 - The light blue dots are Tags. 
-- The dark blue dots are article that aren't finished yet. 
+- The light green dots are article that aren't finished yet. 
 - The pink dots are attachments.
 
 - The singular red dot is the home page.
+
+This Graph was made possible by [Obsidian](https://obsidian.md/)
 

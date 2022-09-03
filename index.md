@@ -14,14 +14,15 @@ If you are here for some knowledge on a specific topic, then I would recommend u
 
 For a better experience, I *try* to organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). If you are too lazy to click on the link, basically, a Map Of Content (MOC) can be seen like a folder, but *better*.
 
-For now, the hub points to 5 different categories :
+For now, the hub points to 6 different categories :
 - [[MOC Languages]]#
 - [[MOC Self Improvement]]#
 - [[MOC Notes]]#
 - [[MOC Weekly Japanese Reviews]]#
 - [[MOC Projects]]#
+- [[MOC Music]]#
 
-##  Credits
+## Credits
 
 I want to thank [Morg](https://morg.systems/), who is the person that made me discover Neuron and this idea of sharing my notes. I clicked your profile randomly after you helped me about Japanese via the English-Japanese Exchange Server on Discord.
 
