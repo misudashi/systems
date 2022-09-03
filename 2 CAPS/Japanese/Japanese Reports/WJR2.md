@@ -1,9 +1,9 @@
 # WJR2 28 Aug. -  04 Sept. 2022
 - MOC : [[MOC Weekly Japanese Reviews]]
 - Date : 2022-08-28
-- Tag : #wjr - #in-progress - #permanent
+- Tag : #wjr - #completed  - #permanent
 - Previous Japanese Review : [[WJR1]]
-- Next Japanese Review : This is the current WJR.
+- Next Japanese Review : [[WJR3]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----

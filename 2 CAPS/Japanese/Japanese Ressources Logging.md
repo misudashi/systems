@@ -72,4 +72,4 @@ Expect a mess of links, sometimes repeating.
 - [Beginner native content](https://www.lingq.com/blog/japanese-for-beginners/)
 - [松原みき concert](https://www.youtube.com/watch?v=YlPtE4pFSxA)
 - [Reddit](https://www.reddit.com/r/LearnJapanese/comments/kqgkgx/japanese_youtube_recommendations/)
-- 
+- [YouTube Video (30/40)]([https://youtu.be/FknmUij6ZIk](https://youtu.be/FknmUij6ZIk "https://youtu.be/FknmUij6ZIk"))
