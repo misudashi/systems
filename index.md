@@ -6,7 +6,7 @@ Here, you can view my whole [[Zettelkasten]] System, which contains everything I
 
 ## 📌 How it works
 
-If you're simply curious about all of this, I suggest you simply browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse) section.
+If you're simply curious about all of this, I suggest you browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse) section.
 
 If you are here for some knowledge on a specific topic, then I would recommend using the **Hub**, which you can read more about in the next section.
 
@@ -38,7 +38,7 @@ After using Obsidian for a few weeks only, I realized that it would be pretty *d
 
 **If you learn anything while browsing this website, then my day is made.**
 
-*This website was uploaded in August 2022.*
+*This website was uploaded on the 13th of August 2022.*
 
 ## About Raw Notes:
 
