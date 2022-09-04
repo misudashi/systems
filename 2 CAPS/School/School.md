@@ -1,5 +1,5 @@
 # School Notes
-Here, I will list every single note for school. Feel free to use, re-use them as you wish. They will (mostly) be in French, because I am based there. 
+Here, I will list every single note for school. Feel free to use, or re-use them as you wish. They will (mostly) be in French because I am based there. 
 ## Subjects
 - [[SES Programme]]#
 

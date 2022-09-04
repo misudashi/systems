@@ -1,7 +1,7 @@
 # Misudashi
 - MOC : [[MOC Notes]]
 - Date : Aug. 2022
-- Tag : #in-progress - #pinned 
+- Tag : #completed  - #pinned - #permanent 
 - Linked Notes : /
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)

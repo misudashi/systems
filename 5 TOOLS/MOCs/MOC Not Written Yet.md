@@ -23,6 +23,7 @@ It may seem weird but it's actually really useful to me, don't worry about it. I
 - [[Bullying]]#
 - [[Social Sciences]]#
 - [[Meditation]]#
+- [[Leverage]]#
 
 ## Moved Notes :
 - [[M-The Zettelkasten Method]]#

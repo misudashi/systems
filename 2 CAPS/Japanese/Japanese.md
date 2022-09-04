@@ -15,4 +15,4 @@ I am currently learning Japanese and here, I will list every note related to pre
 - [[WJR1]]#
 - [[WJR2]]#
 - [[WJR3]]#
-- [[Japanese Ressources Logging]]#
+- [[Japanese Resources Logging]]#

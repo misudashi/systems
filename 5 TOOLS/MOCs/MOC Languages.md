@@ -5,7 +5,7 @@ This HUB links every articles I write about any language. I'm currently learning
 ## Articles :
 - 📌 **Pinned** ; [[MOC Weekly Japanese Reviews]]
 ## Others :
-- [[Japanese Ressources Logging]]#
+- [[Japanese Resources Logging]]#
 ## Raw Articles :
 - [[R-The Fastest way to acquire a new language]]#
 

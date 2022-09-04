@@ -9,7 +9,7 @@
 
 ## City Pop
 
-City pop (シティーポップ) is a sub-genre of J-Pop, itself inspired by occidental pop & rock (The Beattles, Beach Boys, ..). It was born on the late 70s, and reached its apogee in the 80s , before declining. Lately, it gained back in popularity because of the Internet, and especially TikTok *via* different trends. 
+City pop (シティーポップ) is a sub-genre of J-Pop, itself inspired by occidental pop & rock (The Beatles, Beach Boys, ..). It was born in the late 70s, and reached its apogee in the 80s, before declining. Lately, it gained back in popularity because of the Internet, and especially TikTok *via* different trends. 
 
 ## Artists I like from City Pop
 - [[Miki Matsubara]]

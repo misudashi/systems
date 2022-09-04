@@ -4,6 +4,18 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 
 
 ## Notes :
+
+### Business:
+- [[3 Habits that made me a millionaire by 18]]#
+
+### [[School]]:
+- [[SES Programme]]
+- [[Comment les économistes, les sociologues et les politistes raisonnent-ils et travaillent-ils]]
+
+### Books:
+- [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
+
+### Others:
 - [[The Bright Spot]]#
 - [[Using the positive emotions to convince someone to change something]]#
 - [[Thoughts on todays education system]]#
@@ -18,16 +30,6 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Zettelkasten]]#
 - [[Stoicism]]#
 
-## Books :
-- [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
-
-## [[School]]
-Here, I will list every single note for school. Feel free to use, re-use them as you wish. They will (mostly) be in French, because I am based there. 
-
-### SES
-- [[SES Programme]]
-- [[Comment les économistes, les sociologues et les politistes raisonnent-ils et travaillent-ils]]
-
 ## Raw Notes :
 Here, you can view my raw notes. Some may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters. Some of them may contain, or even only contain Highlights, which could be in French.
 
@@ -36,7 +38,6 @@ Here, you can view my raw notes. Some may contain sensitive and/or controversial
 - [[R-Simplexité]]#
 - [[R-The importance of authenticity]]#
 - [[R-Random Thoughts]]#
-- [[Misudashi]]#
 
 ## Links :
 - [Home](https://misudashi.ga/)
