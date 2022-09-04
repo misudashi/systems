@@ -8,7 +8,8 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 ### Business:
 - [[3 Habits that made me a millionaire by 18]]#
 
-### [[School]]:
+### School:
+- [[School]]
 - [[SES Programme]]
 - [[Comment les économistes, les sociologues et les politistes raisonnent-ils et travaillent-ils]]
 
