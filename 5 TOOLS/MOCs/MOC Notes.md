@@ -9,6 +9,9 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[3 Habits that made me a millionaire by 18]]#
 
 ### School:
+- [[How to actually have good grades]]#
+- [[Thoughts on todays education system]]#
+--- 
 - [[School]]
 - [[SES Programme]]
 - [[Comment les économistes, les sociologues et les politistes raisonnent-ils et travaillent-ils]]
@@ -16,20 +19,24 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 ### Books:
 - [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
 
-### Others:
+
+### The human mind:
 - [[The Bright Spot]]#
 - [[Using the positive emotions to convince someone to change something]]#
-- [[Thoughts on todays education system]]#
 - [[The forgetting Curve]]#
 - [[The Ebbinghaus Curve]]#
 - [[The 80-20 rule]]#
+- [[Confirmation Bias]]#
+
+
+### Others
 - [[Socrates 3 Filters for Information]]#
 - [[Noting Steps]]#
 - [[Newtons First Law]]#
 - [[Galls Law]]#
-- [[How to actually have good grades]]#
 - [[Zettelkasten]]#
 - [[Stoicism]]#
+
 
 ## Raw Notes :
 Here, you can view my raw notes. Some may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters. Some of them may contain, or even only contain Highlights, which could be in French.
