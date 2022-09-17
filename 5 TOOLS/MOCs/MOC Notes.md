@@ -18,6 +18,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 
 ### Books:
 - [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
+- [[Décodez votre cerveau by Yves-Alexandre Thalmann]]#
 
 
 ### The human mind:
@@ -27,6 +28,8 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[The Ebbinghaus Curve]]#
 - [[The 80-20 rule]]#
 - [[Confirmation Bias]]#
+- [[The Zeigarnik Effect]]#
+- [[The Ovsiankina effect]]
 
 
 ### Others
