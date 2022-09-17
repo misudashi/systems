@@ -29,7 +29,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[The 80-20 rule]]#
 - [[Confirmation Bias]]#
 - [[The Zeigarnik Effect]]#
-- [[The Ovsiankina effect]]
+- [[The Ovsiankina effect]]#
 
 
 ### Others
