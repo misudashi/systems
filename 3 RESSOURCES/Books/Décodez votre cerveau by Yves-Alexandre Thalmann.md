@@ -16,3 +16,4 @@ I would recommend it to anyone who can read French because I don't believe there
 
 Here are a few important concepts of the book I didn't know:
 - [[The Zeigarnik Effect]]#
+- [[Attention is not an infinite resource]]#

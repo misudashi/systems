@@ -11,7 +11,7 @@
 ## Thoughts on failure
 I think we should enjoy the process instead of the event. Every "failure" is part of the process, and we must enjoy every single one of the moments of it, even the bad ones.
 
-Joshua Field Millburn and Ryan Nicodemus shared a sentence I liked in their book on [[R-Minimalism]]: [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]
+Joshua Field Millburn and Ryan Nicodemus shared a sentence I liked in their book on [[Minimalism]]: [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]
 
 "The equation of success is 
 

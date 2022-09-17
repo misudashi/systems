@@ -1,7 +1,7 @@
 # The fastest way to acquire a new language
 - MOC : [[MOC Languages]]
 - Date : Aug. 2022
-- Tag : #in-progress
+- Tag : #permanent - #completed 
 - Linked Notes : 
 - Source : [YouTube](https://youtube.com/)
 -------------------

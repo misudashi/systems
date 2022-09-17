@@ -1,7 +1,7 @@
 # Meditation's Rise
 - MOC : [[MOC Self Improvement]]
 - Date : Aug. 2022
-- Tag : #in-progress
+- Tag : #completed - #permanent 
 - Linked Notes : [[Meditation]]
 - Source : [Bienvenue dans l'ère de la pleine conscience](https://www.scienceshumaines.com/bienvenue-dans-l-ere-de-la-pleine-conscience_fr_44833.html)
 -------------------

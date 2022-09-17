@@ -24,6 +24,7 @@ It may seem weird but it's actually really useful to me, don't worry about it. I
 - [[Social Sciences]]#
 - [[Meditation]]#
 - [[Leverage]]#
+- [[Attention]]#
 
 ## Moved Notes :
 - [[M-The Zettelkasten Method]]#

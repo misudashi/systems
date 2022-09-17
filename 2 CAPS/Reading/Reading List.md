@@ -23,3 +23,5 @@
 - The 4 hours week
 - [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
 - Atomic Habits
+- The Bezos Letters
+- [[Décodez votre cerveau by Yves-Alexandre Thalmann]]#

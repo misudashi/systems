@@ -18,6 +18,6 @@ Here are a few important concepts I noted while reading it :
 - [[To give is to live]]
 - [[Thoughts on failure]]
 - [[Whats my added value]]
-- [[R-The importance of authenticity]]
+- [[The importance of authenticity]]
 
 The book talked about different aspects of minimalism. Of course, it talked about getting rid of objects that aren't useful to you, but I liked how it sort of got deeper into it. A piece of advice that was given was to also "get rid" of toxic relationships, which made me think deeply. I won't spoil the whole book though, because I truly think it is a must-read! 

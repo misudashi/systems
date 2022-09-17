@@ -31,9 +31,11 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Confirmation Bias]]#
 - [[The Zeigarnik Effect]]#
 - [[The Ovsiankina effect]]#
+- [[Attention is not an infinite resource]]#
 
 
 **Others :**
+- **[[Random Thoughts]]#**
 - [[Socrates 3 Filters for Information]]#
 - [[Noting Steps]]#
 - [[Newtons First Law]]#
@@ -41,16 +43,16 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Zettelkasten]]#
 - [[Stoicism]]#
 - [[Using AI to enhance your photos]]#
+- [[Sucking at something]]#
+- [[The equation of coaching]]#
+- [[Simplexity]]#
+- [[The Laws of Simplicity]]#
 
 
 ### Raw Notes :
 Here, you can view my raw notes. Some may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters. Some of them may contain, or even only contain Highlights, which could be in French.
 
-- [[R-There is no definitive version of ourselves.]]#
-- [[R-The Laws of Simplicity]]#
-- [[R-Simplexité]]#
-- [[R-The importance of authenticity]]#
-- [[R-Random Thoughts]]#
+*I reviewed each note in this section ! Check [[MOC Self Improvement]] for more...*
 
 ## Links :
 - [Home](https://misudashi.ga/)
