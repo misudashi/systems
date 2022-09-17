@@ -39,6 +39,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Galls Law]]#
 - [[Zettelkasten]]#
 - [[Stoicism]]#
+- [[Using AI to enhance your photos]]#
 
 
 ## Raw Notes :
