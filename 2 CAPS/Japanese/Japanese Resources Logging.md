@@ -76,3 +76,4 @@ Expect a mess of links, sometimes repeating.
 - [Yuta](https://www.yutaaoki.com/lp/jp2/japanese-with-yuta.html?utm_source=youtube&utm_medium=ant-jp-tips&utm_content=is-jp-hard)
 - [Yuta YouTube](https://www.youtube.com/watch?v=3OnCZbS5R5M)
 - [Crunchy Nihongo](https://crunchynihongo.com/)
+- [Insanely useful video which explains Verb Conjugation](https://www.youtube.com/watch?v=UHo3qUb79No)
