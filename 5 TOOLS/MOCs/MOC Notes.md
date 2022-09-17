@@ -5,18 +5,18 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 
 ## Notes :
 
-- Business :
+**Business :**
 - [[3 Habits that made me a millionaire by 18]]#
-- School :
+**School :**
 - [[How to actually have good grades]]#
 - [[Thoughts on todays education system]]#
 - [[School]]
 - [[SES Programme]]
 - [[Comment les économistes, les sociologues et les politistes raisonnent-ils et travaillent-ils]]
-- Books :
+**Books :**
 - [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
 - [[Décodez votre cerveau by Yves-Alexandre Thalmann]]#
-- The Human Mind :
+**The Human Mind :**
 - [[The Bright Spot]]#
 - [[Using the positive emotions to convince someone to change something]]#
 - [[The forgetting Curve]]#
@@ -25,7 +25,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Confirmation Bias]]#
 - [[The Zeigarnik Effect]]#
 - [[The Ovsiankina effect]]#
-- Others :
+**Others :**
 - [[Socrates 3 Filters for Information]]#
 - [[Noting Steps]]#
 - [[Newtons First Law]]#

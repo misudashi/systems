@@ -11,7 +11,8 @@
 
 To do so, you can use [ClipDrop](https://clipdrop.co/relight)
 
-Here is a little comparison of what the AI is capable of:
+Here is a little comparison of what the AI is capable of.
+
 Before :
 
 
