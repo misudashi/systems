@@ -72,7 +72,7 @@ Expect a mess of links, sometimes repeating.
 - [Beginner native content](https://www.lingq.com/blog/japanese-for-beginners/)
 - [松原みき concert](https://www.youtube.com/watch?v=YlPtE4pFSxA)
 - [Reddit](https://www.reddit.com/r/LearnJapanese/comments/kqgkgx/japanese_youtube_recommendations/)
-- [YouTube Video 30/40min]([https://youtu.be/FknmUij6ZIk](https://youtu.be/FknmUij6ZIk "https://youtu.be/FknmUij6ZIk"))
+- [YouTube Video 30/40min](https://youtu.be/FknmUij6ZIk)
 - [Yuta](https://www.yutaaoki.com/lp/jp2/japanese-with-yuta.html?utm_source=youtube&utm_medium=ant-jp-tips&utm_content=is-jp-hard)
 - [Yuta YouTube](https://www.youtube.com/watch?v=3OnCZbS5R5M)
 - [Crunchy Nihongo](https://crunchynihongo.com/)
