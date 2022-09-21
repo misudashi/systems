@@ -18,4 +18,5 @@ I am currently learning Japanese and here, I will list every note related to pre
 - [[WJR4]]#
 - [[When to use question marks in Japanese]]#
 - [[下さい kudasai can be rude]]#
+- [[How to express wanted to go instead of to go]]#
 - [[Japanese Resources Logging]]#

@@ -6,6 +6,8 @@ This HUB links every articles I write about any language. I'm currently learning
 - 📌 **Pinned** ; [[MOC Weekly Japanese Reviews]]
 - [[The Fastest way to acquire a new language]]#
 
+## Languages
+- [[Japanese]]
 ## Others :
 - [[Japanese Resources Logging]]#
 
