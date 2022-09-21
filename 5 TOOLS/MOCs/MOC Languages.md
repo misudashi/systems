@@ -2,9 +2,10 @@
 
 This HUB links every articles I write about any language. I'm currently learning Japanese and Spanish, and I am fluent in English and in French.
 
-## Notes :
+## Articles
 - 📌 **Pinned** ; [[MOC Weekly Japanese Reviews]]
-- [[The Fastest way to acquire a new language]]
+- [[The Fastest way to acquire a new language]]#
+
 ## Others :
 - [[Japanese Resources Logging]]#
 

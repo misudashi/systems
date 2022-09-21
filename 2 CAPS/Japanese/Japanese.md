@@ -15,4 +15,7 @@ I am currently learning Japanese and here, I will list every note related to pre
 - [[WJR1]]#
 - [[WJR2]]#
 - [[WJR3]]#
+- [[WJR4]]#
+- [[When to use question marks in Japanese]]#
+- [[下さい kudasai can be rude]]#
 - [[Japanese Resources Logging]]#

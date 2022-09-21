@@ -21,7 +21,8 @@
 - Ego is the enemy
 - Introduction à la pensée complexe
 - The 4 hours week
-- [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
 - Atomic Habits
 - The Bezos Letters
+- Trous noirs et bébés univers - Stephen Hawking
 - [[Décodez votre cerveau by Yves-Alexandre Thalmann]]#
+- [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
