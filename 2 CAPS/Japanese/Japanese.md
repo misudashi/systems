@@ -20,3 +20,7 @@ I am currently learning Japanese and here, I will list every note related to pre
 - [[下さい kudasai can be rude]]#
 - [[How to express wanted to go instead of to go]]#
 - [[Japanese Resources Logging]]#
+- [[Which 'I' should I use]]#
+- [[Do not always use 私]]#
+- [[How to say yes and no]]#
+- [[Don't just say no]]#
