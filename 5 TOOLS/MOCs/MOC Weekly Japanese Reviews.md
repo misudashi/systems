@@ -6,7 +6,7 @@ The Weekly Japanese Reviews (WJR) will (I hope) be consistent notes in which I w
 
 ## 📌 Pinned Reviews
 #### Current Review :
-- [[WJR3]]
+- [[WJR4]]
 
 #### First Review :
 - [[WJR1]]#
