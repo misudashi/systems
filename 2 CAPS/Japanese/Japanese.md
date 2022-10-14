@@ -9,7 +9,7 @@
 
 ## Japanese
 
-I am currently learning Japanese and here, I will list every note related to precisely that. 
+I am currently learning Japanese and here, I will list every note related to precisely that. I'm pretty sure some notes will be filled with mistakes, so if you notice anything that sounds weird to you, feel absolutely free to contact me on Discord ([[Misudashi]]).
 
 - [[MOC Weekly Japanese Reviews]]#
 - [[WJR1]]#
