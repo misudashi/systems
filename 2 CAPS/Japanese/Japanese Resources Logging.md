@@ -77,3 +77,5 @@ Expect a mess of links, sometimes repeating.
 - [Yuta YouTube](https://www.youtube.com/watch?v=3OnCZbS5R5M)
 - [Crunchy Nihongo](https://crunchynihongo.com/)
 - [Insanely useful video which explains Verb Conjugation](https://www.youtube.com/watch?v=UHo3qUb79No)
+- [Japanese TV Show 1](https://youtu.be/7By_AJfrnrw)
+- [The difference between が and は](https://www.tofugu.com/japanese/wa-and-ga/)
