@@ -13,6 +13,8 @@
 #### よつばと！(漫画)
 I downloaded [the scans of よつばと!](https://drive.google.com/drive/folders/1jcCUZOxOgJz0qxmUz5aMmITIo5IaaP-0) after seeing a YouTube video talk about it. 
 
+From what I've understood so far, it seems that よつば is a young girl who's moving houses. I figured that out because I saw 「ここ家がいっぱい」, in which I recognized 「家(いえ)」 and 「ここ」, which means here. {漢字|かんじ}
+
 #### Yuta's Japanese Guide
 
 I went through a few videos of my man Yuta Aoki and I have to admit it, he explains things quite well. I've taken 2 notes already (which you can see in [[Japanese]]). I have watched a few videos of his, and I like the structure of his lessons. 
