@@ -32,6 +32,15 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[The Zeigarnik Effect]]#
 - [[The Ovsiankina effect]]#
 - [[Attention is not an infinite resource]]#
+- [[Neuroplasticity]]#
+- [[The 5 Basic modules of our brain]]#
+- [[The neutrality of our perception]]#
+- [[The autonomous production of thoughts]]#
+- [[The flow (the zone)]]#
+- [[Using mind shortcuts]]#
+- [[Heuristics]]#
+- [[Creation of meanings to link the information to be memorized]]#
+- [[The best way to learn]]#
 
 
 **Others :**

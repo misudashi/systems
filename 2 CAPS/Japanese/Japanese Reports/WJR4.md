@@ -30,6 +30,7 @@ The main reason why I wasn't able to consume a lot of native content is because 
 I ended up reading a Wikipedia page about the roman emperors, and daily weather in Japan. I actually picked up some words, and I was very surprised I could sometimes even get a general idea of what a sentence meant. I think I'm getting a bit better at it, and that's awesome. That means that I should really continue doing that, in addition to the daily Anki (and Duolingo) sessions. My goal for now would be to get about 30 minutes of Japanese content in per day.
 
 ### 日本のテレビ番組
+
 この日本のテレビ番組はゲームをする番組です。そのゲームでは伏せられた平仮名を推測して当てます。
 
 The participants were in front of a brick wall, and when it was their turn, they were supposed to guess the missing 平仮名 of a word. The more time they took, the more a brick behind them would go forward, forcing them to adopt funny positions to avoid falling into the void. 
