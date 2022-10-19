@@ -15,7 +15,7 @@ I downloaded [the scans of よつばと!](https://drive.google.com/drive/folders
 
 From what I've understood so far, it seems that よつば is a young girl who's moving houses. I figured that out because I saw 「ここ家がいっぱい」, in which I recognized 「家」 and 「ここ」. I learned a new way of saying 「すごい」, which is 「すげえ」. I had to look up the word in order to realize they were the same.
 
-The 漫画 seems pretty cool, and honestly not too hard to read. Though, I doubt that it will be a practical way to learn Japanese, due to the fact that I'm reading it using a scan, which makes it impossible to select a word and copy-paste it into [jisho.org](https://jisho.org/), or to use Yomichan, making things extra-difficult when there is a sentence I don't understand at all. I think I would rather study Japanese texts on a website, so I can quickly look up things when I want to. I will try to look more into that if I have the time.
+The 漫画 seems pretty cool, and honestly not too hard to read. Though, I doubt that it will be a practical way to learn Japanese, due to the fact that I'm reading it using a scan, which makes it impossible to select a word and copy-paste it into [jisho.org](https://jisho.org/), or to use Yomichan, making things extra-difficult when there is a sentence I don't understand at all. I think I would rather study Japanese texts on a website, so I can quickly look up things when I want to.
 
 ### Yuta's Japanese Guide
 
@@ -25,9 +25,9 @@ The only thing I can criticize is him insisting a lot on the courses he sells. I
 
 ### Browsing the Internet
 
-The main reason why I wasn't able to consume a lot of native content is because I was too busy. (Like actually, no excuses being made). But whenever I had 5 minutes of free time this week, I tried doing random researches on the Internet and to browse the pages. 
+I tried doing random researches on the Internet to browse web pages. 
 
-I ended up reading a Wikipedia page about the roman emperors, and daily weather in Japan. I actually picked up some words, and I was very surprised I could sometimes even get a general idea of what a sentence meant. I think I'm getting a bit better at it, and that's awesome. That means that I should really continue doing that, in addition to the daily Anki (and Duolingo) sessions. My goal for now would be to get about 30 minutes of Japanese content in per day.
+I ended up reading a Wikipedia page about the roman emperors, and daily weather in Japan. I actually picked up some words, and I was very surprised I could sometimes even get a general idea of what a sentence meant (without using Yomichan). I think I'm getting a bit better at it, and that's awesome.
 
 ### 日本のテレビ番組
 
@@ -46,3 +46,19 @@ After watching the episode 2 (the one I just talked about being the 3rd one), I 
 I did enjoy this episode, but my favorite character "died" pretty quickly because he made a dumb mistake. 
 
 I find it pretty funny how they make the candidates "die". Instead of simply falling in water, or out of the camera's field of view, they literally fell into the void, disappearing in darkness while hearing their voice fade away. I wonder how they did that. Probably using blue screens? 
+
+### News Web Easy
+I found this awesome website named [New Web Easy](https://www3.nhk.or.jp/news/easy/article/disaster_rain.html), which rewrites web articles in simpler Japanese so beginners can understand them. I can't thank them enough, because it actually makes it fun to read random stuff now! 
+
+Also, since it is a website, I can use Yomichan, which saves a ton of time. I really want to start mining words, but on the other hand I am scared of burning out. I may start by getting 1, 2, or 3 new words per day in addition to my current N5 deck in Anki. 
+
+#### [最近ほめられていない取材班がほめる大切さを取材してみた](https://www3.nhk.or.jp/news/html/20221019/k10013863591000.html)
+この ニュース記事は 学生と先生の関係についてのものです。
+
+I didn't understand everything, but I think the article talked about a "method" which is called 「ほめ育」, which consists in complementing more the your students to have a better relationship with them.
+### Pitch accent training
+I also trained my pitch accent using [this test](https://kotu.io/tests/pitchAccent/minimalPairs).
+
+![Image](https://misudashi.ga/static/19-10-2022-pitch-accent.png)
+
+Here is my score out of 100 tries so far. I'll keep updating it as I get better at it, my goal to get anywhere from 95 to 100% correct answers.
