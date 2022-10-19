@@ -1,4 +1,4 @@
-# WJR2 28 Aug. -  04 Sept. 2022
+# Weekly JP Report 2: 28 Aug. -  04 Sept. 2022
 - MOC : [[MOC Weekly Japanese Reviews]]
 - Date : 2022-08-28
 - Tag : #wjr - #completed  - #permanent
@@ -61,21 +61,7 @@ I learned a little bit more about the different levels JLPT has to offer, and I 
 
 I really am planning to enjoy the process, and not the event. I want to actually enjoy my learning journey, rather than hating it but having the hope that someday I will be fluent, because that probably will never happen with this mindset anyway. That's also why I am not setting any goals, when I generally set monthly and yearly goals for about anything in my life. I really see Japanese as a hobby, or something I like doing on my free time (still consistently) rather than a "Project" or whatever other people consider it.
 
-I also found [some interesting website](https://www.fluentin3months.com/jlpt-n5-kanji/#:~:text=At%20the%20N5%20level%2C%20the,%2C%20basic%20adjectives%2C%20and%20directions.) that, apparently, lists all the Kanji I need to know for N5. The author linked an Anki deck, which at first, seemed pretty good to me. But when I started reading the comments and the reviews... Oh boy... You can read them [here](https://ankiweb.net/shared/info/1956010956) if you want. I think I'll pass for now, and I may actually create my very own deck which I will simply call 'Mining', and in which I will also include Tae Kim's vocabulary. I'll take this decision later on as I'm not ready just yet to start mining my own sentences.](<After a small conversation with ``Frozen#6394`` from EJLE, I decided to rush through Tae Kim's Grammar guide (while, of course, trying to understand it) and then jump right into simple native content to avoid losing motivation.
-
-![Image](https://misudashi.github.io/systems/static/beginner-steps.png)
-
-Once I have *really weak* grammar bases, I will take the first easy native manga I see and I will try to understand what is said using a dictionary.
-
-At first, I will not understand anything that is said, but I think I will enjoy this pain more than the pain of learning religiously each page of a grammar book.
-
-With that said, I am at the 53rd page out of more than 500, so I may want to speed up a bit the process. From now on, I will be simply reading and understanding. I also noticed that there was a lot of casual vocabulary that I may want to mine and add to a potential Anki deck someday. It has words like 「先生」(which means Teacher), etcetera that is useful to acquire.
-
-I learned a little bit more about the different levels JLPT has to offer, and I have to say, N5 seems far less difficult than my first impression. What I initially thought was that you needed to learn 2000 Kanji to be able to pass the test, but I overestimated that somehow because it requires only about 100! That's 20x less! I will probably be able to learn them in a few months, but that doesn't mean I will be able to take N5 yet! As Japanese is not my main focus in life, I plan on having from 20 minutes to an hour each day for it. That's all. So I won't get results as fast as people who spend 8 hours each day learning using Anki and even more optimized resources that I don't even know. 
-
-I am planning to enjoy the process and not the event. I want to enjoy my learning journey, rather than hating it but having the hope that someday I will be fluent because that probably will never happen with this mindset anyway. That's also why I am not setting any goals when I generally set monthly and yearly goals for about anything in my life. I see Japanese as a hobby, something I like doing in my free time (still consistently) rather than a "Project" or whatever other people consider it.
-
-I also found [some interesting website](https://www.fluentin3months.com/jlpt-n5-kanji/#:~:text=At%20the%20N5%20level%2C%20the,%2C%20basic%20adjectives%2C%20and%20directions.) that, apparently, lists all the Kanji I need to know for N5. The author linked an Anki deck, which at first, seemed pretty good to me. But when I started reading the comments and the reviews... Oh boy... You can read them [here](https://ankiweb.net/shared/info/1956010956) if you want. I think I'll pass for now, and I may actually create my very own deck which I will simply call 'Mining', and in which I will also include Tae Kim's vocabulary. I'll take this decision later on as I'm not ready just yet to start mining my sentences.>)
+I also found [some interesting website](https://www.fluentin3months.com/jlpt-n5-kanji/#:~:text=At%20the%20N5%20level%2C%20the,%2C%20basic%20adjectives%2C%20and%20directions.) that, apparently, lists all the Kanji I need to know for N5. The author linked an Anki deck, which at first, seemed pretty good to me. But when I started reading the comments and the reviews... Oh boy... You can read them [here](https://ankiweb.net/shared/info/1956010956) if you want. I think I'll pass for now, and I may actually create my very own deck which I will simply call 'Mining', and in which I will also include Tae Kim's vocabulary. I'll take this decision later on as I'm not ready just yet to start mining my own sentences.
 
 ----
 ### A note on Duolingo
@@ -97,7 +83,7 @@ I watched [some of Livakivi's videos](https://www.youtube.com/c/Livakivi) and I 
 I'm only at the 66th page out of 353, so even simply reading through it probably will bit a bit longer than I expected. Though, I do learn a lot of things every time I get back into it. It is half fun, half un-fun in my opinion because I would prefer reading actual books, but at the same time, I enjoy suffering. I will probably finish it at the end of September.
 
 ----
-- Next Japanese Review : This is the current WJR
+- Next Japanese Review : [[WJR3]]
 - Previous Japanese Review : [[WJR1]]
 
 ----

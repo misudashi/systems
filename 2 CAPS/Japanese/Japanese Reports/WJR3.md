@@ -1,4 +1,4 @@
-# WJR3 11 Sept. -  18 Sept. 2022
+# Weekly JP Report 3: 11 Sept. -  18 Sept. 2022
 - MOC : [[MOC Weekly Japanese Reviews]]
 - Date : 2022-09-05
 - Tag : #wjr - #completed - #permanent 

@@ -1,4 +1,4 @@
-# WJR1 15 Aug. -  21 Aug. 2022
+# Weekly JP Report 1: 15 Aug. -  21 Aug. 2022
 - MOC : [[MOC Weekly Japanese Reviews]]
 - Date : 2022-08-15
 - Tag : #wjr - #completed - #permanent

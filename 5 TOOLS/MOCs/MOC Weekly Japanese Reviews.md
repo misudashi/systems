@@ -5,10 +5,9 @@ The Weekly Japanese Reviews (WJR) will (I hope) be consistent notes in which I w
 *Also, I originally thought of that as Daily Notes. That's why you have 3 consecutive Reviews, and that's also why they're a bit messy.*
 
 ## 📌 Pinned Reviews
-#### Current Review :
+### Current Review :
 - [[WJR4]]
-
-#### First Review :
+### First Review :
 - [[WJR1]]#
 
 ## All Reviews
