@@ -24,6 +24,9 @@ Here are a few important concepts of the book I didn't know:
 - [[Using mind shortcuts]]#
 - [[Creation of meanings to link the information to be memorized]]#
 - [[The best way to learn]]#
+- [[Our memories aren't true]]#
+- [[Repetition is central to our learning]]#
+- [[Neurogenesis]]#
 
 - [[The Zeigarnik Effect]]#
 - [[Attention is not an infinite resource]]#

@@ -20,4 +20,4 @@ I don't have any social media but you can send me an e-mail, to which I will be 
 
 `misudashi AT yahoo.com`
 
-Alternatively, you can contact me *via* Discord : `Misudashi#4584`
+Alternatively, you can contact me *via* Discord : `Misudashi#4584`, even if I tend to reply less often.

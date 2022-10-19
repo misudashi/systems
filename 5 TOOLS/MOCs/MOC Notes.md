@@ -41,6 +41,9 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Heuristics]]#
 - [[Creation of meanings to link the information to be memorized]]#
 - [[The best way to learn]]#
+- [[Our memories aren't true]]#
+- [[Repetition is central to our learning]]#
+- [[Neurogenesis]]#
 
 
 **Others :**
