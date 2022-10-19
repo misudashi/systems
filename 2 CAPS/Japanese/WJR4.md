@@ -56,6 +56,11 @@ Also, since it is a website, I can use Yomichan, which saves a ton of time. I re
 この ニュース記事は 学生と先生の関係についてのものです。
 
 I didn't understand everything, but I think the article talked about a "method" which is called 「ほめ育」, which consists in complementing more the your students to have a better relationship with them.
+
+### "[Ice Staircase Race](https://www.youtube.com/watch?v=XHXKJqQp-Is&t=330s)" 日本のテレビ番組
+この日本のテレビ番組は短いです。
+
+It was very funny, because the candidates kept making others fall everytime they failed to reach the top. As I said, it was pretty short, and I think it's also a very popular clip on social media, but it's always good to review your classics ;)
 ### Pitch accent training
 I also trained my pitch accent using [this test](https://kotu.io/tests/pitchAccent/minimalPairs).
 
