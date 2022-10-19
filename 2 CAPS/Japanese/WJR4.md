@@ -13,7 +13,7 @@
 ## Manga 漫画
 I downloaded [the scans of よつばと!](https://drive.google.com/drive/folders/1jcCUZOxOgJz0qxmUz5aMmITIo5IaaP-0) after seeing a YouTube video talk about it. From what I've understood so far, it seems that よつば is a young girl who's moving houses. I figured that out because I saw 「ここ家がいっぱい」, in which I recognized 「家」 and 「ここ」. I learned a new way of saying 「すごい」, which is 「すげえ」. I had to look up the word in order to realize they were the same. The manga seems pretty cool, and honestly not too hard to read. Though, I doubt that it will be a practical way to learn Japanese, due to the fact that I'm reading it using a scan, which makes it impossible to select a word and copy-paste it into [jisho.org](https://jisho.org/), or to use Yomichan, making things extra-difficult when there is a sentence I don't understand at all. I think I would rather study Japanese texts on a website, so I can quickly look up things when I want to.
 
-### Japanese TV Shows 日本のテレビ番組
+## Japanese TV Shows 日本のテレビ番組
 ### [TORE]((https://youtu.be/7By_AJfrnrw)
 この日本のテレビ番組はゲームをする番組です。そのゲームでは伏せられた平仮名を推測して当てます。
 
