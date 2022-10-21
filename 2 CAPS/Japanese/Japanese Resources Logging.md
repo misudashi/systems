@@ -80,3 +80,4 @@ Expect a mess of links, sometimes repeating.
 - [Japanese TV Show 1](https://youtu.be/7By_AJfrnrw)
 - [The difference between が and は](https://www.tofugu.com/japanese/wa-and-ga/)
 - [Web News Easy](https://www3.nhk.or.jp/news/easy/article/disaster_rain.html)
+- [Where to find helpful JP content](https://www.lingq.com/blog/japanese-for-beginners/)

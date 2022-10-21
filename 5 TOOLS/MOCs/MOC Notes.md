@@ -44,6 +44,8 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Our memories aren't true]]#
 - [[Repetition is central to our learning]]#
 - [[Neurogenesis]]#
+- [[Superstitions]]#
+- [[Causality Bias]]#
 
 
 **Others :**

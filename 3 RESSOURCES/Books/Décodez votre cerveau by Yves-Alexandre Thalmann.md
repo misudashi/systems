@@ -27,6 +27,7 @@ Here are a few important concepts of the book I didn't know:
 - [[Our memories aren't true]]#
 - [[Repetition is central to our learning]]#
 - [[Neurogenesis]]#
+- [[Superstitions]]#
 
 - [[The Zeigarnik Effect]]#
 - [[Attention is not an infinite resource]]#

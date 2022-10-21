@@ -27,6 +27,10 @@ Eventually, everyone except one team was eliminated, so I think they won. I reco
 
 この日本のテレビ番組は短いです。It was very funny, because the candidates kept making others fall everytime they failed to reach the top. As I said, it was pretty short, and I think it's also a very popular clip on social media, but it's always good to review your classics ;)
 
+### [Wall of Boxes](https://www.youtube.com/watch?v=sGsgSJ5ZQaY)
+
+
+
 ## Web Articles ニュース記事
 I tried doing random researches on the Internet to browse web pages. I ended up reading a Wikipedia page about the roman emperors, and daily weather in Japan. I actually picked up some words, and I was very surprised I could sometimes even get a general idea of what a sentence meant (without using Yomichan). I think I'm getting a bit better at it, and that's awesome.
 
@@ -36,7 +40,9 @@ I also found this awesome website named [New Web Easy](https://www3.nhk.or.jp/ne
 
 この ニュース記事は 学生と先生の関係についてのものです。I didn't understand everything, but I think the article talked about a "method" which is called 「ほめ育」, which consists in complementing more the your students to have a better relationship with them.
 
+### [人生120年時代の到来！？「アンチエイジング医学」を超速解説](https://www6.nhk.or.jp/nhkpr/post/trailer.html?i=35991)
 
+このニュース記事はアンチエイジング医学についてのものです。I don't think I had access to the whole article because of how short it was, but I understood it as a sort of ad for a longevity medicine that is supposed to allow you to live up to 120 years old.
 ## Pitch accent training
 I also trained my pitch accent using [this test](https://kotu.io/tests/pitchAccent/minimalPairs).
 
