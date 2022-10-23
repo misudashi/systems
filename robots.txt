@@ -1,0 +1,2 @@
+# Sitemap file
+Sitemap : https://misudashi.ga/static/sitemap.xml

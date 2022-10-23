@@ -90,3 +90,5 @@ Expect a mess of links, sometimes repeating.
 - [Simply Stories list](https://dokushoclub.com/free-reading-resources/n5-free-reading-resources/)
 - [Short story: 東京スカイツリー](https://yomujp.com/n5_tokyo_skytree/)
 - [Short story: やさい](https://yomujp.com/n6_yasai/)
+- [Genki by Andy](https://www.youtube.com/watch?v=ftXNzFRpDbk&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=2)
+- 
