@@ -4,7 +4,7 @@ Hi, I'm [[Misudashi]]#.
 
 This website is my *Second Brain*, which contains a good part of all the knowledge I've acquired for the last few months in various topics, using **notes**.
 
-> This website was firstly uploaded the 13th of August 2022.
+
 
 ## 📌 How it works
 
@@ -54,7 +54,7 @@ If you like what I write here, and you would like to motivate me, you can donate
 
 *-[[Misudashi]] - 三スダッ*
 
-
+> This website was uploaded for the first time on the 13th of August 2022.
 
 ###### Tag
 #pinned
