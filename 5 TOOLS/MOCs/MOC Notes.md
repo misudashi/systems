@@ -46,6 +46,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Neurogenesis]]#
 - [[Superstitions]]#
 - [[Causality Bias]]#
+- [[The will to stay consistent]]#
 
 
 **Others :**

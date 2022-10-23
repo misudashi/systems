@@ -9,7 +9,7 @@
 
 ## Japanese Ressources
 
-Here will be listed every single ressource I have used on my journey to learn Japanese. 
+Here will be listed every single ressource I have used on my journey to learn Japanese. It includes JP Teaching content as well as immersion.
 
 Expect a mess of links, sometimes repeating. 
 
@@ -77,7 +77,16 @@ Expect a mess of links, sometimes repeating.
 - [Yuta YouTube](https://www.youtube.com/watch?v=3OnCZbS5R5M)
 - [Crunchy Nihongo](https://crunchynihongo.com/)
 - [Insanely useful video which explains Verb Conjugation](https://www.youtube.com/watch?v=UHo3qUb79No)
-- [Japanese TV Show 1](https://youtu.be/7By_AJfrnrw)
+- [TV Gameshow](https://youtu.be/7By_AJfrnrw)
 - [The difference between が and は](https://www.tofugu.com/japanese/wa-and-ga/)
 - [Web News Easy](https://www3.nhk.or.jp/news/easy/article/disaster_rain.html)
+- [よつばと!](https://drive.google.com/drive/folders/1jcCUZOxOgJz0qxmUz5aMmITIo5IaaP-0)
 - [Where to find helpful JP content](https://www.lingq.com/blog/japanese-for-beginners/)
+- [A guide on "and"](https://www.youtube.com/watch?v=SjdkJhGtFlk)
+- [TV Gameshow: Ice Staircase Race](https://www.youtube.com/watch?v=XHXKJqQp-Is&t=330s)
+- [TV Gameshow: Wall of Boxes](https://www.youtube.com/watch?v=sGsgSJ5ZQaY)
+- [人生120年時代の到来！？「アンチエイジング医学」を超速解説](https://www6.nhk.or.jp/nhkpr/post/trailer.html?i=35991)
+- [最近ほめられていない取材班がほめる大切さを取材してみた](https://www3.nhk.or.jp/news/html/20221019/k10013863591000.html)
+- [Simply Stories list](https://dokushoclub.com/free-reading-resources/n5-free-reading-resources/)
+- [Short story: 東京スカイツリー](https://yomujp.com/n5_tokyo_skytree/)
+- [Short story: やさい](https://yomujp.com/n6_yasai/)

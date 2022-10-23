@@ -28,8 +28,15 @@ Eventually, everyone except one team was eliminated, so I think they won. I reco
 この日本のテレビ番組は短いです。It was very funny, because the candidates kept making others fall everytime they failed to reach the top. As I said, it was pretty short, and I think it's also a very popular clip on social media, but it's always good to review your classics ;)
 
 ### [Wall of Boxes](https://www.youtube.com/watch?v=sGsgSJ5ZQaY)
+Wall of Boxesという日本のTV Gameshowで、参加者は壁の上にいて、数字を選ばなければなりませんでした。
+数字を選ぶたびに違うイベントが起こり、壁の一部が破壊されていきます。
+最後に自分の壁に立っていた参加者が勝ちです。
+浜田さんは高所恐怖症なので、とても怖かったそうですが、勇気を出してゲームに参加しました。
 
+## YouTube ユーチューブ
+I discovered a wholesome YouTube channeいつnamed Watercolor by Shibasaki. His videos are about painting, and he talks in the background. It's very cute, and I think he draw really well! 
 
+I like how the Japanese content on YouTube is so different from the content in the rest of the world. When I was searching for Japanese content creators, I discovered a video where a young man entered a creepy all-pink messy apartment or something, and I didn't understand anything that was happening. A weird man guided him through what I assume are his collections of children's pink toys. Maybe it was for Halloween? Anyway, I like the diversity of a website such as YouTube, because it has hundreds of hours of content for immersion. That's also where I watch the Japanese TV Shows I like, such as TORE or the Ice Staircase Race.
 
 ## Web Articles ニュース記事
 I tried doing random researches on the Internet to browse web pages. I ended up reading a Wikipedia page about the roman emperors, and daily weather in Japan. I actually picked up some words, and I was very surprised I could sometimes even get a general idea of what a sentence meant (without using Yomichan). I think I'm getting a bit better at it, and that's awesome.
@@ -46,6 +53,6 @@ I also found this awesome website named [New Web Easy](https://www3.nhk.or.jp/ne
 ## Pitch accent training
 I also trained my pitch accent using [this test](https://kotu.io/tests/pitchAccent/minimalPairs).
 
-![Image](https://misudashi.ga/static/19-10-2022-pitch-accent.png)
-
-Here is my score out of 100 tries so far. I'll keep updating it as I get better at it, my goal to get anywhere from 95 to 100% correct answers.
+Out of 100 tries, I got:
+- 88% the first day
+- 94% the second day

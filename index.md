@@ -1,10 +1,14 @@
 # Misudashi Systems
 
-Hi, I am [[Misudashi]]#. Welcome to my website, which I call my **2nd Brain** *(fancy name)*
+Hi, I'm [[Misudashi]]#. 
 
-Here, you can view my whole [[Zettelkasten]] System, which contains everything I have ever created, read, watched, or thought.
+This website is my *Second Brain*, which contains a good part of all the knowledge I've acquired for the last few months in various topics, using **notes**.
+
+> This website was firstly uploaded the 13th of August 2022.
 
 ## 📌 How it works
+
+The notes I take are similar to the ones of a [[Zettelkasten]] system, but the organization sometimes differs a  bit from the original concept.
 
 If you're simply curious about all of this, I suggest you browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse) section.
 
@@ -14,7 +18,7 @@ If you are here for some knowledge on a specific topic, then I would recommend u
 
 For a better experience, I *try to* organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). They can be seen as folders, but *better*.
 
-For now, the hub points to 6 different categories :
+For now, the hub points to 6 different Maps of Content:
 - [[MOC Languages]]#
 - [[MOC Self Improvement]]#
 - [[MOC Notes]]#
@@ -24,26 +28,22 @@ For now, the hub points to 6 different categories :
 
 ## Credits
 
-I want to thank [Morg](https://morg.systems/), who is the person that made me discover Neuron and this idea of sharing my notes. I clicked your profile randomly after you helped me with Japanese via the English-Japanese Exchange Server on Discord.
+I want to thank [Morg](https://morg.systems/), who is the person that made me discover Neuron and this idea of sharing my notes. 
 
 - This is possible because of [Neuron](https://neuron.zettel.page/), a powerful tool with a welcoming community.
 - To publish my notes, I use [GH Pages](https://pages.github.com/).
 - I use [Obsidian](https://obsidian.md/) to edit them.
 - Some notes I am taking can be highlights from what I've read. I do not pretend owning any of the stuff I write here, it is simply a database of my knowledge, so feel free to re-use it.
 
-After using Obsidian for a few weeks, I thought it would be pretty cool to share the knowledge I acquire with others. 
+## Quick Disclaimer:
 
-**If you learn anything while browsing my notes, then my day is made.**
+The Raw [[MOC Notes]]# may be messy, because they are meant to be re-read by myself so I can later turn them into permanent notes. They will often be filled with **Highlights**, which are the "interesting parts" I want to save in my memory when I read/listen to something. Thus, they can be in other languages such as French.
 
-*This website was uploaded on the 13th of August 2022.*
+If you feel like what I am saying in these is incorrect, feel free to send me an e-mail so I can review what I wrote and potentially reformulate/correct what is said in there. (See [[Misudashi]])
 
-## About Raw Notes:
+Finally, as I previously said, 
 
-The Raw [[MOC Notes]]# may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate on them further and turn them into longer notes, which I refer to as "articles". I will be talking about every topic you can imagine, without filters. 
-
-**Though**, if you feel like what I am saying in these is incorrect, feel free to send me an e-mail so I can review what I wrote and potentially reformulate/correct what is said in there. (See [[Misudashi]])
-
-Raw Notes will often also be filled with **Highlights**, which are the *Interesting Parts* I want to save in my memory when I read something, to eventually reformulate so they can be part of my 2nd Brain. Some of these highlights may be in foreign languages such as French, or Japanese.
+> I do not pretend owning any of the stuff I write here, it is simply a database of my knowledge, so feel free to re-use it.
 
 ### If you would like to support me
 
