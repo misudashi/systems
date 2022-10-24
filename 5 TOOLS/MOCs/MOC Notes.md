@@ -63,6 +63,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Simplexity]]#
 - [[The Laws of Simplicity]]#
 - [[The original Native's religion in the USA]]#
+- [[How to keep a window on the front]]#
 
 
 ### Raw Notes :

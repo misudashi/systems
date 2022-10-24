@@ -50,9 +50,12 @@ I also found this awesome website named [New Web Easy](https://www3.nhk.or.jp/ne
 ### [人生120年時代の到来！？「アンチエイジング医学」を超速解説](https://www6.nhk.or.jp/nhkpr/post/trailer.html?i=35991)
 
 このニュース記事はアンチエイジング医学についてのものです。I don't think I had access to the whole article because of how short it was, but I understood it as a sort of ad for a longevity medicine that is supposed to allow you to live up to 120 years old.
+
 ## Pitch accent training
 I also trained my pitch accent using [this test](https://kotu.io/tests/pitchAccent/minimalPairs).
 
 Out of 100 tries, I got:
 - 88% the first day
 - 94% the second day
+- 89% on the third day
+- 
