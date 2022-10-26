@@ -1,5 +1,5 @@
 # How to express "wanted to go" instead of "to go"
-- MOC : [[MOC Languages]] - [[MOC Japanese]]
+- MOC :  [[MOC Japanese]]
 - Date : 2022-09-21
 - Tag : #completed - #permanent 
 - Linked Notes : 

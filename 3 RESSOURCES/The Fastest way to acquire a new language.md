@@ -1,5 +1,5 @@
 # The fastest way to acquire a new language
-- MOC : [[MOC Languages]]
+- MOC : [[MOC Japanese]]
 - Date : Aug. 2022
 - Tag : #permanent - #completed 
 - Linked Notes : 

@@ -1,5 +1,5 @@
 # City Pop
-- MOC : [[MOC Music]]
+- MOC : [[MOC Notes]]
 - Date : 2022-09-03
 - Tag : #permanent
 - Linked Notes : [[Miki Matsubara]]

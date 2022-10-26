@@ -1,5 +1,5 @@
 # Japanese Ressources
-- MOC : [[MOC Japanese]] - [[MOC Languages]]
+- MOC : [[MOC Japanese]]
 - Date : 2022-08-15
 - Tag : #permanent
 - Linked Notes : [[MOC Weekly Japanese Reviews]]

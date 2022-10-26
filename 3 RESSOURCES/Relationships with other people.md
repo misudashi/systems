@@ -1,0 +1,1 @@
+If you have the means, generosity is very important: [[To give is to live]]. Of course, you have to understand [[The importance of authenticity]]#.
