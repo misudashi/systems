@@ -50,7 +50,7 @@ Finally, as I previously said,
 If you like what I write here, and you would like to motivate me, you can donate to [**charities that matter to me**](https://www.google.com/search?q=i+want+to+donate+money+to+help+cervix+cancer+research.&source=lmns&bih=617&biw=414&prmd=niv&sa=X&ved=2ahUKEwic-u3R-ub5AhUPixoKHV-lB44Q_AUoAHoECAAQBA&pccc=1) *(thank you !)*
 
 
-*Hope you will enjoy it!*
+*Hope you will enjoy it.*
 
 *-[[Misudashi]] - 三スダッ*
 
