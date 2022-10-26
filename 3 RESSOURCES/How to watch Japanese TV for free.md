@@ -15,9 +15,9 @@ I found [this comment](https://www.reddit.com/r/JTV/comments/oehs3c/comment/h5i9
 
 > All Japanese IPTV providers are Chinese. They all sell pirated content practically for free compared to official prices.
 > 
-like all pirated IPTV providers they have constant pressure and law suits from the rights owners to stop operating. That's why NHK or fuji sometimes disappears, that's why their websites sometimes disappear or they have to change name or location. They only survive because they operate out of China where it's easier to evade law suits.
+> Like all pirated IPTV providers they have constant pressure and law suits from the rights owners to stop operating. That's why NHK or fuji sometimes disappears, that's why their websites sometimes disappear or they have to change name or location. They only survive because they operate out of China where it's easier to evade law suits.
 >
-None of them are more a scam than the other and all of them can get into problems at any time.
+> None of them are more a scam than the other and all of them can get into problems at any time.
 How can any of those "services" be official or dependable when they give away 80 channels for no money at all? The official JPTV option in my country costs 80 a month and that is for just 1 channel with has a selection of programming from different Japanese channels.
 >
 >Yes their marketing seems fishy but its just Chinese way of doing business and bad English.
