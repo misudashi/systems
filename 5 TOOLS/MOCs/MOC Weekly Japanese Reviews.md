@@ -6,7 +6,7 @@ The Weekly Japanese Reviews (WJR) will (I hope) be consistent notes in which I w
 
 ## 📌 Pinned Reviews
 ### Current Review :
-- [[WJR4]]
+- [[WJR5]]
 ### First Review :
 - [[WJR1]]#
 
@@ -14,6 +14,7 @@ The Weekly Japanese Reviews (WJR) will (I hope) be consistent notes in which I w
 Here are all the other reviews you may be wanting to see. Some will be missing because I simply didn't consume any Japanese content during the missing time (probably holidays, they should stay rare !)
 
 ### 2022:
+- [[WJR5]]#
 - [[WJR4]]#
 - [[WJR3]]#
 - [[WJR2]]#

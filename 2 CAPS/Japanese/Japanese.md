@@ -18,9 +18,3 @@ I'm pretty sure some notes will be filled with mistakes, so feel free to correct
 - [[Do not always use 私]]#
 - [[How to say yes and no]]#
 - [[Don't just say no]]#
-## Weekly JP Reviews 
-The [[MOC Weekly Japanese Reviews]] are also listed here, so I can sort of "group" every note related to Japanese in a single page. For more data on them, please refer to the original map of content.
-- [[WJR1]]#
-- [[WJR2]]#
-- [[WJR3]]#
-- [[WJR4]]#

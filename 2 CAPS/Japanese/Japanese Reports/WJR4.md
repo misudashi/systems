@@ -1,9 +1,9 @@
 # Weekly JP Report 4: 17 Oct. -  24 Oct. 2022
 - MOC : [[MOC Weekly Japanese Reviews]]
 - Date : 2022-09-05
-- Tag : #wjr - #in-progress - #permanent
+- Tag : #wjr - #completed - #permanent
 - Previous Japanese Review : [[WJR3]]
-- Next Japanese Review : This is the current one.
+- Next Japanese Review : [[WJR5]]
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----
