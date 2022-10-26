@@ -11,7 +11,7 @@
  This website is a hobby of mine, in which I have decided to share my knowledge with everyone, for free, and forever.
 
 As of right now, I enjoy learning all kinds of things. 
-- I enjoy studying languages (currently [[Japanese]])
+- I enjoy studying languages (currently [[MOC Japanese]])
 - More generally, I enjoy learning new things, from neuro-sciences, to maths, to poetry, and more widely art in general, including architecture.
 - I have been on [[MOC Self Improvement]] since June 2022. 
 

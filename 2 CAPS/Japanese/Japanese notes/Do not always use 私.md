@@ -1,5 +1,5 @@
 # Do not always use 私
-- MOC : [[Japanese]]
+- MOC : [[MOC Japanese]]
 - Date : 2022-10-02
 - Tag : #completed - #permanent 
 - Linked Notes : 

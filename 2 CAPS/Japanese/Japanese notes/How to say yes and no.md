@@ -1,5 +1,5 @@
 # How to say yes and no
-- MOC : [[Japanese]]
+- MOC : [[MOC Japanese]]
 - Date : 2022-10-02
 - Tag : #completed - #permanent 
 - Linked Notes : [[Don't just say no]]

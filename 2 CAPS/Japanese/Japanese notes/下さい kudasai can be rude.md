@@ -1,5 +1,5 @@
 # 下さい can be rude
-- MOC : [[MOC Languages]] - [[Japanese]]
+- MOC : [[MOC Languages]] - [[MOC Japanese]]
 - Date : 2022-09-21
 - Tag : #completed - #permanent 
 - Linked Notes : 

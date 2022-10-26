@@ -1,6 +1,6 @@
 # Misudashi Systems
 
-Hi, I'm [[Misudashi]]#. 
+Hi, I'm **[[Misudashi]]#**. 
 
 This website is my *Second Brain*, which contains a good part of all the knowledge I've acquired for the last few months in various topics, using **notes**.
 
@@ -18,13 +18,13 @@ If you are here for some knowledge on a specific topic, then I would recommend u
 
 For a better experience, I *try to* organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). They can be seen as folders, but *better*.
 
-For now, the hub points to 6 different Maps of Content:
-- [[MOC Languages]]#
+For now, the hub points to 5 different Maps of Content:
+
 - [[MOC Self Improvement]]#
-- [[MOC Notes]]#
-- [[MOC Weekly Japanese Reviews]]#
 - [[MOC Projects]]#
-- [[MOC Music]]#
+- [[MOC Notes]]#
+- [[MOC Japanese]]#
+- [[MOC Weekly Japanese Reviews]]#
 
 ## Credits
 
