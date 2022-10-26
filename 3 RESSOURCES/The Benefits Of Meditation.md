@@ -2,7 +2,7 @@
 - MOC : [[MOC Self Improvement]]
 - Date : Aug. 2022
 - Tag : #permanent - #completed 
-- Linked Notes : [[Meditation]]
+- Linked Notes : [[Meditation]] - [[Meditations rise]]#
 -------------------
 - [Go back to Homepage](https://misudashi.ga/)
 -----
