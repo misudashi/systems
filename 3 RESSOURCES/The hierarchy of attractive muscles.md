@@ -12,7 +12,7 @@
 
 To build an aesthetic body, it is necessary to know which muscles to target. These muscles build the V-Taper.
 
-- 1 - Neck (see [[Why training your neck is important]]) => 3x per week
+- 1 - Neck (see [[Why training your neck is important]]#) => 3x per week
 - 2 - Upper traps => 3x per week
 - 3 - Lateral Delts = Side Shoulders
 - 4 - Upper chest
