@@ -7,6 +7,10 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 
 **Business :**
 - [[3 Habits that made me a millionaire by 18]]#
+- [[Limited Responsibility Companies are crucial]]#
+- [[Everything popular is wrong]]#
+- [[Challenging the Status Quo vs. Being Stupid]]#
+- [[The timing is never right]]#
 
 
 **School :**
@@ -20,7 +24,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 **Books :**
 - [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
 - [[Décodez votre cerveau by Yves-Alexandre Thalmann]]#
-
+- [[The 4 Hours Week by Timothy Ferriss]]#
 
 **The Human Mind :**
 - [[The Bright Spot]]#
@@ -47,6 +51,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[Superstitions]]#
 - [[Causality Bias]]#
 - [[The will to stay consistent]]#
+- [[The Halo Effect]]#
 
 
 **Others :**
@@ -67,6 +72,7 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[How to watch Japanese TV for free]]#
 - [[Miki Matsubara]]#
 - [[City Pop]]#
+
 
 
 ### Raw Notes :
