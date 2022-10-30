@@ -1,4 +1,4 @@
-# Why training your neck IS important
+# Why training your neck is important
 - MOC : [[MOC Self Improvement]]
 - Date : 2022-10-26
 - Tag : #completed - #permanent 
