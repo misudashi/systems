@@ -1,0 +1,1 @@
+Your brain is the reason why you are here. If you feel like you're not where you want to be in life, you need to have some humility and accept to learn from others.
