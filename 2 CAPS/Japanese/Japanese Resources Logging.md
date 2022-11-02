@@ -92,3 +92,4 @@ Expect a mess of links, sometimes repeating.
 - [Short story: やさい](https://yomujp.com/n6_yasai/)
 - [Genki by Andy](https://www.youtube.com/watch?v=ftXNzFRpDbk&list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2&index=2)
 - [Short story: 日本のまち「水戸」](https://yomujp.com/%e6%97%a5%e6%9c%ac%e3%81%ae%e3%81%be%e3%81%a1%e3%80%8c%e6%b0%b4%e6%88%b8%e5%b8%82%e3%80%8d%ef%bc%88%e3%81%ab%e3%81%bb%e3%82%93%e3%81%ae%e3%81%be%e3%81%a1%e3%80%8c%e3%81%bf%e3%81%a8%e3%81%97%e3%80%8d/)
+- [Self Taught Japanese.com](https://selftaughtjapanese.com/2014/03/21/japanese-honorific-prefixes-%E3%81%8A-and-%E3%81%94-o-and-go/)

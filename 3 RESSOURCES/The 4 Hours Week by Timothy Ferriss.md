@@ -15,3 +15,5 @@ Here are the notes I've taken so far:
 - [[Everything popular is wrong]]#
 - [[Challenging the Status Quo vs. Being Stupid]]#
 - [[Set unrealistic goals]]#
+- [[The opposite of happiness]]#
+- [[The opposite of boredom]]#

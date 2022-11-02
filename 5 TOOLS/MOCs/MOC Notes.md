@@ -72,6 +72,8 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 - [[How to watch Japanese TV for free]]#
 - [[Miki Matsubara]]#
 - [[City Pop]]#
+- [[The opposite of happiness]]#
+- [[The opposite of boredom]]#
 
 
 
