@@ -1,9 +1,7 @@
--- Documentation for neuron.dhall: https://neuron.zettel.page/configuration
 { siteTitle = "Misudashi's Systems"
 , author = Some "Misudashi"
-, siteBaseUrl = Some "https://srid.github.io/neuron-template/"
--- List of color names: https://semantic-ui.com/usage/theming.html#sitewide-defaults
-, theme = "blue"
--- This is used in the "edit" button
+, siteBaseUrl = Some "https://misudashi.ga/"
+, theme = "grey"
 , editUrl = Some "https://github.com/misudashi/system/edit/master/"
+, mathJaxSupport = False
 }
