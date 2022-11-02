@@ -4,8 +4,6 @@ Hi, I'm [[Misudashi]]#.
 
 This website is my *Second Brain*, which contains a good part of all the knowledge I've acquired for the last few months in various topics, using **notes**.
 
-<ruby>義訓<rt>ぎくん</rt></ruby>
-
 ## 📌 How it works
 
 The notes I take are similar to the ones of a [[Zettelkasten]] system, but the organization sometimes differs a  bit from the original concept.
