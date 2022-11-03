@@ -13,6 +13,6 @@ I'm currently learning Japanese as a hobby. I'm pretty sure some of these notes 
 - [[Do not always use 私]]#
 - [[How to say yes and no]]#
 - [[Don't just say no]]#
-- [[The honorific prefixes「お」 and 「ご」]]#
+- [[The honorific prefixes お and ご]]#
 - [[訓読み]]#
 - [[音読み]]#
