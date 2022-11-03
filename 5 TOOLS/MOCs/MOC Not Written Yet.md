@@ -1,8 +1,8 @@
 ---
 tags:
-  - pinned
+- permanent
 ---
-# Not Written Yet
+# MOC Not Written Yet
 
 This is kind of a special HUB. Instead of listing notes that are finished, you can see empty notes.
 

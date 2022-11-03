@@ -2,6 +2,7 @@
 date: 2022-11-02T22:00
 tags:
   - permanent
+  - Japanese
 ---
 # The honorific prefixes「お」 and 「ご」
 - MOC: [[MOC Japanese]]

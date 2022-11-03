@@ -2,6 +2,7 @@
 date: 2022-09-21T22:00
 tags:
   - permanent
+  - Japanese
 ---
 # 下さい can be rude
 - MOC: [[MOC Japanese]]

@@ -2,6 +2,7 @@
 date: 2022-09-21T22:00
 tags:
   - permanent
+  - Japanese
 ---
 # How to express "wanted to go" instead of "to go"
 - MOC: [[MOC Japanese]]

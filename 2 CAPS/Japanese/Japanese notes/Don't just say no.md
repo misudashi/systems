@@ -2,6 +2,7 @@
 date: 2022-10-02T22:00
 tags:
   - permanent
+  - Japanese
 ---
 # Don't just say no
 - MOC: [[MOC Japanese]]

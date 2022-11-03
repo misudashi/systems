@@ -2,6 +2,7 @@
 date: 2022-10-27T22:00
 tags:
   - permanent
+  - book
   - raw
 ---
 # The 4 phases of learning Productivity
@@ -17,3 +18,4 @@ Here are the notes I've taken so far:
 - [[Set unrealistic goals]]#
 - [[The opposite of happiness]]#
 - [[The opposite of boredom]]#
+- [[How to get Google's CEO on the Phone]]#

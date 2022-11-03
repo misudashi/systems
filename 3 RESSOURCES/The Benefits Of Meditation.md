@@ -6,7 +6,7 @@ tags:
 ---
 # The benefits of meditation
 - MOC: [[MOC Self Improvement]]
-- Linked Notes: [[Meditation]] - [[Meditations rise]]
+- Linked Notes: [[Meditation]] - [[Meditations rise]]#
 - [Home](https://misudashi.ga/)
 ---------- 
 Through this page, I will be talking about my personal experience on meditation as a teenager, the scientific benefits behind it, how to start your journey on meditation. I will be starting by commenting on the stereotypes you may hear while starting to meditate.

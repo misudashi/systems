@@ -1,7 +1,6 @@
 ---
 tags:
   - permanent
-  - pinned
 ---
 
 # Misudashi Systems
@@ -14,7 +13,7 @@ This website is my *Second Brain*, which contains a good part of all the knowled
 
 The notes I take are similar to the ones of a [[Zettelkasten]] system, but the organization sometimes differs a  bit from the original concept.
 
-If you're simply curious about all of this, I suggest you browse links, starting with the [Impulse](https://misudashi.github.io/systems/impulse) section.
+If you're simply curious about all of this, I suggest you browse links, starting with the [[timeline]] and [Impulse](https://misudashi.ga/impulse) sections.
 
 If you are here for some knowledge on a specific topic, then I would recommend using the **HUB**, which you can read more about in the next section.
 

@@ -2,7 +2,6 @@
 date: 2022-08-01T22:00
 tags:
   - permanent
-  - pinned
 ---
 # Misudashi
 - MOC: [[MOC Notes]]

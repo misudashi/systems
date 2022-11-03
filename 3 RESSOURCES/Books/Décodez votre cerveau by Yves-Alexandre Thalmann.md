@@ -2,6 +2,7 @@
 date: 2022-09-02T22:00
 tags:
   - permanent
+  - book
 ---
 # Décodez votre cerveau by Yves-Alexandre Thalmann
 - MOC: [[MOC Notes]]

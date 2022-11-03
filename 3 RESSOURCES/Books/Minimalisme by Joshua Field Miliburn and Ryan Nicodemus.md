@@ -2,6 +2,7 @@
 date: 2022-09-02T22:00
 tags:
   - permanent
+  - book
 ---
 # Minimalisme by Joshua Field Miliburn and Ryan Nicodemus
 - MOC: [[MOC Notes]]

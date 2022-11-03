@@ -2,6 +2,7 @@
 date: 2022-08-01T22:00
 tags:
   - permanent
+  - Japanese
 ---
 # The fastest way to acquire a new language
 - MOC: [[MOC Japanese]]
