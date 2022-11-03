@@ -1,15 +1,14 @@
+---
+date: 2022-09-04T22:00
+tags:
+  - permanent
+---
 # 3 Habits that made me a millionaire by 18
-- MOC : [[MOC Notes]]
-- Date: 2022-09-04
-- Tag : #completed - #permanent 
-- Linked Notes : 
+- MOC: [[MOC Notes]]
+- Linked notes: 
+- [Home](https://misudashi.ga/)
 - Source : [3 Habits That Made Me A Millionaire By 18](https://www.youtube.com/watch?v=wSkno1bg3Uw)
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## 3 Habits that made me a millionaire by 18
-
+----------
 I clicked on this video because I thought it could help me learn something new. I was wrong because I had already read about every single habit he mentioned in this video. I have already applied two of them, which are journaling and meditating, and I know that when I will be launching my business, I will need to seek the possibility of [[Leverage]] and, of course, choose the right vehicle. I guess I lost my time. Anyway, here's a small recap of the habits he used:
 
 - He turned his phone on airplane mode every time he started working

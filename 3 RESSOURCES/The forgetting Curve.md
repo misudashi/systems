@@ -1,13 +1,13 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # The forgetting curve
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[The Ebbinghaus Curve]] - [[Productivity]] - [[Education]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The forgetting curve
+- MOC: [[MOC Notes]]
+- Linked Notes: [[The Ebbinghaus Curve]] - [[Productivity]] - [[Education]]
+- [Home](https://misudashi.ga/)
+----------
 ![Image](https://misudashi.github.io/systems/static/The-Forgetting-Curve.jpeg)
 - *Note : 1 jour = Day 1 ; 2 jours = Day 2, etc..*
 - *"Rétention d'information" = The "amount" of information you remember*

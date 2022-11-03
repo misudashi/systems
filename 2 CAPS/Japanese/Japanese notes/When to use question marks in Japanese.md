@@ -1,15 +1,14 @@
+---
+date: 2022-09-21T22:00
+tags:
+  - permanent
+---
 # When to use "?" in Japanese
-- MOC : [[MOC Japanese]]
-- Date : 2022-09-21
-- Tag : #completed - #permanent 
-- Linked Notes : 
-- Source : Yuta's Basic Japanese - [[Japanese Resources Logging]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## When should I put a "?" in Japanese ?
-
+- MOC: [[MOC Japanese]]
+- [Home](https://misudashi.ga/)
+- Linked notes: 
+- Source: Yuta's Basic Japanese - [[Japanese Resources Logging]]
+----------
 In textbooks (Genki, ...), it is often said that "you don't **need** to put a question mark at the end of a sentence".
 
 Then, they often give an example such as 

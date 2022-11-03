@@ -1,14 +1,12 @@
+---
+date: 2022-09-02T22:00
+tags:
+  - permanent
+---
 # Décodez votre cerveau by Yves-Alexandre Thalmann
-- MOC : [[MOC Notes]]
-- Date : 2022-09-02
-- Tag : #permanent - #completed 
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Décodez votre cerveau by Yves-Alexandre Thalmann
-
+- MOC: [[MOC Notes]]
+- [Home](https://misudashi.ga/)
+----------
 ### Opinion
 It's well written and I find it interesting. 
 

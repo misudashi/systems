@@ -1,14 +1,13 @@
+---
+date: 2022-11-01T22:00
+tags:
+  - permanent
+---
 # Purpose
-- MOC : [[MOC Self Improvement]]
-- Date : 2022-11-01
-- Tag : #in-progress
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Purpose
-
+- MOC: [[MOC Self Improvement]]
+- Linked Notes: 
+- [Home](https://misudashi.ga/)
+---------- 
 Nowadays, "purpose" is a widely used word that can mean a lot of things. What I want to say by using this word is the "why". In order to correctly start your journey on [[MOC Self Improvement]], you should keep in mind that you will eventually find your Purpose. 
 
 It is a greater thing, that gives you enough motivation to go through the trials and tribulations in order to reach peak happiness. 

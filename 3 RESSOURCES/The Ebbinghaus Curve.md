@@ -1,13 +1,13 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # The Ebbinghaus Curve
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[The forgetting Curve]] - [[Productivity]] - [[Education]] - [[The Cognitive Theory]] - [[Memory Consolidation]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The Ebbinghaus Curve
+- MOC: [[MOC Notes]]
+- Linked Notes: [[The forgetting Curve]] - [[Productivity]] - [[Education]] - [[The Cognitive Theory]] - [[Memory Consolidation]]
+- [Home](https://misudashi.ga/)
+----------
 Hermann Ebbinghaus was a 19th century German philosopher.  Considered the father of the experimental psychology of learning, he is at the origin of the Ebbinghaus Curve.
 
 ![Image](https://misudashi.github.io/systems/static/The-Ebbinghaus-Curve.jpeg)

@@ -1,15 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # The Laws of Simplicity
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #completed - #permanent 
-- Linked Notes : [[Simplexity]]
-- Source : Les lois de la simplicité by John Maeda
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The Laws of simplicity
-
+- MOC: [[MOC Notes]]
+- Linked Notes: [[Simplexity]]
+- [Home](https://misudashi.ga/)
+- Source: Les lois de la simplicité by John Maeda
+----------
 There are 10 laws and 3 keys to simplicity for John Maeda.
 
 **The 10 Laws:**

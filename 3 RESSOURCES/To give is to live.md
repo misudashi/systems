@@ -1,14 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # To give is to live
-- MOC : [[MOC Self Improvement]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[Authenticity]] - [[Philosophy]] - [[Mindfulness]]
-- Source : [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## To give is to live
+- MOC: [[MOC Self Improvement]]
+- Linked Notes: [[Authenticity]] - [[Philosophy]] - [[Mindfulness]]
+- [Home](https://misudashi.ga/)
+- Source: [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]
+----------
 If you do not give of yourself to contribute to the lives of others, you will forever lead a life of selfishness. 
 
 It is normal to act in one's own interest, but to do only that leads to a fruitless existence. A life devoid of any contribution to the life of others is a life devoid of meaning. In reality, to give is to live. 

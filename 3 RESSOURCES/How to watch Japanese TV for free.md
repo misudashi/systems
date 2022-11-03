@@ -1,14 +1,13 @@
+---
+date: 2022-10-25T22:00
+tags:
+  - permanent
+---
 # How to watch Japanese TV for free
-- MOC : [[MOC Notes]]
-- Date : 2022-10-25
-- Tag : #permanent - #completed 
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## How to watch Japanese TV for free
-
+- MOC: [[MOC Notes]]
+- Linked notes: 
+- [Home](https://misudashi.ga/)
+----------
 Download [this zip file](https://www.mediafire.com/file/vyb90e8x3d0wia1/yoitv.zip/file) and extract it. Run the .exe file, and follow the installer instructions. Run the App you just downloaded (which is called YoiTV), go to the sign up page and use `141908613` as the ID. Enter a random password (I recommend using 1234 or something, so you don't accidentally give out any information!)
 
 I found [this comment](https://www.reddit.com/r/JTV/comments/oehs3c/comment/h5i9aum/?utm_source=reddit&utm_medium=web2x&context=3) on reddit, which explains well the problem with YoiTV: 

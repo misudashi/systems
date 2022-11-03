@@ -1,13 +1,12 @@
+---
+date: 2022-10-18T22:00
+tags:
+  - permanent
+---
 # Repetition is central to our learning
-- MOC : [[MOC Notes]]
-- Date : 2022-10-18
-- Tag : #completed - #permanent 
-- Source : [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
-- Linked notes: [[The forgetting Curve]] - [[The Ebbinghaus Curve]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Repetition is central to our learning
-
+- MOC: [[MOC Notes]]
+- Linked Notes: [[The forgetting Curve]] - [[The Ebbinghaus Curve]]
+- [Home](https://misudashi.ga/)
+- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+---------- 
 We tend to forget information that isn't recalled after a certain amount of time. See [[The forgetting Curve]], [[The Ebbinghaus Curve]].

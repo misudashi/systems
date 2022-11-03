@@ -1,14 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # The fastest way to acquire a new language
-- MOC : [[MOC Japanese]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : 
-- Source : [YouTube](https://youtube.com/)
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The fastest way to acquire a new language
+- MOC: [[MOC Japanese]]
+- Linked Notes:
+- [Home](https://misudashi.ga/)
+- Source: [YouTube](https://youtube.com/)
+----------
 1. Acquire the language through context
 
 Essentially, what he says in this part is that when you first hear a word, you will assume a meaning for it. But when you hear it in a 2nd context, and a third one, and a fourth one, you will eventually get the right meaning by associating them unconsciously.

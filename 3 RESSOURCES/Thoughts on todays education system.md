@@ -1,14 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # Thoughts on today's education system
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[Education]]
-- Source : [Éducation nationale recherche professeurs désespérément](https://www.philomag.com/articles/education-nationale-recherche-professeurs-desesperement)
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Thoughts on today's education system
+- MOC: [[MOC Notes]]
+- Linked Notes: [[Education]]
+- [Home](https://misudashi.ga/)
+- Source:  [Éducation nationale recherche professeurs désespérément](https://www.philomag.com/articles/education-nationale-recherche-professeurs-desesperement)
+----------
 “Isn't recruiting teachers today,  recruiting missionaries for a cause that goes far beyond the question of knowledge?”
 
 In this article *(see sources)*, the author shows us how wrong the education system is. 

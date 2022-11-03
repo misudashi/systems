@@ -1,15 +1,14 @@
+---
+date: 2022-09-17T22:00
+tags:
+  - permanent
+---
 # The equation of coaching
-- MOC : [[MOC Notes]]
-- Date : 2022-09-17
-- Tag : #in-progress
-- Linked Notes : 
+- MOC: [[MOC Notes]]
+- Linked Notes:
+- [Home](https://misudashi.ga/)
 - Source: [Le coaching avec la PNL pour les nuls](https://des-livres-pour-changer-de-vie.com/le-coaching-avec-la-pnl-pour-les-nuls/)
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The equation of coaching
-
+----------
 P = p - i
 
 Performance is the potential, minus the interferences.

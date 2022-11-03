@@ -1,3 +1,7 @@
+---
+tags:
+  - pinned
+---
 # Notes HUB
 
 This is where I store all the concepts, and all the knowledge bricks I acquire while reading, listening to podcasts, having a conversation, etc. There will be notes about every subject possible in here, and they won't necessarily be sorted. If I see that a lot of notes accumulate on the same subject, I may make a separate category for them.

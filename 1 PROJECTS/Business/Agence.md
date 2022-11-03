@@ -1,13 +1,14 @@
+---
+date: 2022-10-16T22:00
+tags:
+  - permanent
+  - raw
+---
 # Agence
-- MOC : [[MOC Projects]]
-- Date : 2022-10-16
-- Tag : #in-progress
+- MOC: [[MOC Projects]]
+- [Home](https://misudashi.ga/)
 - Linked Notes : https://www.youtube.com/watch?v=PX0jhgEfRRY
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Agence
+----------
 - [[Trouver nom]]#
 	- Nom simple, court. Pas besoin de trop se creuser la tête dessus, y'a plus important.
 - Trouver un moyen de facilement faire des sites vitrines

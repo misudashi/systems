@@ -1,14 +1,13 @@
+---
+date: 2022-11-01T22:00
+tags:
+  - permanent
+---
 # Instant-Gratification and Delayed-Gratification
-- MOC : [[MOC Self Improvement]]
-- Date : 2022-11-01
-- Tag : #in-progress
-- Linked Notes : [[Dopamine Detox]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Instant-Gratification and Delayed-Gratification
-
+- MOC: [[MOC Self Improvement]]
+- Linked notes: [[Dopamine Detox]]
+- [Home](https://misudashi.ga/)
+----------
 Here are a few examples of **instant-gratification** activities:
 - Fapping
 - Smoking weed

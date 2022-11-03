@@ -1,5 +1,13 @@
+---
+date: 2022-10-01T22:00
+tags:
+  - permanent
+---
 # The original Native's religion in the USA
-
+- MOC: [[MOC Notes]]
+- Linked Notes: 
+- [Home](https://misudashi.ga/)
+----------
 There were many different tribes, and with each tribe, a different religion. Some were monotheist, others polytheist, and some were neither. 
 
 ## The Iroquois

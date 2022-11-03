@@ -1,13 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # Parkinson's Law
-- MOC : [[MOC Self Improvement]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[The 80-20 rule]] - [[Measuring Productivity]] - [[Productivity]] - [[The Cognitive Theory]] - [[Procrastination]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Parkinson's Law
+- MOC: [[MOC Self Improvement]]
+- Linked Notes: [[The 80-20 rule]] - [[Measuring Productivity]] - [[Productivity]] - [[The Cognitive Theory]] - [[Procrastination]]
+- [Home](https://misudashi.ga/)
+- Source: Thomas Delorme
+---------- 
 Parkinson's Law doesn't have anything to do with Stephen Hawking's disease. Instead, it is about [[Procrastination]]. 
 
 Essentially, what it says is that 

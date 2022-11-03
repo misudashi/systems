@@ -1,13 +1,13 @@
+---
+date: 2022-09-01T22:00
+tags:
+  - permanent
+---
 # How to actually have good grades
-- MOC : [[MOC Notes]]
-- Date : 2022-09-01
-- Tag : #in-progress
-- Linked Notes : [[Education]] - [[Thoughts on todays education system]] - [[The Ebbinghaus Curve]] - [[The 80-20 rule]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## How to actually have good grades
+- MOC: [[MOC Notes]]
+- Linked notes: [[Education]] - [[Thoughts on todays education system]] - [[The Ebbinghaus Curve]] - [[The 80-20 rule]]
+- [Home](https://misudashi.ga/)
+----------
 How many times did you exit your class, thinking you understood everything, when in reality you catched only 10% of what was said ? How many times were you in front of your test, with a literally blank mind ? Did you ever wonder why you simply couldn't get good grades, doesn't matter how hard you worked ? Well I did. 
 
 ### The 3 Simple steps to study properly

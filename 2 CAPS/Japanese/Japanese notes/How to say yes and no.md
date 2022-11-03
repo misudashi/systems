@@ -1,14 +1,13 @@
+---
+date: 2022-10-02T22:00
+tags:
+  - permanent
+---
 # How to say yes and no
-- MOC : [[MOC Japanese]]
-- Date : 2022-10-02
-- Tag : #completed - #permanent 
-- Linked Notes : [[Don't just say no]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## How to say yes and no
-
+- MOC: [[MOC Japanese]]
+- [Home](https://misudashi.ga/)
+- Linked notes: [[Don't just say no]]
+----------
 Spoken Japanese: 
 
 ### 敬語

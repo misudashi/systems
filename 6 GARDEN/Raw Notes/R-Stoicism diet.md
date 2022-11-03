@@ -1,13 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+  - raw
+---
 # Eating like the ancient philosophers of Stoicism will bring you closer to transcendent happiness
-- MOC : [[MOC Self Improvement]]
-- Date : Aug. 2022
-- Tag : #in-progress
+- MOC: [[MOC Self Improvement]]
+- [Home](https://misudashi.ga/)
 - Linked Notes : [[Stoicism]] - [[Nutrition]] - [[Philosophy]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Eating like the ancient philosophers of Stoicism will bring you closer to transcendent happiness
+----------
 ### Highlights
  In conclusion, Stoicism is a philosophy that has been around for centuries and deserves more recognition.  Its precepts can help you achieve transcendent happiness by eating like the ancient philosophers of Stoicism.
 

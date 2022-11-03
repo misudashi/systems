@@ -1,13 +1,14 @@
+---
+date: 2022-08-15T22:00
+tags:
+  - permanent
+  - wjr
+---
 # Weekly JP Report 1: 15 Aug. -  21 Aug. 2022
-- MOC : [[MOC Weekly Japanese Reviews]]
-- Date : 2022-08-15
-- Tag : #wjr - #completed - #permanent
-- Next Japanese Review : [[WJR2]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## WJR1 15 Aug. - 21 Aug. 2022
+- MOC: [[MOC Weekly Japanese Reviews]]
+- [Home](https://misudashi.ga/)
+- Next Report: [[WJR2]]
+----------
 So that's it! Here is the first week of my journey in learning Japanese. I already have some *weak weak* basics: I used Duolingo to learn Kana. I have an Anki Mining Deck set up, and I learned +- how to use it. I will be first learning basic Grammar using [Sakubi's Guide](https://sakubi.neocities.org/#) on the topic. When I feel like it is not enough anymore, I will switch on Tae Kim's guide. On the vocabulary part, I'm learning **a lot** every time I read anything online, pretty much. I also watched the Pitch Tone basic introduction recommended by [Morg](https://morgs.systems).
 
 ### Chatting

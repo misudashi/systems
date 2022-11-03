@@ -1,3 +1,7 @@
+---
+tags:
+  - pinned
+---
 I have been on Self Improvement since June 2022. According to [James Clear's website](https://jamesclear.com/), 
 
 > Self-improvement is **the improvement of one's knowledge, status, or character by one's own efforts**. It's the quest to make ourselves better in any and every facet of life.

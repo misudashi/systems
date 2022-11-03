@@ -1,14 +1,14 @@
+---
+date: 2022-10-16T22:00
+tags:
+  - permanent
+  - raw
+---
 # Trouver nom
-- MOC : [[MOC Projects]]
-- Date : 2022-10-16
-- Tag : #in-progress
-- Linked Notes : [[Agence]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Trouver nom
-
+- MOC: [[MOC Projects]]
+- [Home](https://misudashi.ga/)
+- Linked notes: [[Agence]]
+----------
 Idées:
 - Show Agency
 - Vitrine

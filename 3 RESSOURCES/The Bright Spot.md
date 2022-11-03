@@ -1,14 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # The Bright Spot
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : 
-- Sources : [Switch Recap - Eliott Meunier](https://www.youtube.com/watch?v=8c7PcR2uMyI) - Switch
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The Bright Spot
+- MOC: [[MOC Notes]]
+- Linked Notes: 
+- [Home](https://misudashi.ga/)
+- Source: [Switch Recap - Eliott Meunier](https://www.youtube.com/watch?v=8c7PcR2uMyI)
+----------
 Eliott Meunier explains here that an important concept he noticed while reading the book "Switch" is called the Bright Spot.
 
 If you didn't know, this book talks about the best way you can use to change something.

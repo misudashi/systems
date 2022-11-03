@@ -1,14 +1,13 @@
+---
+date: 2022-10-02T22:00
+tags:
+  - permanent
+---
 # Do not always use 私
-- MOC : [[MOC Japanese]]
-- Date : 2022-10-02
-- Tag : #completed - #permanent 
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Do not always use 私
-
+- MOC: [[MOC Japanese]]
+- [Home](https://misudashi.ga/)
+- Linked notes: 
+----------
 In textbooks, it is often said that to introduce yourself, you should say:
 
 「私はジョンです。」

@@ -1,15 +1,15 @@
+---
+date: 2022-08-15T22:00
+tags:
+  - permanent
+  - pinned
+---
 # Japanese Ressources
-- MOC : [[MOC Japanese]]
-- Date : 2022-08-15
-- Tag : #permanent
-- Linked Notes : [[MOC Weekly Japanese Reviews]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Japanese Ressources
-
-Here will be listed every single ressource I have used on my journey to learn Japanese. It includes JP Teaching content as well as immersion.
+- MOC: [[MOC Japanese]]
+- [Home](https://misudashi.ga/)
+- Linked notes: [[MOC Weekly Japanese Reviews]]
+----------
+Here will be listed every single ressource I have used on my journey to learn Japanese. It includes JP teaching content as well as immersion.
 
 Expect a mess of links, sometimes repeating. 
 

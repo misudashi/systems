@@ -1,3 +1,13 @@
+---
+date: 2022-11-01T22:00
+tags:
+  - permanent
+---
+# Sculpting your body
+- MOC: [[MOC Self Improvement]]
+- Linked Notes:
+- [Home](https://misudashi.ga/)
+---------- 
 > It is a shame for a man to grow old without seeing the beauty and strength of which his body is capable
 
 -*Socrates*

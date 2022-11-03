@@ -1,14 +1,13 @@
+---
+date: 2022-09-03T22:00
+tags:
+  - permanent
+---
 # Miki Matsubara
-- MOC : [[MOC Notes]]
-- Date : 2022-09-03
-- Tag : #permanent - #completed 
+- MOC: [[MOC Notes]]
+- [Home](https://misudashi.ga/)
 - Linked Notes : [[City Pop]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Miki Matsubara
-
+----------
 Miki Matsubara (松原みき) is a [[City Pop]] Japanese singer and composer. She is known worldwide for some of her songs, such as Mayonaka no Door (Stay With Me), and Neat na gogo san-ji. 
 
 ### Biography

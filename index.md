@@ -1,3 +1,9 @@
+---
+tags:
+  - permanent
+  - pinned
+---
+
 # Misudashi Systems
 
 Hi, I'm [[Misudashi]]#. 
@@ -53,6 +59,3 @@ If you like what I write here, and you would like to motivate me, you can donate
 *-[[Misudashi]] - 三スダッ*
 
 > This website was uploaded for the first time on the 13th of August 2022.
-
-###### Tag
-#pinned

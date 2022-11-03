@@ -1,14 +1,13 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # Simplexity
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #completed - #permanent 
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Simplexity
-
+- MOC: [[MOC Notes]]
+- Linked Notes:
+- [Home](https://misudashi.ga/)
+---------- 
 Simplexity is the art of turning complex things into simple, readable, and understandable things.
 
 Like "complex" shouldn't be confused with "complicated", "simplex" shouldn't be confused with "simple".

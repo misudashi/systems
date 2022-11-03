@@ -1,13 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+  - raw
+---
 # The benefits of meditation
-- MOC : [[MOC Self Improvement]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[Meditation]] - [[Meditations rise]]#
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The benefits of meditation
+- MOC: [[MOC Self Improvement]]
+- Linked Notes: [[Meditation]] - [[Meditations rise]]
+- [Home](https://misudashi.ga/)
+---------- 
 Through this page, I will be talking about my personal experience on meditation as a teenager, the scientific benefits behind it, how to start your journey on meditation. I will be starting by commenting on the stereotypes you may hear while starting to meditate.
 
 ### **Summary**

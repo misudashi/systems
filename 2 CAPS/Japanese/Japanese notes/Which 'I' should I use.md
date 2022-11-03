@@ -1,15 +1,14 @@
+---
+date: 2022-10-02T22:00
+tags:
+  - permanent
+---
 # Which 'I' should I use
-- MOC : [[MOC Japanese]]
-- Date : 2022-10-02
-- Tag : #completed - #permanent 
-- Linked Notes : [[Do not always use 私]]
-- Source: Yuta's free course
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Which 'I' should I use
-
+- MOC: [[MOC Japanese]]
+- [Home](https://misudashi.ga/)
+- Linked notes: [[Do not always use 私]]
+- Source: Yuta's Basic Japanese - [[Japanese Resources Logging]]
+----------
 ### 敬語
 「私」is fine for both men and women.
 「僕」for men.

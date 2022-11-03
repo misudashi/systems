@@ -1,18 +1,16 @@
+---
+date: 2022-08-28T22:00
+tags:
+  - permanent
+  - wjr
+---
 # Weekly JP Report 2: 28 Aug. -  04 Sept. 2022
-- MOC : [[MOC Weekly Japanese Reviews]]
-- Date : 2022-08-28
-- Tag : #wjr - #completed  - #permanent
-- Previous Japanese Review : [[WJR1]]
-- Next Japanese Review : [[WJR3]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## WJR2 28 Aug. -  04 Sept. 2022
-
+- MOC: [[MOC Weekly Japanese Reviews]]
+- [Home](https://misudashi.ga/)
+- Previous Report: [[WJR1]]
+- Next Report: [[WJR3]]
+----------
 After a small break for my holidays, where the only Japanese I was learning was through Duolingo because I didn't have any time, I'm back and I'm more determined than ever to make some good progress!
-
-----
 ### Jojo's Bizarre Adventure
 I put the subtitles in Japanese this time because I feel like I will learn much more.
 

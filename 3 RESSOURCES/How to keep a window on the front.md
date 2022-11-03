@@ -1,14 +1,13 @@
+---
+date: 2022-10-24T22:00
+tags:
+  - permanent
+---
 # How to keep a window on the front
-- MOC : [[MOC Notes]]
-- Date : 2022-10-24
-- Tag : #completed - #permanent 
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## How to keep a window on the front
-
+- MOC: [[MOC Notes]]
+- Linked notes: 
+- [Home](https://misudashi.ga/)
+----------
 When sentence mining, it can be annoying to always have to click on your Anki window to add a new card. So I found a way to keep it on the front of your screen. (Windows 10)
 
 - Download [AutoHotkey](https://www.autohotkey.com/) and run it.

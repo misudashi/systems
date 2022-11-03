@@ -1,14 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # Measuring Productivity
-- MOC : [[MOC Self Improvement]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[Productivity]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Measuring Productivity
-
+- MOC: [[MOC Self Improvement]]
+- Linked notes: [[Productivity]]
+- [Home](https://misudashi.ga/)
+- Source: [How to measure your productivity](https://alifeofproductivity.com/podcast-how-to-measure-your-productivity/)
+----------
 I'm listening to a podcast named [How to measure your productivity](https://alifeofproductivity.com/podcast-how-to-measure-your-productivity/). They commented about something that gave me a bit of an idea.
 
 They said, "It is hard to measure your productivity.".

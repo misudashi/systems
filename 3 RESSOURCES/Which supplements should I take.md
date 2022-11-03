@@ -1,14 +1,13 @@
-# Which supplements should I take
-- MOC : [[MOC Self Improvement]]
-- Date : 2022-10-26
-- Tag : #completed - #permanent 
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Which supplements should I take
-
+---
+date: 2022-10-26T22:00
+tags:
+  - permanent
+---
+# Why training your neck is important
+- MOC: [[MOC Self Improvement]]
+- Linked Notes:
+- [Home](https://misudashi.ga/)
+----------
 You don't **need** supplements. It's just a nice little bonus to have.
 
 - **Creatine** => 10€ for 6 months

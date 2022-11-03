@@ -1,12 +1,11 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # Reading List
-- MOC : No Hierarchy
-- Date : Aug. 2022
-- Tag : #permanent
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
+- [Home](https://misudashi.ga/)
+----------
 ## Reading List
 - Une brève histoire de tout
 - La vision intégrale
@@ -20,9 +19,9 @@
 - Le pouvoir des habitudes
 - Ego is the enemy
 - Introduction à la pensée complexe
-- The 4 hours week
 - Atomic Habits
 - The Bezos Letters
 - Trous noirs et bébés univers - Stephen Hawking
 - [[Décodez votre cerveau by Yves-Alexandre Thalmann]]#
 - [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
+- [[The 4 Hours Week by Timothy Ferriss]]#

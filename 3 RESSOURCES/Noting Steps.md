@@ -1,13 +1,13 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # Noting Steps
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[Productivity]] - [[Zettelkasten]] - [[Reading List]] - [[Relationships]] - [[Memory Consolidation]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Noting Steps
+- MOC: [[MOC Notes]]
+- Linked Notes: [[Productivity]] - [[Zettelkasten]] - [[Reading List]] - [[Relationships]] - [[Memory Consolidation]]
+- [Home](https://misudashi.ga/)
+---------- 
 Here are the steps you should do every time you don't have anything to do, to transform your procrastination in productivity.
 
 ![Image](https://misudashi.github.io/systems/static/Note-Taking-Steps.jpeg)
@@ -19,14 +19,12 @@ Here are the steps you should do every time you don't have anything to do, to tr
 3. **Read**
 4. **Take Notes**
 
-In this article, we will be reviewing how to properly do each of these steps so you effectively acquire knowledge on the long-term.
-
 ## 1. Look
 In this part, you will be seeking for interesting content that :
 - You would enjoy consuming
 - Will bring you knowledge
 
-It can be (and it should be) composed of articles, books, podcasts, videos, and so on.
+It should be made of articles, books, podcasts, videos, and so on.
 
 ### How to find good articles
 We will be using an app called Feedly. If you don't know it yet, first of all, you can download it by typing 'Feedly' in the App Store, or Google Play Store.

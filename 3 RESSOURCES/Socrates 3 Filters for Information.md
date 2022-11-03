@@ -1,14 +1,14 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # Socrates 3 filters for information
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[Socrates]] - [[Philosophy]]
-- Source : [Les 3 Filtres de Socrate](https://www.penser-et-agir.fr/les-3-filtres-de-socrate/)
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Socrates 3 filters for information
+- MOC: [[MOC Notes]]
+- Linked Notes: [[Socrates]] - [[Philosophy]]
+- [Home](https://misudashi.ga/)
+- Source: [Les 3 Filtres de Socrate](https://www.penser-et-agir.fr/les-3-filtres-de-socrate/)
+---------- 
 ### Origin
 As you probably know, Socrates didn't write anything so the follow text may not be what was really said, word by word.
 

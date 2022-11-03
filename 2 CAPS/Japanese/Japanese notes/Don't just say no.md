@@ -1,14 +1,14 @@
+---
+date: 2022-10-02T22:00
+tags:
+  - permanent
+---
 # Don't just say no
-- MOC : [[MOC Japanese]]
-- Date : 2022-10-02
-- Tag : #completed - #permanent 
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Don't just say no
-
+- MOC: [[MOC Japanese]]
+- [Home](https://misudashi.ga/)
+- Linked notes: 
+- Source: Yuta's Basic Japanese - [[Japanese Resources Logging]]
+----------
 For instance, in the dialogue: 
 
 - Ⓐ:  食べます？

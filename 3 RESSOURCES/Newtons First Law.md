@@ -1,13 +1,13 @@
+---
+date: 2022-08-01T22:00
+tags:
+  - permanent
+---
 # Newton's First Law
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[Newton]] - [[Business]] - [[Physics]] - [[Science]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Newton's First Law
+- MOC: [[MOC Notes]]
+- Linked Notes: [[Newton]] - [[Business]] - [[Physics]] - [[Science]]
+- [Home](https://misudashi.ga/)
+---------- 
 [[Newton]]'s First Law, or the Principle of Inertia, states that any object will retain its state of rest or uniform straight line motion in which it finds itself, unless a force is applied to that body.
 
 We can use this law as an argument to sell a product or a course. Once you have done the small effort of taking and applying my course, your knowledge will continue in the direction you set forever, without any effort. 

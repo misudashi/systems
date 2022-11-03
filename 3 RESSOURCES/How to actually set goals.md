@@ -1,25 +1,14 @@
+---
+date: 2022-11-01T22:00
+tags:
+  - permanent
+---
 # How to actually set goals
-- MOC : [[MOC Self Improvement]]
-- Date : 2022-11-01
-- Tag : #in-progress
-- Linked Notes : [[Goals]] - [[Set unrealistic goals]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## How to actually set goals
-
-
-
-"Excitement is the more practical synonym for
-happiness, and it is precisely what you should strive
-to chase. It is the cure-all. When people suggest you
-follow your “passion” or your “bliss,” I propose that they
-are, in fact, referring to the same singular concept:
-excitement.
-This brings us full circle. The question you should be
-asking isn’t, “What do I want?” or “What are my goals?”
-but “What would excite me?”"
+- MOC: [[MOC Self Improvement]]
+- Linked notes: [[Goals]] - [[Set unrealistic goals]]
+- [Home](https://misudashi.ga/)
+----------
+"Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all. When people suggest you follow your “passion” or your “bliss,” I propose that they are, in fact, referring to the same singular concept: excitement. This brings us full circle. The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?”"
 
 -*Timothy Ferriss* in [[The 4 Hours Week by Timothy Ferriss]].
 

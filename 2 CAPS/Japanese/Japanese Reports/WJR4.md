@@ -1,15 +1,15 @@
+---
+date: 2022-09-05T22:00
+tags:
+  - permanent
+  - wjr
+---
 # Weekly JP Report 4: 17 Oct. -  24 Oct. 2022
-- MOC : [[MOC Weekly Japanese Reviews]]
-- Date : 2022-09-05
-- Tag : #wjr - #completed - #permanent
-- Previous Japanese Review : [[WJR3]]
-- Next Japanese Review : [[WJR5]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-# WJR4 17 Oct. -  24 Oct. 2022
-
+- MOC: [[MOC Weekly Japanese Reviews]]
+- [Home](https://misudashi.ga/)
+- Previous Report: [[WJR3]]
+- Next Report: [[WJR5]]
+----------
 ## Manga 漫画
 I downloaded [the scans of よつばと!](https://drive.google.com/drive/folders/1jcCUZOxOgJz0qxmUz5aMmITIo5IaaP-0) after seeing a YouTube video talk about it. From what I've understood so far, it seems that よつば is a young girl who's moving houses. I figured that out because I saw 「ここ家がいっぱい」, in which I recognized 「家」 and 「ここ」. I learned a new way of saying 「すごい」, which is 「すげえ」. I had to look up the word in order to realize they were the same. The manga seems pretty cool, and honestly not too hard to read. Though, I doubt that it will be a practical way to learn Japanese, due to the fact that I'm reading it using a scan, which makes it impossible to select a word and copy-paste it into [jisho.org](https://jisho.org/), or to use Yomichan, making things extra-difficult when there is a sentence I don't understand at all. I think I would rather study Japanese texts on a website, so I can quickly look up things when I want to.
 

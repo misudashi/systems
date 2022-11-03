@@ -1,21 +1,15 @@
+---
+date: 2022-11-01T22:00
+tags:
+  - permanent
+---
 # Set unrealistic goals
-- MOC : [[MOC Self Improvement]]
-- Date : 2022-11-01
-- Tag : #in-progress
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Set unrealistic goals
-
-"Having an unusually large goal is an adrenaline
-infusion that provides the endurance to overcome the
-inevitable trials and tribulations that go along with any
-goal. Realistic goals, goals restricted to the average
-ambition level, are uninspiring and will only fuel you
-through the first or second problem, at which point you
-throw in the towel."
+- MOC: [[MOC Self Improvement]]
+- Linked Notes:
+- [Home](https://misudashi.ga/)
+- Source: [[The 4 Hours Week by Timothy Ferriss]]
+---------- 
+"Having an unusually large goal is an adrenaline infusion that provides the endurance to overcome the inevitable trials and tribulations that go along with any goal. Realistic goals, goals restricted to the average ambition level, are uninspiring and will only fuel you through the first or second problem, at which point you throw in the towel."
 
 -*Timothy Ferriss* in [[The 4 Hours Week by Timothy Ferriss]].
 

@@ -1,15 +1,14 @@
+---
+date: 2022-10-26T22:00
+tags:
+  - permanent
+---
 # The hierarchy of attractive muscles
-- MOC : [[MOC Self Improvement]]
-- Date : 2022-10-26
-- Tag : #completed - #permanent 
-- Linked Notes : 
+- MOC: [[MOC Self Improvement]]
+- Linked Notes: 
+- [Home](https://misudashi.ga/)
 - Source: [No Bullshit Guide on Aesthetic Body](https://www.youtube.com/watch?v=uILhdYr_UDs)
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The hierarchy of attractive muscles
-
+----------
 To build an aesthetic body, it is necessary to know which muscles to target. These muscles build the V-Taper.
 
 - 1 - Neck (see [[Why training your neck is important]]#) => 3x per week

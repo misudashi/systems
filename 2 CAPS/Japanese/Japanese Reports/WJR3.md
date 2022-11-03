@@ -1,14 +1,15 @@
+---
+date: 2022-09-05T22:00
+tags:
+  - permanent
+  - wjr
+---
 # Weekly JP Report 3: 11 Sept. -  18 Sept. 2022
-- MOC : [[MOC Weekly Japanese Reviews]]
-- Date : 2022-09-05
-- Tag : #wjr - #completed - #permanent 
-- Previous Japanese Review : [[WJR2]]
-- Next Japanese Review : [[WJR4]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## WJR3 11 Sept. -  18 Sept. 2022
+- MOC: [[MOC Weekly Japanese Reviews]]
+- [Home](https://misudashi.ga/)
+- Previous Report: [[WJR2]]
+- Next Report: [[WJR4]]
+----------
 I haven't made that much progress in Japanese this week, because I was focusing on other parts of my life such as hitting my first sessions to the gym, and the beginning of the school year. Next week, though, I'll slowly get back to the nice "1hr/day" habit. I'll keep ya updated on how it goes.
 ### Calligraphy
 I know that calligraphy isn't going to benefit me as much as other things I could be doing instead, but I find it really fun. I wrote 「薫風爽やかな季節を迎え、 貴社に於かれましては 益々ご清栄のことと存じます」which means "As we enter this refreshing season of early-summer breezes, we hope for your continued health and prosperity."

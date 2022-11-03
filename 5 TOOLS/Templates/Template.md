@@ -1,11 +1,10 @@
+---
+date: {{date}}T22:00
+tags:
+  - permanent
+---
 # Template
 - MOC : [[]]
-- Date : {{date}}
-- Tag : #in-progress
 - Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Template
-
+- [Home](https://misudashi.ga/)
+----------

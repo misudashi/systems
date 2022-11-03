@@ -1,9 +1,3 @@
----
-
-mindmap-plugin: basic
-
----
-
 # Comment les économistes, les sociologues et les politistes raisonnent-ils et travaillent-ils ?
 
 ## Economistes

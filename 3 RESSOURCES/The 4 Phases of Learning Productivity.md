@@ -1,14 +1,14 @@
+---
+date: 2022-10-01T22:00
+tags:
+  - permanent
+---
 # The 4 phases of learning Productivity
-- MOC : [[MOC Notes]]
-- Date : Aug. 2022
-- Tag : #permanent - #completed 
-- Linked Notes : [[Education]] - [[The Cognitive Theory]]
+- MOC: [[MOC Notes]]
+- Linked Notes: [[Education]] - [[The Cognitive Theory]]
+- [Home](https://misudashi.ga/)
 - Source : [Everlaab](https://everlaab.com/4-phases-dapprentissage-inevitables-pour-devenir-une-bete-de-productivite/)
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The 4 phases of learning Productivity
+---------- 
 - **Phase 1**: You are unconsciously incompetent.  
 - **Phase 2**: You are consciously incompetent.  
 - **Phase 3**: you are consciously competent.

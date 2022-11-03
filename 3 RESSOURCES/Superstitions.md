@@ -1,12 +1,12 @@
+---
+date: 2022-10-18T22:00
+tags:
+  - permanent
+---
 # Superstitions
-- MOC : [[MOC Notes]]
-- Date : 2022-10-18
-- Tag : #completed - #permanent 
-- Source : [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Superstitions
-
+- MOC: [[MOC Notes]]
+- Linked Notes: 
+- [Home](https://misudashi.ga/)
+- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+---------- 
 The [[Causality Bias]] associated to the [[Confirmation Bias]] often gives birth to Superstitions.

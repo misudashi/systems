@@ -1,13 +1,13 @@
+---
+date: 2022-11-01T22:00
+tags:
+  - permanent
+---
 # Dopamine Detox
-- MOC : [[MOC Self Improvement]]
-- Date : 2022-11-01
-- Tag : #in-progress
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## Dopamine Detox
+- MOC: [[MOC Self Improvement]]
+- Linked notes:
+- [Home](https://misudashi.ga/)
+----------
 A dopamine detox is when you stop indulging in activities that give you **dopamine** (aka "pleasure") for a specific number of days. I personally feel like there are multiple "levels" of dopamine detoxing, which I will be trying to explain below:
 
 ### Beginner dopamine detox

@@ -1,9 +1,7 @@
 ---
-date: 2021-05-17T22:00
 tags:
-  - studymethods
-  - japanese
-  - timeline
+  - pinned
+  - Japanese
 ---
 
 # Weekly Japanese Reviews (WJR)

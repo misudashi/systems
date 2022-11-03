@@ -1,15 +1,14 @@
+---
+date: 2022-09-21T22:00
+tags:
+  - permanent
+---
 # How to express "wanted to go" instead of "to go"
-- MOC :  [[MOC Japanese]]
-- Date : 2022-09-21
-- Tag : #completed - #permanent 
-- Linked Notes : 
+- MOC: [[MOC Japanese]]
+- [Home](https://misudashi.ga/)
+- Linked notes: 
 - Source: Yuta's Basic Japanese - [[Japanese Resources Logging]]
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## How to express "wanted to go" instead of "to go"
-
+----------
 - The verb "to go" is「 行く」, pronounced 「いく」(iku).
 - Use 「たい」(tai) to say "want to":
 

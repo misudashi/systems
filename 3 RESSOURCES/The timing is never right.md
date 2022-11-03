@@ -1,12 +1,11 @@
+---
+date: 2022-10-27T22:00
+tags:
+  - permanent
+  - raw
+---
 # The timing is never right
-- MOC : [[MOC Notes]]
-- Date : 2022-10-27
-- Tag : #in-progress
-- Linked Notes : 
--------------------
-- [Go back to Homepage](https://misudashi.ga/)
------
-
-## The timing is never right
-
-
+- MOC: [[MOC Notes]]
+- Linked Notes: 
+- [Home](https://misudashi.ga/)
+----------
