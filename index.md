@@ -58,13 +58,3 @@ If you like what I write here, and you would like to motivate me, you can donate
 *-[[Misudashi]] - 三スダッ*
 
 > This website was uploaded for the first time on the 13th of August 2022.
-
-    <div>
-      <button onclick="darkMode()">Darkmode</button>
-    </div>
-    <script>
-      function darkMode() {
-        var element = document.body;
-        element.classList.toggle("dark-mode");
-      }
-    </script>
