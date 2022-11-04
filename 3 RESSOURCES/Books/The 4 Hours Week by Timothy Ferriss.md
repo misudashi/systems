@@ -19,3 +19,5 @@ Here are the notes I've taken so far:
 - [[The opposite of happiness]]#
 - [[The opposite of boredom]]#
 - [[How to get Google's CEO on the Phone]]#
+- [[Effectiveness vs Efficiency]]#
+- [[Procrastinating by doing something productive]]#

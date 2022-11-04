@@ -1,7 +1,6 @@
 ---
 date: 2022-10-02T22:00
 tags:
-  - permanent
   - Japanese
 ---
 # How to say yes and no

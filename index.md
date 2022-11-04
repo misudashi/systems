@@ -1,6 +1,6 @@
 ---
 tags:
-  - permanent
+  - system
 ---
 
 # Misudashi Systems

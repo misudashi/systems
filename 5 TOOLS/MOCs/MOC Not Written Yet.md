@@ -1,6 +1,6 @@
 ---
 tags:
-- permanent
+- system
 ---
 # MOC Not Written Yet
 

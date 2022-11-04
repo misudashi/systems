@@ -1,7 +1,6 @@
 ---
 date: 2022-09-21T22:00
 tags:
-  - permanent
   - Japanese
 ---
 # When to use "?" in Japanese

@@ -1,7 +1,6 @@
 ---
 date: 2022-10-25T22:00
 tags:
-  - permanent
   - wjr
 ---
 # Weekly JP Report 5: 25 Oct. -  1 Nov.

@@ -1,7 +1,6 @@
 ---
 date: 2022-08-15T22:00
 tags:
-  - permanent
   - wjr
 ---
 # Weekly JP Report 1: 15 Aug. -  21 Aug. 2022
