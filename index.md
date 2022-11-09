@@ -21,13 +21,14 @@ If you are here for some knowledge on a specific topic, then I would recommend u
 
 For a better experience, I *try to* organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). They can be seen as folders, but *better*.
 
-For now, the hub points to 5 different Maps of Content:
+For now, the hub points to 6 different Maps of Content:
 
 - [[MOC Self Improvement]]#
 - [[MOC Projects]]#
 - [[MOC Notes]]#
 - [[MOC Japanese]]#
 - [[MOC Weekly Japanese Reviews]]#
+- [[MOC The Human Brain]]#
 
 ## Credits
 
