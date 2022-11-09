@@ -2,10 +2,11 @@
 date: 2022-08-01T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # The 80/20 Rule: Pareto's Law
-- MOC: [[MOC Notes]]
-- Linked Notes: [[Parkinsons Law]] - [[The Cognitive Theory]]
+- MOC: [[MOC The Human Brain]]
+- Linked Notes: [[Parkinsons Law]]
 - [Home](https://misudashi.ga/)
 ---------- 
 What it states is that in a lot of cases in your life, those two numbers 80 and 20 will show. For instance, 20% of the clients of a company make 80% of their benefits.

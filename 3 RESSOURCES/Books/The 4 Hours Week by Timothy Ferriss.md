@@ -21,3 +21,4 @@ Here are the notes I've taken so far:
 - [[How to get Google's CEO on the Phone]]#
 - [[Effectiveness vs Efficiency]]#
 - [[Procrastinating by doing something productive]]#
+- [[What  you do is infinitely more important than how you do it]]#

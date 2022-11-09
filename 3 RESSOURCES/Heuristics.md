@@ -2,9 +2,10 @@
 date: 2022-10-18T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # Heuristics
-- MOC: [[MOC Notes]]
+- MOC: [[MOC The Human Brain]]
 - Linked notes: [[Using mind shortcuts]]
 - [Home](https://misudashi.ga/)
 ----------

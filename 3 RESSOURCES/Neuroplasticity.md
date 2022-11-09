@@ -2,9 +2,10 @@
 date: 2022-10-18T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # Neuroplasticity
-- MOC: [[MOC Notes]]
+- MOC: [[MOC The Human Brain]]
 - Linked Notes: [[The 5 Basic modules of our brain]]
 - [Home](https://misudashi.ga/)
 - Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]

@@ -15,11 +15,7 @@ The Weekly Japanese Reviews (WJR) will be (I hope) consistent notes in which I w
 - [[WJR5]]
 ### First Review :
 - [[WJR1]]#
-
-## All Reviews
+### All Reviews
 Here are all the other reviews you may be wanting to see. Some will be missing because I simply didn't consume any Japanese content in the week.
 
 [[z:zettels?tag=wjr/**&wjr]]
-
-###### Links :
-- [Home](https://misudashi.ga/)

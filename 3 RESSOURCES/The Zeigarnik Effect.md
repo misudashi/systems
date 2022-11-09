@@ -2,10 +2,11 @@
 date: 2022-09-17T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # The Zeigarnik Effect
-- MOC: [[MOC Notes]]
-- Linked Notes: [[Productivity]] - [[The Cognitive Theory]] - [[The Ovsiankina effect]]
+- MOC: [[MOC The Human Brain]]
+- Linked Notes: [[Productivity]] -  [[The Ovsiankina effect]]
 - [Home](https://misudashi.ga/)
 - Source : [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
 ----------

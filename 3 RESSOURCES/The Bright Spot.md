@@ -2,9 +2,10 @@
 date: 2022-08-01T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # The Bright Spot
-- MOC: [[MOC Notes]]
+- MOC: [[MOC The Human Brain]]
 - Linked Notes: 
 - [Home](https://misudashi.ga/)
 - Source: [Switch Recap - Eliott Meunier](https://www.youtube.com/watch?v=8c7PcR2uMyI)

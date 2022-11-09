@@ -2,9 +2,10 @@
 date: 2022-10-18T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # Neurogenesis
-- MOC: [[MOC Notes]]
+- MOC: [[MOC The Human Brain]]
 - Linked Notes: [[Neuroplasticity]]
 - [Home](https://misudashi.ga/)
 - Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]

@@ -11,7 +11,7 @@ tags:
 ----------
 P = p - i
 
-Performance is the potential, minus the interferences.
+> Performance is the potential, minus the interferences.
 
 -Timothy Gallwey
 

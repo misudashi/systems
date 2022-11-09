@@ -2,9 +2,10 @@
 date: 2022-09-17T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # Attention is not an infinite resource
-- MOC: [[MOC Notes]]
+- MOC: [[MOC The Human Brain]]
 - Linked notes: [[Attention]]
 - [Home](https://misudashi.ga/)
 - Source : [[Décodez votre cerveau by Yves-Alexandre Thalmann]]

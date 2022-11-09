@@ -2,10 +2,11 @@
 date: 2022-09-17T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # The Ovsiankina effect
-- MOC: [[MOC Notes]]
-- Linked Notes: [[Productivity]] - [[The Cognitive Theory]] - [[The Zeigarnik Effect]]
+- MOC: [[MOC The Human Brain]]
+- Linked Notes: [[Productivity]] - [[MOC The Human Brain]] - [[The Zeigarnik Effect]]
 - [Home](https://misudashi.ga/)
 - Source : [Wikipedia](https://en.wikipedia.org/wiki/Ovsiankina_effect)
 ----------

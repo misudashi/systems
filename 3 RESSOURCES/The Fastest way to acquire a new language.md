@@ -3,9 +3,10 @@ date: 2022-08-01T22:00
 tags:
   - permanent
   - Japanese
+  - neurosciences
 ---
 # The fastest way to acquire a new language
-- MOC: [[MOC Japanese]]
+- MOC: [[MOC Japanese]] - [[MOC The Human Brain]]
 - Linked Notes:
 - [Home](https://misudashi.ga/)
 - Source: [YouTube](https://youtube.com/)

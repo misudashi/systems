@@ -5,7 +5,7 @@ tags:
 ---
 # Causality Bias
 - MOC: [[MOC Notes]]
-- Linked notes: [[Confirmation Bias]] - [[The Cognitive Theory]]
+- Linked notes: [[Confirmation Bias]] - [[MOC The Human Brain]]
 - [Home](https://misudashi.ga/)
 - Source: [Journal Sage Pub](https://journals.sagepub.com/doi/10.1177/1747021818755326#:~:text=The%20illusion%20of%20causality%20consists,based%20on%20illusory%20causal%20relationships.)
 ----------

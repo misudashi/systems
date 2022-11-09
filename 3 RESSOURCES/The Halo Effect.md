@@ -2,9 +2,10 @@
 date: 2022-10-29T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # The Halo Effect
-- MOC: [[MOC Notes]]
+- MOC: [[MOC The Human Brain]]
 - Linked Notes: 
 - [Home](https://misudashi.ga/)
 ----------

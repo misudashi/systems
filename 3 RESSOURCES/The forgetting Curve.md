@@ -2,9 +2,10 @@
 date: 2022-08-01T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # The forgetting curve
-- MOC: [[MOC Notes]]
+- MOC: [[MOC The Human Brain]]
 - Linked Notes: [[The Ebbinghaus Curve]] - [[Productivity]] - [[Education]]
 - [Home](https://misudashi.ga/)
 ----------

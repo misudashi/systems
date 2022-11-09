@@ -2,9 +2,10 @@
 date: 2022-09-04T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # Confirmation bias
-- MOC: [[MOC Notes]]
+- MOC: [[MOC The Human Brain]]
 - Linked notes: [[The best way to learn]]
 - [Home](https://misudashi.ga/)
 ----------

@@ -11,7 +11,6 @@ It may seem weird but it's actually really useful to me, don't worry about it. I
 ## Empty pages
 - [[Productivity]]#
 - [[Procrastination]]#
-- [[The Cognitive Theory]]#
 - [[Philosophy]]#
 - [[Authenticity]]#
 - [[Mindfulness]]#

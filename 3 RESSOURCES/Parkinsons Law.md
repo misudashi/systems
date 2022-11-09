@@ -2,10 +2,11 @@
 date: 2022-08-01T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # Parkinson's Law
-- MOC: [[MOC Self Improvement]]
-- Linked Notes: [[The 80-20 rule]] - [[Measuring Productivity]] - [[Productivity]] - [[The Cognitive Theory]] - [[Procrastination]]
+- MOC: [[MOC Self Improvement]] - [[MOC The Human Brain]]
+- Linked Notes: [[The 80-20 rule]] - [[Measuring Productivity]] - [[Productivity]] - [[MOC The Human Brain]] - [[Procrastination]]
 - [Home](https://misudashi.ga/)
 - Source: Thomas Delorme
 ---------- 

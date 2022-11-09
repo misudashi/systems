@@ -4,8 +4,8 @@ tags:
   - permanent
 ---
 # The 4 phases of learning Productivity
-- MOC: [[MOC Notes]]
-- Linked Notes: [[Education]] - [[The Cognitive Theory]]
+- MOC: [[MOC The Human Brain]]
+- Linked Notes: [[Education]]
 - [Home](https://misudashi.ga/)
 - Source : [Everlaab](https://everlaab.com/4-phases-dapprentissage-inevitables-pour-devenir-une-bete-de-productivite/)
 ---------- 

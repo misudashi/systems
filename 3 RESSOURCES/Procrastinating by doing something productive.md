@@ -2,9 +2,10 @@
 date: 2022-11-04T22:00
 tags:
   - permanent
+  - neurosciences
 ---
 # Procrastinating by doing something productive
-- MOC : [[MOC Notes]]
+- MOC : [[MOC The Human Brain]]
 - Linked Notes : 
 - [Home](https://misudashi.ga/)
 - Source: [[The 4 Hours Week by Timothy Ferriss]]
