@@ -3,7 +3,7 @@ date: 2022-10-26T22:00
 tags:
   - permanent
 ---
-# Why training your neck is important
+# Which supplements should I take
 - MOC: [[MOC Self Improvement]]
 - Linked Notes:
 - [Home](https://misudashi.ga/)
