@@ -56,6 +56,6 @@ If you like what I write here, and you would like to motivate me, you can donate
 
 *Hope you will enjoy it.*
 
-*-[[Misudashi]] - 三スダッ*
+*-[[Misudashi]] - ミスダシ
 
 > This website was uploaded for the first time on the 13th of August 2022.
