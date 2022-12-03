@@ -32,6 +32,8 @@ tags:
 - Éloge de l'ombre - Tanizaki 
 - Kafka sur le rivage - Murakami 
 - D'autres vies que la mienne - Carrère
+- Oraison funèbre de la duchesse d'Orléans - J-B Bossuet
+- Le roman de la rose - Guillaume de Lorris
 - [[Décodez votre cerveau by Yves-Alexandre Thalmann]]#
 - [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
 - [[The 4 Hours Week by Timothy Ferriss]]#
