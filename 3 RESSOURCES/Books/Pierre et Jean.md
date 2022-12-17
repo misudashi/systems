@@ -5,7 +5,7 @@ tags:
   - book
 ---
 # Pierre et Jean by Maupassant
-- MOC : [[MOC Notes]]
+- MOC : [[notes]]
 - Linked Notes : 
 - [Home](https://misudashi.ga/)
 ----------

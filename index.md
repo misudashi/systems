@@ -5,13 +5,13 @@ tags:
 
 # Misudashi Systems
 
-Hi, I'm [[Misudashi]]#. 
+Hi, I'm [[myself]]#. 
 
 This is my personal website, in which I write what I learn or think.
 
 ## 📌 How it works
 
-The notes I take are similar to the ones of a [[Zettelkasten]] system, but the organization sometimes differs a  bit from the original concept.
+The notes I take are similar to the ones of a [[IIIIIIIllllIllI]] system, but the organization sometimes differs a  bit from the original concept.
 
 If you're simply curious about all of this, I suggest you browse links, starting with the [[timeline]] and [Impulse](https://misudashi.ga/impulse) sections.
 
@@ -21,14 +21,14 @@ If you are here for some knowledge on a specific topic, then I would recommend u
 
 For a better experience, I organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). They can be seen as folders.
 
-For now, the hub points to 6 different Maps of Content: [[krezingfza|A Brief Introduction to Degeneracy and the Beginning of Modern Dark Ages]]
+For now, the hub points to 6 different Maps of Content: [[IIlIIIlIIlIllll|A Brief Introduction to Degeneracy and the Beginning of Modern Dark Ages]]
 
-- [[MOC Self Improvement]]#
-- [[MOC Projects]]#
-- [[MOC Notes]]#
-- [[MOC Japanese]]#
-- [[MOC Weekly Japanese Reviews]]#
-- [[MOC The Human Brain]]#
+- [[self-improvement]]#
+- [[projects]]#
+- [[notes]]#
+- [[japanese]]#
+- [[weekly-japanese-reviews]]#
+- [[neurosciences-and-psychology]]#
 
 ## Credits
 
@@ -42,6 +42,6 @@ For now, the hub points to 6 different Maps of Content: [[krezingfza|A Brief Int
 
 I do not accept donations or sponsorships because running this website is free, and I do not own 100% of the content posted here due to Highlights.
 
-*-[[Misudashi]] - ミスダシ
+*-[[myself]] - ミスダシ
 
 > This website was uploaded for the first time on the 13th of August 2022.

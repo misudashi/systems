@@ -1,2 +1,2 @@
 # The Zettelkasten Method
-This article moved to [[Zettelkasten]].
+This article moved to [[IIIIIIIllllIllI]].

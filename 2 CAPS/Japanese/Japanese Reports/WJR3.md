@@ -4,7 +4,7 @@ tags:
   - wjr
 ---
 # Weekly JP Report 3: 11 Sept. -  18 Sept. 2022
-- MOC: [[MOC Weekly Japanese Reviews]]
+- MOC: [[weekly-japanese-reviews]]
 - [Home](https://misudashi.ga/)
 - Previous Report: [[WJR2]]
 - Next Report: [[WJR4]]
@@ -27,4 +27,4 @@ I've reduced the number of new cards per day to 3, because I was feeling like 10
 On the other hand, I really enjoy Anki. I feel like it is effective (after all, I'm learning 3 new words or sentences per day!), and it's pretty fun. It takes me about 9 minutes per day (it used to take me 30), so I think about 6 cards per day in a few weeks is fine, for, let's say, 20 to 40 minutes per day on busy days.
 
 ### Practicing 平仮名 reading
-While I was waiting for a friend to meet me, I thought "why not practicing my reading of Hiragana?". So I took my phone, and I searched for hiragana-written content. I quickly found a nice website which I put a link in [[Japanese Resources Logging]]. I found a story named [Princess Kaguya](https://crunchynihongo.com/hiragana-reading-practice-kaguya). As you can guess, the point isn't to understand what you're reading (which would be fairly hard, given there isn't any 漢字), but instead, to simply read out loud the pronounciation in order to get used to read fast. I saw a bit of improvement after about 40 minutes in, and I have to say it isn't as boring as it seems! 
+While I was waiting for a friend to meet me, I thought "why not practicing my reading of Hiragana?". So I took my phone, and I searched for hiragana-written content. I quickly found a nice website which I put a link in [[IIIIIIllIllIlIl]]. I found a story named [Princess Kaguya](https://crunchynihongo.com/hiragana-reading-practice-kaguya). As you can guess, the point isn't to understand what you're reading (which would be fairly hard, given there isn't any 漢字), but instead, to simply read out loud the pronounciation in order to get used to read fast. I saw a bit of improvement after about 40 minutes in, and I have to say it isn't as boring as it seems! 

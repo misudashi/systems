@@ -4,7 +4,7 @@ tags:
   - wjr
 ---
 # Weekly JP Report 2: 28 Aug. -  04 Sept. 2022
-- MOC: [[MOC Weekly Japanese Reviews]]
+- MOC: [[weekly-japanese-reviews]]
 - [Home](https://misudashi.ga/)
 - Previous Report: [[WJR1]]
 - Next Report: [[WJR3]]

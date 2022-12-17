@@ -1,0 +1,42 @@
+---
+date: 2022-10-16T22:00
+tags:
+  - permanent
+  - raw
+title: Agence
+---
+- MOC: [[projects]]
+- [Home](https://misudashi.ga/)
+- Linked Notes : https://www.youtube.com/watch?v=PX0jhgEfRRY
+----------
+- [[lIIlIIIllIlIlIl]]#
+	- Nom simple, court. Pas besoin de trop se creuser la tête dessus, y'a plus important.
+- Trouver un moyen de facilement faire des sites vitrines
+	- Faire des maquettes
+	- Embaucher sur Fiverr (pas cher)
+		- Problèmes
+			- Délais parfois non respectés
+			- Dur de trouver quelqu'un de fiable
+	- Payer des potes (pas cher)
+		- Problèmes
+			- Difficile de mettre la pression si délais non respectés
+			- Légalité?
+			- Business entre potes = risque de conflits
+	- Les coder ("gratuit")
+		- Problèmes
+			- Compétences à acquérir
+			- Temps passé sur chaque site
+	- Passer par un site tiers
+		- Wix
+			- Vérifier la légalité
+- Trouver une liste des commerces de Thonon
+	- Annuaires
+	- Demander à Maman
+	- Se faire des contacts
+		- Maman
+- Setup juridique
+	- Legalplace
+		- Se renseigner
+	- Faire des recherches sur les setup juridiques en France
+	- Aller mairie
+	- Site de Papa

@@ -4,7 +4,7 @@ tags:
   - Japanese
 title: 訓読み
 ---
-- MOC: [[MOC Japanese]]
+- MOC: [[japanese]]
 - [Home](https://misudashi.ga/)
 - Linked notes: [[lIIIIllIlllllII]]
 ----------

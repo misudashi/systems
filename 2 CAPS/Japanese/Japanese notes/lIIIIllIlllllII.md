@@ -4,8 +4,8 @@ tags:
   - Japanese
 title: 音読み
 ---
-- MOC: [[MOC Japanese]]
+- MOC: [[japanese]]
 - [Home](https://misudashi.ga/)
-- Linked notes: [[IllllIlllIIIIII]]]
+- Linked notes: [[IllllIlllIIIIII]]
 ----------
 The 音読み reading of a Kanji is the Chinese reading, as opposed to the [[IllllIlllIIIIII]] reading.

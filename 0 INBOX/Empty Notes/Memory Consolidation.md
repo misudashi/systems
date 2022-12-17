@@ -1,5 +1,5 @@
 # Memory Consolidation
-- MOC : [[MOC Not Written Yet]] - 
+- MOC : [[nwy]] - 
 - Date : *Not written yet*
 - Tag : #in-progress
 - Linked Notes : 

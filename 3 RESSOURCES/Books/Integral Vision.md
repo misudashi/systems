@@ -4,7 +4,7 @@ tags:
   - permanent
 ---
 # Integral Vision by Ken Wilber
-- MOC : [[MOC Notes]]
+- MOC : [[notes]]
 - Linked Notes : 
 - [Home](https://misudashi.ga/)
 - Source: [Eliott Meunier's recap](https://eliottmeunier.com/integral/)

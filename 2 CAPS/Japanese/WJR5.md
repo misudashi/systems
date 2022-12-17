@@ -4,7 +4,7 @@ tags:
   - wjr
 ---
 # Weekly JP Report 5: 25 Oct. -  1 Nov.
-- MOC: [[MOC Weekly Japanese Reviews]]
+- MOC: [[weekly-japanese-reviews]]
 - [Home](https://misudashi.ga/)
 - Previous Report: [[WJR4]]
 - Next Report: 
