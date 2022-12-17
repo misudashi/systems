@@ -3,13 +3,13 @@ date: 2022-10-16T22:00
 tags:
   - permanent
   - raw
+title: Agence
 ---
-# Agence
 - MOC: [[MOC Projects]]
 - [Home](https://misudashi.ga/)
 - Linked Notes : https://www.youtube.com/watch?v=PX0jhgEfRRY
 ----------
-- [[Trouver nom]]#
+- [[fxe2hag4si]]#
 	- Nom simple, court. Pas besoin de trop se creuser la tête dessus, y'a plus important.
 - Trouver un moyen de facilement faire des sites vitrines
 	- Faire des maquettes

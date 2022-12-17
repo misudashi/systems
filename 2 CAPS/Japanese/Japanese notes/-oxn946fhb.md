@@ -2,11 +2,11 @@
 date: 2022-10-02T22:00
 tags:
   - Japanese
+title: Which "I" should I use
 ---
-# Which 'I' should I use
 - MOC: [[MOC Japanese]]
 - [Home](https://misudashi.ga/)
-- Linked notes: [[Do not always use 私]]
+- Linked notes: [[5vp83q8epw]]
 - Source: Yuta's Basic Japanese - [[Japanese Resources Logging]]
 ----------
 ### 敬語

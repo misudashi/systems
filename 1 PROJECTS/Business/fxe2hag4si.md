@@ -3,11 +3,11 @@ date: 2022-10-16T22:00
 tags:
   - permanent
   - raw
+title: Trouver nom
 ---
-# Trouver nom
 - MOC: [[MOC Projects]]
 - [Home](https://misudashi.ga/)
-- Linked notes: [[Agence]]
+- Linked notes: [[kynaniq6ij]]
 ----------
 Idées:
 - Show Agency

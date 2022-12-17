@@ -3,8 +3,8 @@ date: 2022-11-01T22:00
 tags:
   - permanent
   - raw
+title: Self Improvement Guide
 ---
-# Self Improvement Guide
 - MOC: [[MOC Projects]]
 - [Home](https://misudashi.ga/)
 - Linked notes: [[Free online course]]

@@ -2,11 +2,12 @@
 date: 2022-10-02T22:00
 tags:
   - Japanese
+title: How to say "yes" and "no"
 ---
 # How to say yes and no
 - MOC: [[MOC Japanese]]
 - [Home](https://misudashi.ga/)
-- Linked notes: [[Don't just say no]]
+- Linked notes: [[b2v-5-wdh8]]
 ----------
 Spoken Japanese: 
 

@@ -2,8 +2,8 @@
 date: 2022-10-02T22:00
 tags:
   - Japanese
+title: Don't just say no
 ---
-# Don't just say no
 - MOC: [[MOC Japanese]]
 - [Home](https://misudashi.ga/)
 - Linked notes: 

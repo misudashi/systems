@@ -2,8 +2,8 @@
 date: 2022-09-21T22:00
 tags:
   - Japanese
+title: How to say "wanted to go"
 ---
-# How to express "wanted to go" instead of "to go"
 - MOC: [[MOC Japanese]]
 - [Home](https://misudashi.ga/)
 - Linked notes: 

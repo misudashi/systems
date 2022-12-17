@@ -2,8 +2,8 @@
 date: 2022-10-02T22:00
 tags:
   - Japanese
+title: Do not always use 私
 ---
-# Do not always use 私
 - MOC: [[MOC Japanese]]
 - [Home](https://misudashi.ga/)
 - Linked notes: 

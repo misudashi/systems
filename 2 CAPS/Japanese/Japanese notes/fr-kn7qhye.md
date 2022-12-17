@@ -2,8 +2,8 @@
 date: 2022-09-21T22:00
 tags:
   - Japanese
+title: 下さい can be rude
 ---
-# 下さい can be rude
 - MOC: [[MOC Japanese]]
 - [Home](https://misudashi.ga/)
 - Linked notes: 
