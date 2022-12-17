@@ -21,7 +21,7 @@ If you are here for some knowledge on a specific topic, then I would recommend u
 
 For a better experience, I organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). They can be seen as folders.
 
-For now, the hub points to 6 different Maps of Content:
+For now, the hub points to 6 different Maps of Content: [[krezingfza|A Brief Introduction to Degeneracy and the Beginning of Modern Dark Ages]]
 
 - [[MOC Self Improvement]]#
 - [[MOC Projects]]#
