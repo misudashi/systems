@@ -2,10 +2,11 @@
 date: 2022-11-20T22:00
 tags:
   - permanent
+title: Integral Vision
 ---
-# Integral Vision by Ken Wilber
 - MOC : [[notes]]
 - Linked Notes : 
+- Author: Ken Wilber
 - [Home](https://misudashi.ga/)
 - Source: [Eliott Meunier's recap](https://eliottmeunier.com/integral/)
 ----------

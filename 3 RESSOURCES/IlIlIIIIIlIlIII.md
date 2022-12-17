@@ -8,7 +8,7 @@ title: Procrastinating by doing something productive
 - MOC : [[neurosciences-and-psychology]]
 - Linked Notes : 
 - [Home](https://misudashi.ga/)
-- Source: [[The 4 Hours Week]]
+- Source: [[the-four-hours-week]]
 ----------
 - Being busy is most often used as a guise for avoiding the few critically important but uncomfortable actions. The options are almost limitless for creating “busyness”.
 

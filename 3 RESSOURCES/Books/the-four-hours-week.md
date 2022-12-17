@@ -4,10 +4,11 @@ tags:
   - permanent
   - book
   - raw
+title: The 4 Hours Week 
 ---
-# The 4 phases of learning Productivity
 - MOC: [[notes]]
 - Linked Notes: 
+- Author: Tim Ferriss
 - [Home](https://misudashi.ga/)
 ---------- 
 I haven't finished it yet, so I can't give a whole review.

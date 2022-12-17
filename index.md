@@ -7,7 +7,7 @@ tags:
 
 Hi, I'm [[myself]]#. 
 
-This is my personal website, in which I write what I learn or think.
+This is my personal website, in which I write what I learn and think.
 
 ## 📌 HUB
 
@@ -31,11 +31,11 @@ If you're simply curious about all of this, I suggest you browse links, starting
 If you are here for some knowledge on a specific topic, then I would recommend using the **HUB**, which you can read more about in the previous section.
 ## Credits
 
--  [Morg](https://morg.systems/) made me discover Neuron through his website.
 - I use [Neuron](https://neuron.zettel.page/) to change my .md files to web pages.
+-  [Morg](https://morg.systems/) made me discover Neuron through his website.
 - To publish my notes, I use [GH Pages](https://pages.github.com/).
 - I use [Obsidian](https://obsidian.md/) to edit them.
-- **Some notes I am taking can be highlights from what I've read. I do not pretend owning any of the stuff I write here, it is simply a database of my knowledge, so feel free to re-use it.**
+- Some notes I am taking can be highlights from what I've read. I do not pretend owning any of the stuff I write here, it is simply a database of my knowledge, so feel free to re-use it.
 
 ## Donating
 

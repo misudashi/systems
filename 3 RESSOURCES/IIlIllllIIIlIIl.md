@@ -7,7 +7,7 @@ title: Everything popular is wrong
 - MOC: [[notes]]
 - Linked notes: [[IIllllIIIIIIlll]]
 - [Home](https://misudashi.ga/)
-- Source: [[The 4 Hours Week]]
+- Source: [[the-four-hours-week]]
 ----------
 Doing like 99% of the population will only give you the results of the 99%. We want more. Therefore,
 

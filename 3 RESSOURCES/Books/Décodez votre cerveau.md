@@ -3,9 +3,10 @@ date: 2022-09-02T22:00
 tags:
   - permanent
   - book
+title: Décodez votre cerveau (French)
 ---
-# Décodez votre cerveau by Yves-Alexandre Thalmann
 - MOC: [[notes]]
+- Author: Yves-Alexandre Thalmann
 - [Home](https://misudashi.ga/)
 ----------
 ### Opinion

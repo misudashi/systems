@@ -35,8 +35,8 @@ title: Reading List
 - Le roman de la rose - Guillaume de Lorris
 - Le Prince - Machiavel
 - Hard times create strong men by Stefan Aarnio
-- [[Pierre et Jean]]# - Maupassant
+- [[pierre-et-jean]]# - Maupassant
 - [[Décodez votre cerveau]]# - Yves-Alexandre Thalmann
 - [[Minimalisme]]# - Joshua Field Miliburn and Ryan Nicodemus
-- [[The 4 Hours Week]]# - Timothy Ferriss
-- [[Integral Vision]]# - Ken Wilber
+- [[the-four-hours-week]]# - Timothy Ferriss
+- [[integral-vision]]# - Ken Wilber

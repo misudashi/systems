@@ -3,10 +3,11 @@ date: 2022-12-16T22:00
 tags:
   - permanent
   - book
+title: Pierre et Jean 
 ---
-# Pierre et Jean by Maupassant
 - MOC : [[notes]]
 - Linked Notes : 
+- Author: Maupassant
 - [Home](https://misudashi.ga/)
 ----------
 - I read this book in French as a school task. 
