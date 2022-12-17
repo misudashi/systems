@@ -4,7 +4,6 @@ tags:
   - permanent
 title: A Brief Introduction to Degeneracy and the Beginning of Modern Dark Ages
 ---
-# A Brief Introduction to Degeneracy and the Beginning of Modern Dark Ages
 - MOC : [[MOC Notes]]
 - Linked Notes : 
 - [Home](https://misudashi.ga/)
