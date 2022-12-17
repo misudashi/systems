@@ -8,7 +8,7 @@ tags:
 - MOC : [[MOC The Human Brain]]
 - Linked Notes : 
 - [Home](https://misudashi.ga/)
-- Source: [[The 4 Hours Week by Timothy Ferriss]]
+- Source: [[The 4 Hours Week]]
 ----------
 - Being busy is most often used as a guise for avoiding the few critically important but uncomfortable actions. The options are almost limitless for creating “busyness”.
 

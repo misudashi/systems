@@ -8,7 +8,7 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked Notes: 
 - [Home](https://misudashi.ga/)
-- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source: [[Décodez votre cerveau]]
 ---------- 
 Our memories are created and modified while taking into account what we know and what we believe in.
 

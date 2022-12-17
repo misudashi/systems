@@ -7,7 +7,7 @@ tags:
 - MOC: [[MOC Self Improvement]]
 - Linked Notes: [[Authenticity]] - [[Philosophy]] - [[Mindfulness]]
 - [Home](https://misudashi.ga/)
-- Source: [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]
+- Source: [[Minimalisme]]
 ----------
 If you do not give of yourself to contribute to the lives of others, you will forever lead a life of selfishness. 
 

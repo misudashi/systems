@@ -4,7 +4,16 @@ tags:
 ---
 # Notes
 
-This is where I store all the concepts, and all the knowledge bricks I acquire while reading, listening to podcasts, having a conversation, etc. There will be notes about every subject possible in here, and they won't necessarily be sorted. If I see that a lot of notes accumulate on the same subject, I may make a separate Map of Content for them.
+Here are all the notes that didn't fit in the MOC I use.
+
+The Raw [[MOC Notes]]# may be messy, because they are meant to be re-read by myself so I can later turn them into permanent notes. They will often be filled with **Highlights**, which are the "interesting parts" I want to save in my memory when I read/listen to something. Thus, they can be in other languages such as French.
+
+If you feel like what I am saying in these is incorrect, feel free to send me an e-mail so I can review what I wrote and potentially reformulate/correct what is said in there. (See [[Misudashi]])
+
+Finally, as I previously said, 
+
+> I do not pretend owning any of the stuff I write here, it is simply a database of my knowledge, so feel free to re-use it.
+
 
 ## Notes :
 
@@ -13,7 +22,6 @@ This is where I store all the concepts, and all the knowledge bricks I acquire w
 
 
 ### Raw Notes :
-Here, you can view my raw notes. Some may contain sensitive and/or controversial topics. They are meant to be re-read by myself so I can eventually elaborate them further and turn them into articles. I will be talking about every topics you can imagine, without filters. Some of them may contain, or even only contain Highlights, which could be in French.
 
 [[z:zettels?tag=raw/**&raw]]
 

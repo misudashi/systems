@@ -7,11 +7,11 @@ tags:
 - MOC: [[MOC Self Improvement]]
 - Linked Notes:
 - [Home](https://misudashi.ga/)
-- Source: [[The 4 Hours Week by Timothy Ferriss]]
+- Source: [[The 4 Hours Week]]
 ---------- 
 "Having an unusually large goal is an adrenaline infusion that provides the endurance to overcome the inevitable trials and tribulations that go along with any goal. Realistic goals, goals restricted to the average ambition level, are uninspiring and will only fuel you through the first or second problem, at which point you throw in the towel."
 
--*Timothy Ferriss* in [[The 4 Hours Week by Timothy Ferriss]].
+-*Timothy Ferriss* in [[The 4 Hours Week]].
 
 In other words, having a realistic goal won't motivate you enough, and that is precisely why you should set unrealistic goals. 
 

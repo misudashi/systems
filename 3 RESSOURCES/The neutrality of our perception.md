@@ -8,7 +8,7 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked Notes: 
 - [Home](https://misudashi.ga/)
-- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source: [[Décodez votre cerveau]]
 ----------
 Our perception is never neutral - we always try to understand something using our knowledge. We see what we learned to see, not what's in front of our eyes.
 

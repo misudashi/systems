@@ -8,7 +8,7 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked notes: [[Attention]]
 - [Home](https://misudashi.ga/)
-- Source : [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source : [[Décodez votre cerveau]]
 ----------
 "Attention is not an infinite resource. It cannot multiply, only divide. The brain can carry out several tasks at the same time, but always at the expense of the attention given to each one."
 

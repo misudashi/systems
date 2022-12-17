@@ -34,7 +34,10 @@ tags:
 - D'autres vies que la mienne - Carrère
 - Oraison funèbre de la duchesse d'Orléans - J-B Bossuet
 - Le roman de la rose - Guillaume de Lorris
-- [[Décodez votre cerveau by Yves-Alexandre Thalmann]]#
-- [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]]#
-- [[The 4 Hours Week by Timothy Ferriss]]#
-- [[Integral Vision by Ken Wilber]]#
+- Le Prince - Machiavel
+- Hard times create strong men by Stefan Aarnio
+- [[Pierre et Jean]]# - Maupassant
+- [[Décodez votre cerveau]]# - Yves-Alexandre Thalmann
+- [[Minimalisme]]# - Joshua Field Miliburn and Ryan Nicodemus
+- [[The 4 Hours Week]]# - Timothy Ferriss
+- [[Integral Vision]]# - Ken Wilber

@@ -5,7 +5,7 @@ tags:
 ---
 # What's my added value ?
 - MOC: [[MOC Notes]]
-- Linked Notes: [[Minimalisme by Joshua Field Miliburn and Ryan Nicodemus]] - [[To give is to live]] - [[Minimalism]] - [[Relationships]] - [[Philosophy]]
+- Linked Notes: [[Minimalisme]] - [[To give is to live]] - [[Minimalism]] - [[Relationships]] - [[Philosophy]]
 - [Home](https://misudashi.ga/)
 ----------
 Asking "What was your added value today ?" can be a great way to know if one is in the right path or not in a company. 

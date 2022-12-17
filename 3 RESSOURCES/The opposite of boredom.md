@@ -7,6 +7,6 @@ tags:
 - MOC: [[MOC Notes]]
 - [Home](https://misudashi.ga/)
 - Linked Notes : [[The opposite of happiness]]
-- Source: [[The 4 Hours Week by Timothy Ferriss]]
+- Source: [[The 4 Hours Week]]
 ----------
 The opposite of boredom is excitement. So excitement is happiness.

@@ -8,7 +8,7 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked Notes:
 - [Home](https://misudashi.ga/)
-- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source: [[Décodez votre cerveau]]
 ----------
 The flow (or optimal experience): our brain is entirely focusing on what we're doing, resulting in the absence of distractions, as well as the notion of time. Hobbys and tasks that require a lot of mental effort are generally good flow generators.
 

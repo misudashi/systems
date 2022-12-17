@@ -7,7 +7,7 @@ tags:
 
 Hi, I'm [[Misudashi]]#. 
 
-This website is my *Second Brain*, which contains a good part of all the knowledge I've acquired for the last few months in various topics, using **notes**.
+This is my personal website, in which I write what I learn or think.
 
 ## 📌 How it works
 
@@ -19,7 +19,7 @@ If you are here for some knowledge on a specific topic, then I would recommend u
 
 ## 📌 HUB
 
-For a better experience, I *try to* organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). They can be seen as folders, but *better*.
+For a better experience, I organize my notes in [Maps Of Content](https://justgage.github.io/moc.md). They can be seen as folders.
 
 For now, the hub points to 6 different Maps of Content:
 
@@ -32,29 +32,15 @@ For now, the hub points to 6 different Maps of Content:
 
 ## Credits
 
-I want to thank [Morg](https://morg.systems/), who is the person that made me discover Neuron and this idea of sharing my notes. 
-
-- This is possible because of [Neuron](https://neuron.zettel.page/), a powerful tool with a welcoming community.
+-  [Morg](https://morg.systems/) made me discover Neuron through his website.
+- I use [Neuron](https://neuron.zettel.page/) to change my .md files to web pages.
 - To publish my notes, I use [GH Pages](https://pages.github.com/).
 - I use [Obsidian](https://obsidian.md/) to edit them.
-- Some notes I am taking can be highlights from what I've read. I do not pretend owning any of the stuff I write here, it is simply a database of my knowledge, so feel free to re-use it.
+- **Some notes I am taking can be highlights from what I've read. I do not pretend owning any of the stuff I write here, it is simply a database of my knowledge, so feel free to re-use it.**
 
-## Quick Disclaimer:
+### Donating
 
-The Raw [[MOC Notes]]# may be messy, because they are meant to be re-read by myself so I can later turn them into permanent notes. They will often be filled with **Highlights**, which are the "interesting parts" I want to save in my memory when I read/listen to something. Thus, they can be in other languages such as French.
-
-If you feel like what I am saying in these is incorrect, feel free to send me an e-mail so I can review what I wrote and potentially reformulate/correct what is said in there. (See [[Misudashi]])
-
-Finally, as I previously said, 
-
-> I do not pretend owning any of the stuff I write here, it is simply a database of my knowledge, so feel free to re-use it.
-
-### If you would like to support me
-
-If you like what I write here, and you would like to motivate me, you can donate to [**charities that matter to me**](https://www.google.com/search?q=i+want+to+donate+money+to+help+cervix+cancer+research.&source=lmns&bih=617&biw=414&prmd=niv&sa=X&ved=2ahUKEwic-u3R-ub5AhUPixoKHV-lB44Q_AUoAHoECAAQBA&pccc=1) *(thank you !)*
-
-
-*Hope you will enjoy it.*
+I do not accept donations or sponsorships because running this website is free, and I do not own 100% of the content posted here due to Highlights.
 
 *-[[Misudashi]] - ミスダシ
 

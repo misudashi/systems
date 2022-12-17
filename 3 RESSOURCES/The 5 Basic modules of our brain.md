@@ -8,6 +8,6 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked Notes: [[Neuroplasticity]]
 - [Home](https://misudashi.ga/)
-- Source : [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source : [[Décodez votre cerveau]]
 ---------- 
 Our attention, thoughts, memory, emotions, and motivation.

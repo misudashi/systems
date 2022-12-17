@@ -8,7 +8,7 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked Notes: [[Creation of meanings to link the information to be memorized]]
 - [Home](https://misudashi.ga/)
-- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source: [[Décodez votre cerveau]]
 ---------- 
 To understand is the best way to learn. 
 See [[Creation of meanings to link the information to be memorized]].

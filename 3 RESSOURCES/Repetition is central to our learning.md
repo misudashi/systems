@@ -8,6 +8,6 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked Notes: [[The forgetting Curve]] - [[The Ebbinghaus Curve]]
 - [Home](https://misudashi.ga/)
-- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source: [[Décodez votre cerveau]]
 ---------- 
 We tend to forget information that isn't recalled after a certain amount of time. See [[The forgetting Curve]], [[The Ebbinghaus Curve]].

@@ -8,7 +8,7 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked Notes: [[Neuroplasticity]]
 - [Home](https://misudashi.ga/)
-- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source: [[Décodez votre cerveau]]
 ---------- 
 Our brain generates many thoughts that follow each other, often without in a particular order or organization. The "good ideas" and creativity are the result of this autonomous production of thoughts.
 

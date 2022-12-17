@@ -8,6 +8,6 @@ tags:
 - MOC: [[MOC The Human Brain]]
 - Linked notes: [[The best way to learn]]
 - [Home](https://misudashi.ga/)
-- Source: [[Décodez votre cerveau by Yves-Alexandre Thalmann]]
+- Source: [[Décodez votre cerveau]]
 ----------
 The memory associates informations in networks of meanings, instead of saving isolated elements, which would overload it.

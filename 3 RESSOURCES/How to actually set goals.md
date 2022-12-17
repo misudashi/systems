@@ -10,7 +10,7 @@ tags:
 ----------
 "Excitement is the more practical synonym for happiness, and it is precisely what you should strive to chase. It is the cure-all. When people suggest you follow your “passion” or your “bliss,” I propose that they are, in fact, referring to the same singular concept: excitement. This brings us full circle. The question you should be asking isn’t, “What do I want?” or “What are my goals?” but “What would excite me?”"
 
--*Timothy Ferriss* in [[The 4 Hours Week by Timothy Ferriss]].
+-*Timothy Ferriss* in [[The 4 Hours Week]].
 
 In other words, you should be aiming to achieve something exciting, because it will give you motivation.
 

@@ -7,7 +7,7 @@ tags:
 - MOC: [[MOC Notes]]
 - Linked notes: [[Challenging the Status Quo vs. Being Stupid]]
 - [Home](https://misudashi.ga/)
-- Source: [[The 4 Hours Week by Timothy Ferriss]]
+- Source: [[The 4 Hours Week]]
 ----------
 Doing like 99% of the population will only give you the results of the 99%. We want more. Therefore,
 
