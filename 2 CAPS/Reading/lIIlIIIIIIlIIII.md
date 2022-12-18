@@ -17,7 +17,6 @@ title: Reading List
 - Le pouvoir des habitudes
 - Ego is the enemy
 - Introduction à la pensée complexe
-- Atomic Habits
 - The Bezos Letters
 - Trous noirs et bébés univers - Stephen Hawking
 - Le coup de grâce - Yourcenar 
@@ -35,6 +34,7 @@ title: Reading List
 - Le roman de la rose - Guillaume de Lorris
 - Le Prince - Machiavel
 - Hard times create strong men by Stefan Aarnio
+- [[atomic-habits|Atomic Habits]]# - James Clear
 - [[pierre-et-jean]]# - Maupassant
 - [[Décodez votre cerveau]]# - Yves-Alexandre Thalmann
 - [[Minimalisme]]# - Joshua Field Miliburn and Ryan Nicodemus

@@ -8,6 +8,8 @@ title: A Brief Introduction to Degeneracy and the Beginning of Modern Dark Ages
 - Linked Notes : 
 - [Home](https://misudashi.ga/)
 ----------
+I would like to write an essay.
+
 Disclaimer: 
 	Explain how my point of view is purely personal, how I am patriotic which may have biased me in my argumentation, and how I would love to hear other people's opinions
 
