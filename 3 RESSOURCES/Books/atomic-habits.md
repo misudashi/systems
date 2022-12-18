@@ -15,3 +15,7 @@ For this book, I decided to read a few pages every day and implement what I lear
 Here are all the concepts I've learned with the book so far:
 - [[IlIIlIIllIIlIlI|The Power of Habits]]#
 - [[IIlllIIIIllllll|Small Habits compound]]#
+- [[IlllIlIIIIIIIlI|Habits can be disappointing]]#
+- [[IlIlIlIIllllIlI|Goals vs. Systems]]#
+- [[lllIlIlIlIlllll|Changing identity]]#
+- [[llllIIIllIIllll|The Three Levels of Change]]#

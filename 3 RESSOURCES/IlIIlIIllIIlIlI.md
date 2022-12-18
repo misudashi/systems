@@ -5,7 +5,8 @@ tags:
 title: The Power of Habits
 ---
 - MOC : [[notes|Notes]]
-- Linked Notes : [[atomic-habits|Atomic Habits]]
+- Linked Notes : [[IIlllIIIIllllll|Small Habits compound]]
+- Source: [[atomic-habits|Atomic Habits]]
 - [Home](https://misudashi.ga/)
 ----------
 > changes that seem small and unimportant at first will compound into remarkable results if you’re willing to stick with them for years.
