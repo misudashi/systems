@@ -19,3 +19,14 @@ Here are all the concepts I've learned with the book so far:
 - [[IlIlIlIIllllIlI|Goals vs. Systems]]#
 - [[lllIlIlIlIlllll|Changing identity]]#
 - [[llllIIIllIIllll|The Three Levels of Change]]#
+- [[llIlIIIlIIlllIl|Rewarding yourself]]#
+- [[lIIlIllIIlIIIll|The Habit Loop]]#
+- [[lllIIlIlllllIlI|The 4 Laws of Behavior Change]]#
+- [[lIllllllIIlIlIl|Habits]]#
+- [[lIlIlIIlIlIlIII|Cue]]#
+- [[llIIIIIIllIIllI|Implementation Intention]]#
+- [[lllIllIIIIIlIll|The Diderot Effect]]#
+- [[lIIllIIIIIIIlIl|Habit Stacking]]#
+- [[IIIlllIIlIlIlll|The importance of your environment]]#
+- [[IIIllIlIIlIlIll|Becoming our own environment's architect]]#
+- [[llIIIIIllIllIII|The secret of self-control]]#
