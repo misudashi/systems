@@ -22,7 +22,10 @@ Firstly, to create a Good Habit:
 
 1.4: Design your environment. Make the cues of good habits obvious and visible. ([[IIIllIlIIlIlIll|Becoming our own environment's architect]])
 
-- The 2nd law (Craving): Make it attractive.
+- The 2nd law ([[llllllllIIIIIIl|Craving]]): Make it attractive.
+1.1: Use [[IllIlllIlllIIll|Temptation Bundling]] to combine activities you want to do and the ones you need to do.
+
+1.2: You can use [[lIIllIIIIIIIlIl|Habit Stacking]] combined with [[IllIlllIlllIIll|Temptation Bundling]]
 - The 3rd law (Response): Make it easy.
 - The 4th law (Reward): Make it satisfying.
 

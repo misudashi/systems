@@ -30,3 +30,6 @@ Here are all the concepts I've learned with the book so far:
 - [[IIIlllIIlIlIlll|The importance of your environment]]#
 - [[IIIllIlIIlIlIll|Becoming our own environment's architect]]#
 - [[llIIIIIllIllIII|The secret of self-control]]#
+- [[IllIlllIlllIIll|Temptation Bundling]]#
+- [[llllIIIIlllllll|Premack's Principle]]#
+- [[llllllllIIIIIIl|Craving]]#
