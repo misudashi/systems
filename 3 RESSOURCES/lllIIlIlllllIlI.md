@@ -15,8 +15,11 @@ Firstly, to create a Good Habit:
 
 - The 1st law ([[lIlIlIIlIlIlIII|Cue]]): Make it obvious.
 1.1: Fill out the Habits Scorecard. Write down your current habits to become aware of them.
+
 1.2: Use [[llIIIIIIllIIllI|Implementation Intention]]: “I will [BEHAVIOR] at [TIME] in [LOCATION].”
+
 1.3: Use [[lIIllIIIIIIIlIl|Habit Stacking]]: “After [CURRENT HABIT], I will [NEW HABIT].”
+
 1.4: Design your environment. Make the cues of good habits obvious and visible. ([[IIIllIlIIlIlIll|Becoming our own environment's architect]])
 
 - The 2nd law (Craving): Make it attractive.
