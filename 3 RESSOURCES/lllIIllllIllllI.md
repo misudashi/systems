@@ -2,17 +2,15 @@
 date: 2022-08-01T22:00
 tags:
   - permanent
-title: Thoughts on failure
+title: Failure
 ---
 - MOC: [[self-improvement]]
-- Linked Notes: [[Philosophy]] - [[Minimalisme]]
+- Linked Notes: [[Philosophy]] - [[Minimalisme|Minimalism (French version)]]
 - [Home](https://misudashi.ga/)
 - Source:  [Redefining "Success"](https://www.beingproductive.org/2022/08/redefining-success/)
 ----------
-I think we should enjoy the process instead of the event. Every "failure" is part of the process, and we must enjoy every single one of the moments of it, even the bad ones.
+Failing is part of the process. You can't improve without failing.
 
-Joshua Field Millburn and Ryan Nicodemus shared a sentence I liked in their book on [[llIIllIlllllIII]]: [[Minimalisme]]
+> Success = Happiness + Constant Improvement
 
-"The equation of success is 
-
-**Success = Happiness + Constant Improvement**"
+Joshua Field Millburn & Ryan Nicodemus, [[Minimalisme|Minimalism (French version)]]

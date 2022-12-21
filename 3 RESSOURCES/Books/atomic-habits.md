@@ -33,3 +33,8 @@ Here are all the concepts I've learned with the book so far:
 - [[IllIlllIlllIIll|Temptation Bundling]]#
 - [[llllIIIIlllllll|Premack's Principle]]#
 - [[llllllllIIIIIIl|Craving]]#
+- [[lIIIlllIlIIlIll|Motivational Rituals]]#
+- [[IlIllIIlIlIlIlI|Making a habit unattractive]]#
+- [[lllllIIllIlllIl|Motion vs. Action]]#
+- [[IllIIIllIIllIlI|The Habit Line]]#
+- [[IIlIlIllIIlIlIl|The time it takes to build a new habit]]#
